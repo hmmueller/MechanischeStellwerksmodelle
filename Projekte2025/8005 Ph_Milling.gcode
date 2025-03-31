@@ -1,0 +1,454 @@
+%
+(PathDxf2GCode - HMMüller 2024-2025 V.2025-03-30)
+(8005 Ph.dxf)
+F150
+G17 G21 G40 G49 G54 G80 G90 G94
+T1
+(SweepSafelyTo [0.000|0.000|15.000])
+G00 Z15.000
+G00 X0.000 Y0.000
+  (Model 8005.1L[8005 Ph.dxf])
+  (SweepAndDrillSafelyFromTo [0.000|0.000|15.000] [56.000|25.000|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 15.000)
+G00 Z15.000
+G00 X56.000 Y25.000
+  (START Subpath 2052.7L[8005 Ph.dxf] t=[ [155.438|245.453]=>[56.000|25.000] / [186.438|245.453]=>[87.000|25.000] ])
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[56.000|25.000] r=1.750)
+G01 F150.000 X56.000 Y24.250
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J0.750 X56.000 Y25.750 Z1.400
+G02 F150.000 I0 J-0.750 X56.000 Y24.250 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J0.750 X56.000 Y25.750 Z0.200
+G02 F150.000 I0 J-0.750 X56.000 Y24.250 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J0.750 X56.000 Y25.750 Z-0.300
+G02 F150.000 I0 J-0.750 X56.000 Y24.250 Z-0.300
+G00 X56.000 Y25.000
+  (SweepAndDrillSafelyFromTo [56.000|25.000|-0.300] [51.500|30.500|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X51.500 Y30.500
+  (SweepAndDrillSafelyFromTo [51.500|30.500|15.000] [51.500|30.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 0.800)
+G00 Z2.000
+G01 Z0.800
+  (MillLine s=[51.500|30.500] e=[51.500|18.500] h=0.800 bt=False)
+G01 F150.000 X51.500 Y18.500 Z0.800
+  (SweepAndDrillSafelyFromTo [51.500|18.500|0.800] [51.500|18.500|1.600] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 1.600)
+G00 Z1.600
+  (MillLine s=[51.500|18.500] e=[91.500|18.500] h=1.600 bt=False)
+G01 F150.000 X91.500 Y18.500 Z1.600
+  (SweepAndDrillSafelyFromTo [91.500|18.500|1.600] [91.500|18.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.600 0.800)
+G01 Z0.800
+  (MillLine s=[91.500|18.500] e=[91.500|30.500] h=0.800 bt=False)
+G01 F150.000 X91.500 Y30.500 Z0.800
+  (SweepAndDrillSafelyFromTo [91.500|30.500|0.800] [91.500|30.500|1.600] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 1.600)
+G00 Z1.600
+  (MillLine s=[91.500|30.500] e=[52.500|30.500] h=1.600 bt=False)
+G01 F150.000 X52.500 Y30.500 Z1.600
+  (SweepAndDrillSafelyFromTo [52.500|30.500|1.600] [51.500|30.500|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.600 15.000)
+G00 Z15.000
+G00 X51.500 Y30.500
+    (DrillOrPullZFromTo 15.000 -0.300)
+G00 Z2.000
+G01 Z-0.300
+  (MillLine s=[51.500|30.500] e=[51.500|18.500] h=-0.300 bt=False)
+G01 F150.000 X51.500 Y18.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [51.500|18.500|-0.300] [91.500|18.500|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X91.500 Y18.500
+    (DrillOrPullZFromTo 15.000 -0.300)
+G00 Z2.000
+G01 Z-0.300
+  (MillLine s=[91.500|18.500] e=[91.500|30.500] h=-0.300 bt=False)
+G01 F150.000 X91.500 Y30.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [91.500|30.500|-0.300] [52.500|30.500|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X52.500 Y30.500
+  (SweepAndDrillSafelyFromTo [52.500|30.500|15.000] [68.847|26.470|15.000] s=15.000 bt=False)
+G00 X68.847 Y26.470
+  (SweepAndDrillSafelyFromTo [68.847|26.470|15.000] [68.847|26.470|1.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 1.000)
+G00 Z2.000
+G01 Z1.000
+  (MillArc l=[68.500|24.500] r=2.000 a0=80.000 a1=280.000 h=1.000 p0=[68.847|26.470] p1=[68.847|22.530] bt=False)
+G03 F150.000 I-0.347 J-1.970 X68.847 Y22.530 Z1.000
+  (SweepAndDrillSafelyFromTo [68.847|22.530|1.000] [68.847|22.530|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.000 15.000)
+G00 Z15.000
+  (SweepAndDrillSafelyFromTo [68.847|22.530|15.000] [68.500|24.500|15.000] s=15.000 bt=False)
+G00 X68.500 Y24.500
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[68.500|24.500] r=2.250)
+G01 F150.000 X68.500 Y23.250
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J1.250 X68.500 Y25.750 Z1.400
+G02 F150.000 I0 J-1.250 X68.500 Y23.250 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J1.250 X68.500 Y25.750 Z0.200
+G02 F150.000 I0 J-1.250 X68.500 Y23.250 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J1.250 X68.500 Y25.750 Z-0.300
+G02 F150.000 I0 J-1.250 X68.500 Y23.250 Z-0.300
+G00 Z15.000
+G00 X68.500 Y24.500
+  (SweepAndDrillSafelyFromTo [68.500|24.500|15.000] [68.500|24.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 0.800)
+G00 Z2.000
+G01 Z0.800
+  (MillLine s=[68.500|24.500] e=[70.187|24.750] h=0.800 bt=False)
+G01 F150.000 X70.187 Y24.750 Z0.800
+  (SweepAndDrillSafelyFromTo [70.187|24.750|0.800] [70.187|24.750|0.800] s=15.000 bt=False)
+  (MillLine s=[70.187|24.750] e=[77.500|24.750] h=0.800 bt=False)
+G01 F150.000 X77.500 Y24.750 Z0.800
+  (SweepAndDrillSafelyFromTo [77.500|24.750|0.800] [77.500|24.750|0.800] s=15.000 bt=False)
+  (MillArc l=[77.500|24.500] r=0.250 a0=90.000 a1=270.000 h=0.800 p0=[77.500|24.750] p1=[77.500|24.250] bt=False)
+G02 F150.000 I0.000 J-0.250 X77.500 Y24.250 Z0.800
+  (SweepAndDrillSafelyFromTo [77.500|24.250|0.800] [77.500|24.250|0.800] s=15.000 bt=False)
+  (MillLine s=[77.500|24.250] e=[70.187|24.250] h=0.800 bt=False)
+G01 F150.000 X70.187 Y24.250 Z0.800
+  (SweepAndDrillSafelyFromTo [70.187|24.250|0.800] [70.187|24.250|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 -0.300)
+G01 Z-0.300
+  (MillLine s=[70.187|24.250] e=[77.500|24.250] h=-0.300 bt=False)
+G01 F150.000 X77.500 Y24.250 Z-0.300
+  (SweepAndDrillSafelyFromTo [77.500|24.250|-0.300] [77.500|24.250|-0.300] s=15.000 bt=False)
+  (MillArc l=[77.500|24.500] r=0.250 a0=270.000 a1=90.000 h=-0.300 p0=[77.500|24.250] p1=[77.500|24.750] bt=False)
+G03 F150.000 I0.000 J0.250 X77.500 Y24.750 Z-0.300
+  (SweepAndDrillSafelyFromTo [77.500|24.750|-0.300] [77.500|24.750|-0.300] s=15.000 bt=False)
+  (MillLine s=[77.500|24.750] e=[70.187|24.750] h=-0.300 bt=False)
+G01 F150.000 X70.187 Y24.750 Z-0.300
+  (SweepAndDrillSafelyFromTo [70.187|24.750|-0.300] [70.187|24.750|-0.300] s=15.000 bt=False)
+  (MillLine s=[70.187|24.750] e=[68.500|24.500] h=-0.300 bt=False)
+G01 F150.000 X68.500 Y24.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [68.500|24.500|-0.300] [70.187|24.250|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X70.187 Y24.250
+  (SweepAndDrillSafelyFromTo [70.187|24.250|15.000] [87.000|25.000|15.000] s=15.000 bt=False)
+G00 X87.000 Y25.000
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[87.000|25.000] r=1.750)
+G01 F150.000 X87.000 Y24.250
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J0.750 X87.000 Y25.750 Z1.400
+G02 F150.000 I0 J-0.750 X87.000 Y24.250 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J0.750 X87.000 Y25.750 Z0.200
+G02 F150.000 I0 J-0.750 X87.000 Y24.250 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J0.750 X87.000 Y25.750 Z-0.300
+G02 F150.000 I0 J-0.750 X87.000 Y24.250 Z-0.300
+G00 X87.000 Y25.000
+  (END Subpath 2052.7L[8005 Ph.dxf] t=[ [155.438|245.453]=>[56.000|25.000] / [186.438|245.453]=>[87.000|25.000] ])
+  (SweepAndDrillSafelyFromTo [87.000|25.000|-0.300] [56.000|13.000|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X56.000 Y13.000
+  (START Subpath 2052.7L[8005 Ph.dxf] t=[ [155.438|245.453]=>[56.000|13.000] / [186.438|245.453]=>[87.000|13.000] ])
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[56.000|13.000] r=1.750)
+G01 F150.000 X56.000 Y12.250
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J0.750 X56.000 Y13.750 Z1.400
+G02 F150.000 I0 J-0.750 X56.000 Y12.250 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J0.750 X56.000 Y13.750 Z0.200
+G02 F150.000 I0 J-0.750 X56.000 Y12.250 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J0.750 X56.000 Y13.750 Z-0.300
+G02 F150.000 I0 J-0.750 X56.000 Y12.250 Z-0.300
+G00 X56.000 Y13.000
+  (SweepAndDrillSafelyFromTo [56.000|13.000|-0.300] [51.500|18.500|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X51.500 Y18.500
+  (SweepAndDrillSafelyFromTo [51.500|18.500|15.000] [51.500|18.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 0.800)
+G00 Z2.000
+G01 Z0.800
+  (MillLine s=[51.500|18.500] e=[51.500|6.500] h=0.800 bt=False)
+G01 F150.000 X51.500 Y6.500 Z0.800
+  (SweepAndDrillSafelyFromTo [51.500|6.500|0.800] [51.500|6.500|1.600] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 1.600)
+G00 Z1.600
+  (MillLine s=[51.500|6.500] e=[91.500|6.500] h=1.600 bt=False)
+G01 F150.000 X91.500 Y6.500 Z1.600
+  (SweepAndDrillSafelyFromTo [91.500|6.500|1.600] [91.500|6.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.600 0.800)
+G01 Z0.800
+  (MillLine s=[91.500|6.500] e=[91.500|18.500] h=0.800 bt=False)
+G01 F150.000 X91.500 Y18.500 Z0.800
+  (SweepAndDrillSafelyFromTo [91.500|18.500|0.800] [91.500|18.500|1.600] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 1.600)
+G00 Z1.600
+  (MillLine s=[91.500|18.500] e=[52.500|18.500] h=1.600 bt=False)
+G01 F150.000 X52.500 Y18.500 Z1.600
+  (SweepAndDrillSafelyFromTo [52.500|18.500|1.600] [51.500|18.500|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.600 15.000)
+G00 Z15.000
+G00 X51.500 Y18.500
+    (DrillOrPullZFromTo 15.000 -0.300)
+G00 Z2.000
+G01 Z-0.300
+  (MillLine s=[51.500|18.500] e=[51.500|6.500] h=-0.300 bt=False)
+G01 F150.000 X51.500 Y6.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [51.500|6.500|-0.300] [91.500|6.500|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X91.500 Y6.500
+    (DrillOrPullZFromTo 15.000 -0.300)
+G00 Z2.000
+G01 Z-0.300
+  (MillLine s=[91.500|6.500] e=[91.500|18.500] h=-0.300 bt=False)
+G01 F150.000 X91.500 Y18.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [91.500|18.500|-0.300] [52.500|18.500|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X52.500 Y18.500
+  (SweepAndDrillSafelyFromTo [52.500|18.500|15.000] [68.847|14.470|15.000] s=15.000 bt=False)
+G00 X68.847 Y14.470
+  (SweepAndDrillSafelyFromTo [68.847|14.470|15.000] [68.847|14.470|1.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 1.000)
+G00 Z2.000
+G01 Z1.000
+  (MillArc l=[68.500|12.500] r=2.000 a0=80.000 a1=280.000 h=1.000 p0=[68.847|14.470] p1=[68.847|10.530] bt=False)
+G03 F150.000 I-0.347 J-1.970 X68.847 Y10.530 Z1.000
+  (SweepAndDrillSafelyFromTo [68.847|10.530|1.000] [68.847|10.530|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.000 15.000)
+G00 Z15.000
+  (SweepAndDrillSafelyFromTo [68.847|10.530|15.000] [68.500|12.500|15.000] s=15.000 bt=False)
+G00 X68.500 Y12.500
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[68.500|12.500] r=2.250)
+G01 F150.000 X68.500 Y11.250
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J1.250 X68.500 Y13.750 Z1.400
+G02 F150.000 I0 J-1.250 X68.500 Y11.250 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J1.250 X68.500 Y13.750 Z0.200
+G02 F150.000 I0 J-1.250 X68.500 Y11.250 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J1.250 X68.500 Y13.750 Z-0.300
+G02 F150.000 I0 J-1.250 X68.500 Y11.250 Z-0.300
+G00 Z15.000
+G00 X68.500 Y12.500
+  (SweepAndDrillSafelyFromTo [68.500|12.500|15.000] [68.500|12.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 0.800)
+G00 Z2.000
+G01 Z0.800
+  (MillLine s=[68.500|12.500] e=[70.187|12.750] h=0.800 bt=False)
+G01 F150.000 X70.187 Y12.750 Z0.800
+  (SweepAndDrillSafelyFromTo [70.187|12.750|0.800] [70.187|12.750|0.800] s=15.000 bt=False)
+  (MillLine s=[70.187|12.750] e=[77.500|12.750] h=0.800 bt=False)
+G01 F150.000 X77.500 Y12.750 Z0.800
+  (SweepAndDrillSafelyFromTo [77.500|12.750|0.800] [77.500|12.750|0.800] s=15.000 bt=False)
+  (MillArc l=[77.500|12.500] r=0.250 a0=90.000 a1=270.000 h=0.800 p0=[77.500|12.750] p1=[77.500|12.250] bt=False)
+G02 F150.000 I0.000 J-0.250 X77.500 Y12.250 Z0.800
+  (SweepAndDrillSafelyFromTo [77.500|12.250|0.800] [77.500|12.250|0.800] s=15.000 bt=False)
+  (MillLine s=[77.500|12.250] e=[70.187|12.250] h=0.800 bt=False)
+G01 F150.000 X70.187 Y12.250 Z0.800
+  (SweepAndDrillSafelyFromTo [70.187|12.250|0.800] [70.187|12.250|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 -0.300)
+G01 Z-0.300
+  (MillLine s=[70.187|12.250] e=[77.500|12.250] h=-0.300 bt=False)
+G01 F150.000 X77.500 Y12.250 Z-0.300
+  (SweepAndDrillSafelyFromTo [77.500|12.250|-0.300] [77.500|12.250|-0.300] s=15.000 bt=False)
+  (MillArc l=[77.500|12.500] r=0.250 a0=270.000 a1=90.000 h=-0.300 p0=[77.500|12.250] p1=[77.500|12.750] bt=False)
+G03 F150.000 I0.000 J0.250 X77.500 Y12.750 Z-0.300
+  (SweepAndDrillSafelyFromTo [77.500|12.750|-0.300] [77.500|12.750|-0.300] s=15.000 bt=False)
+  (MillLine s=[77.500|12.750] e=[70.187|12.750] h=-0.300 bt=False)
+G01 F150.000 X70.187 Y12.750 Z-0.300
+  (SweepAndDrillSafelyFromTo [70.187|12.750|-0.300] [70.187|12.750|-0.300] s=15.000 bt=False)
+  (MillLine s=[70.187|12.750] e=[68.500|12.500] h=-0.300 bt=False)
+G01 F150.000 X68.500 Y12.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [68.500|12.500|-0.300] [70.187|12.250|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X70.187 Y12.250
+  (SweepAndDrillSafelyFromTo [70.187|12.250|15.000] [87.000|13.000|15.000] s=15.000 bt=False)
+G00 X87.000 Y13.000
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[87.000|13.000] r=1.750)
+G01 F150.000 X87.000 Y12.250
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J0.750 X87.000 Y13.750 Z1.400
+G02 F150.000 I0 J-0.750 X87.000 Y12.250 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J0.750 X87.000 Y13.750 Z0.200
+G02 F150.000 I0 J-0.750 X87.000 Y12.250 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J0.750 X87.000 Y13.750 Z-0.300
+G02 F150.000 I0 J-0.750 X87.000 Y12.250 Z-0.300
+G00 X87.000 Y13.000
+  (END Subpath 2052.7L[8005 Ph.dxf] t=[ [155.438|245.453]=>[56.000|13.000] / [186.438|245.453]=>[87.000|13.000] ])
+  (SweepAndDrillSafelyFromTo [87.000|13.000|-0.300] [56.000|1.000|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X56.000 Y1.000
+  (START Subpath 2052.7L[8005 Ph.dxf] t=[ [155.438|245.453]=>[56.000|1.000] / [186.438|245.453]=>[87.000|1.000] ])
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[56.000|1.000] r=1.750)
+G01 F150.000 X56.000 Y0.250
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J0.750 X56.000 Y1.750 Z1.400
+G02 F150.000 I0 J-0.750 X56.000 Y0.250 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J0.750 X56.000 Y1.750 Z0.200
+G02 F150.000 I0 J-0.750 X56.000 Y0.250 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J0.750 X56.000 Y1.750 Z-0.300
+G02 F150.000 I0 J-0.750 X56.000 Y0.250 Z-0.300
+G00 X56.000 Y1.000
+  (SweepAndDrillSafelyFromTo [56.000|1.000|-0.300] [51.500|6.500|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X51.500 Y6.500
+  (SweepAndDrillSafelyFromTo [51.500|6.500|15.000] [51.500|6.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 0.800)
+G00 Z2.000
+G01 Z0.800
+  (MillLine s=[51.500|6.500] e=[51.500|-5.500] h=0.800 bt=False)
+G01 F150.000 X51.500 Y-5.500 Z0.800
+  (SweepAndDrillSafelyFromTo [51.500|-5.500|0.800] [51.500|-5.500|1.600] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 1.600)
+G00 Z1.600
+  (MillLine s=[51.500|-5.500] e=[91.500|-5.500] h=1.600 bt=False)
+G01 F150.000 X91.500 Y-5.500 Z1.600
+  (SweepAndDrillSafelyFromTo [91.500|-5.500|1.600] [91.500|-5.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.600 0.800)
+G01 Z0.800
+  (MillLine s=[91.500|-5.500] e=[91.500|6.500] h=0.800 bt=False)
+G01 F150.000 X91.500 Y6.500 Z0.800
+  (SweepAndDrillSafelyFromTo [91.500|6.500|0.800] [91.500|6.500|1.600] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 1.600)
+G00 Z1.600
+  (MillLine s=[91.500|6.500] e=[52.500|6.500] h=1.600 bt=False)
+G01 F150.000 X52.500 Y6.500 Z1.600
+  (SweepAndDrillSafelyFromTo [52.500|6.500|1.600] [51.500|6.500|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.600 15.000)
+G00 Z15.000
+G00 X51.500 Y6.500
+    (DrillOrPullZFromTo 15.000 -0.300)
+G00 Z2.000
+G01 Z-0.300
+  (MillLine s=[51.500|6.500] e=[51.500|-5.500] h=-0.300 bt=False)
+G01 F150.000 X51.500 Y-5.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [51.500|-5.500|-0.300] [91.500|-5.500|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X91.500 Y-5.500
+    (DrillOrPullZFromTo 15.000 -0.300)
+G00 Z2.000
+G01 Z-0.300
+  (MillLine s=[91.500|-5.500] e=[91.500|6.500] h=-0.300 bt=False)
+G01 F150.000 X91.500 Y6.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [91.500|6.500|-0.300] [52.500|6.500|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X52.500 Y6.500
+  (SweepAndDrillSafelyFromTo [52.500|6.500|15.000] [68.847|2.470|15.000] s=15.000 bt=False)
+G00 X68.847 Y2.470
+  (SweepAndDrillSafelyFromTo [68.847|2.470|15.000] [68.847|2.470|1.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 1.000)
+G00 Z2.000
+G01 Z1.000
+  (MillArc l=[68.500|0.500] r=2.000 a0=80.000 a1=280.000 h=1.000 p0=[68.847|2.470] p1=[68.847|-1.470] bt=False)
+G03 F150.000 I-0.347 J-1.970 X68.847 Y-1.470 Z1.000
+  (SweepAndDrillSafelyFromTo [68.847|-1.470|1.000] [68.847|-1.470|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo 1.000 15.000)
+G00 Z15.000
+  (SweepAndDrillSafelyFromTo [68.847|-1.470|15.000] [68.500|0.500|15.000] s=15.000 bt=False)
+G00 X68.500 Y0.500
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[68.500|0.500] r=2.250)
+G01 F150.000 X68.500 Y-0.750
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J1.250 X68.500 Y1.750 Z1.400
+G02 F150.000 I0 J-1.250 X68.500 Y-0.750 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J1.250 X68.500 Y1.750 Z0.200
+G02 F150.000 I0 J-1.250 X68.500 Y-0.750 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J1.250 X68.500 Y1.750 Z-0.300
+G02 F150.000 I0 J-1.250 X68.500 Y-0.750 Z-0.300
+G00 Z15.000
+G00 X68.500 Y0.500
+  (SweepAndDrillSafelyFromTo [68.500|0.500|15.000] [68.500|0.500|0.800] s=15.000 bt=False)
+    (DrillOrPullZFromTo 15.000 0.800)
+G00 Z2.000
+G01 Z0.800
+  (MillLine s=[68.500|0.500] e=[70.187|0.750] h=0.800 bt=False)
+G01 F150.000 X70.187 Y0.750 Z0.800
+  (SweepAndDrillSafelyFromTo [70.187|0.750|0.800] [70.187|0.750|0.800] s=15.000 bt=False)
+  (MillLine s=[70.187|0.750] e=[77.500|0.750] h=0.800 bt=False)
+G01 F150.000 X77.500 Y0.750 Z0.800
+  (SweepAndDrillSafelyFromTo [77.500|0.750|0.800] [77.500|0.750|0.800] s=15.000 bt=False)
+  (MillArc l=[77.500|0.500] r=0.250 a0=90.000 a1=270.000 h=0.800 p0=[77.500|0.750] p1=[77.500|0.250] bt=False)
+G02 F150.000 I0.000 J-0.250 X77.500 Y0.250 Z0.800
+  (SweepAndDrillSafelyFromTo [77.500|0.250|0.800] [77.500|0.250|0.800] s=15.000 bt=False)
+  (MillLine s=[77.500|0.250] e=[70.187|0.250] h=0.800 bt=False)
+G01 F150.000 X70.187 Y0.250 Z0.800
+  (SweepAndDrillSafelyFromTo [70.187|0.250|0.800] [70.187|0.250|-0.300] s=15.000 bt=False)
+    (DrillOrPullZFromTo 0.800 -0.300)
+G01 Z-0.300
+  (MillLine s=[70.187|0.250] e=[77.500|0.250] h=-0.300 bt=False)
+G01 F150.000 X77.500 Y0.250 Z-0.300
+  (SweepAndDrillSafelyFromTo [77.500|0.250|-0.300] [77.500|0.250|-0.300] s=15.000 bt=False)
+  (MillArc l=[77.500|0.500] r=0.250 a0=270.000 a1=90.000 h=-0.300 p0=[77.500|0.250] p1=[77.500|0.750] bt=False)
+G03 F150.000 I0.000 J0.250 X77.500 Y0.750 Z-0.300
+  (SweepAndDrillSafelyFromTo [77.500|0.750|-0.300] [77.500|0.750|-0.300] s=15.000 bt=False)
+  (MillLine s=[77.500|0.750] e=[70.187|0.750] h=-0.300 bt=False)
+G01 F150.000 X70.187 Y0.750 Z-0.300
+  (SweepAndDrillSafelyFromTo [70.187|0.750|-0.300] [70.187|0.750|-0.300] s=15.000 bt=False)
+  (MillLine s=[70.187|0.750] e=[68.500|0.500] h=-0.300 bt=False)
+G01 F150.000 X68.500 Y0.500 Z-0.300
+  (SweepAndDrillSafelyFromTo [68.500|0.500|-0.300] [70.187|0.250|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X70.187 Y0.250
+  (SweepAndDrillSafelyFromTo [70.187|0.250|15.000] [87.000|1.000|15.000] s=15.000 bt=False)
+G00 X87.000 Y1.000
+    (DrillOrPullZFromTo 15.000 2.000)
+G00 Z2.000
+  (MillHelix l=[87.000|1.000] r=1.750)
+G01 F150.000 X87.000 Y0.250
+    (MillSemiCircle l=2.000)
+G02 F150.000 I0 J0.750 X87.000 Y1.750 Z1.400
+G02 F150.000 I0 J-0.750 X87.000 Y0.250 Z0.800
+    (MillSemiCircle l=0.800)
+G02 F150.000 I0 J0.750 X87.000 Y1.750 Z0.200
+G02 F150.000 I0 J-0.750 X87.000 Y0.250 Z-0.300
+    (MillSemiCircle l=-0.400)
+G02 F150.000 I0 J0.750 X87.000 Y1.750 Z-0.300
+G02 F150.000 I0 J-0.750 X87.000 Y0.250 Z-0.300
+G00 X87.000 Y1.000
+  (END Subpath 2052.7L[8005 Ph.dxf] t=[ [155.438|245.453]=>[56.000|1.000] / [186.438|245.453]=>[87.000|1.000] ])
+  (SweepAndDrillSafelyFromTo [87.000|1.000|-0.300] [0.000|5.000|15.000] s=15.000 bt=False)
+    (DrillOrPullZFromTo -0.300 15.000)
+G00 Z15.000
+G00 X0.000 Y5.000
+G00 Z15.000
+  (Fräslänge:     668 mm   ca.  7 min)
+  (Bohrungen:      34 mm   ca.  1 min)
+  (Leerfahrten:  1319 mm   ca.  2 min)
+  (Summe:        2022 mm   ca.  9 min)
+  (Befehlszahl: 222)
+M30
+%
