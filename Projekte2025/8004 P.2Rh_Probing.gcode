@@ -1,6 +1,6 @@
 %
 (PathDxf2GCode - HMMüller 2024-2025 V.2025-03-31)
-(8004 P.2Rh.dxf)
+(8004 P.2rh.dxf)
 F150
 G17 G21 G40 G49 G54 G80 G90 G94
 T1
