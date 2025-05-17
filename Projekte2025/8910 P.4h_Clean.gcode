@@ -1,5 +1,5 @@
 %
-(PathDxf2GCode - HMMüller 2024-2025 V.2025-03-31)
+(PathDxf2GCode - HMMüller 2024-2025 V.2025-05-02)
 (8910 P.4h.dxf)
 F150
 G17 G21 G40 G49 G54 G80 G90 G94
@@ -59,8 +59,8 @@ G00 X0.000 Y5.000
 G00 Z15.000
   (Fräslänge:      86 mm   ca.  1 min)
   (Bohrungen:       4 mm   ca.  1 min)
-  (Leerfahrten:   311 mm   ca.  1 min)
-  (Summe:         401 mm   ca.  2 min)
+  (Leerfahrten:   301 mm   ca.  1 min)
+  (Summe:         391 mm   ca.  2 min)
   (Befehlszahl: 20)
 M30
 %
