@@ -1,5 +1,5 @@
 %
-(PathDxf2GCode - HMMüller 2024-2025 V.2025-06-14)
+(PathDxf2GCode - HMMüller 2024-2025 V.2025-09-02)
 (2208 S.2Rh Hebelbock Gr.oben.dxf)
 F150
 G17 G21 G40 G49 G54 G80 G90 G94
