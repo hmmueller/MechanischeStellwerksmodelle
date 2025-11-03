@@ -1,11 +1,13 @@
-# MechanischeStellwerksmodelle
+# Mechanische Stellwerksmodelle
 
 Pläne für nachempfundene Mechaniken von Stellwerken
 
+* Die CAD-Dateien (.MOD-Dateien) sind mit BeckerCAD 11 2D gezeichnet.
 * Die CNC-Pfad-Zeichnungen (P-, S- und V-Blätter) sind Input für den [PathDxf2GCode-Generator](https://github.com/hmmueller/PathDxf2GCode).
 
 Plans for functional models of mechanical railway interlockings
 
+* The CAD files (.MOD files) are created with BeckerCAD 11 2D.
 * The CNC path drawings (P, S and V files) are input for the gcode generator [PathDxf2GCode](https://github.com/hmmueller/PathDxf2GCode).
 
 
