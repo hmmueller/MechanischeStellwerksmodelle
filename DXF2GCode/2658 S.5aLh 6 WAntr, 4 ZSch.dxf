@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-34D
+34F
   9
 $SURFTAB1
  70
@@ -1277,9 +1277,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-254.8893890381
+297.0
  22
-226.3671724138
+210.0
  13
 0.0
  23
@@ -1305,7 +1305,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-511.2937342403
+462.5887784689
  41
 1.0
  42
@@ -5679,7 +5679,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D527446272
+D206677760
 340
 0
 102
@@ -5697,7 +5697,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D527446528
+D206677504
 340
 0
 102
@@ -5715,7 +5715,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D527446784
+D206677248
 340
 0
 102
@@ -5825,7 +5825,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D527446272
+D206677760
  70
          0
  10
@@ -5835,7 +5835,7 @@ D527446272
  30
 0.0
   3
-D527446272
+D206677760
   1
 
   0
@@ -6107,7 +6107,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D527446528
+D206677504
  70
          0
  10
@@ -6117,7 +6117,7 @@ D527446528
  30
 0.0
   3
-D527446528
+D206677504
   1
 
   0
@@ -6389,7 +6389,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D527446784
+D206677248
  70
          0
  10
@@ -6399,7 +6399,7 @@ D527446784
  30
 0.0
   3
-D527446784
+D206677248
   1
 
   0
@@ -10007,7 +10007,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D527446272
+D206677760
  10
 0.0
  20
@@ -10411,7 +10411,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D527446528
+D206677504
  10
 0.0
  20
@@ -10431,7 +10431,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D527446784
+D206677248
  10
 0.0
  20
@@ -15447,9 +15447,9 @@ AcDbText
  40
 6.6
   1
-2026-02-03
+2026-02-09
  41
-1.135137385
+1.1351373056
   7
 Arial
  11
@@ -15509,7 +15509,7 @@ AcDbEntity
 390
 0
   6
-PHANTOM
+DASHDOT
 100
 AcDbMText
  10
@@ -15591,40 +15591,6 @@ AcDbEntity
 100
 AcDbMText
  10
--68.9918506237
- 20
-239.1760191416
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.5L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-256
-100
-AcDbEntity
-  8
-2654___ W-_ GSP-_ SIGNAL-ANTRIEB
-390
-0
-100
-AcDbMText
- 10
 -41.8948877488
  20
 145.8229358132
@@ -15649,7 +15615,7 @@ Arial
   0
 MTEXT
   5
-257
+256
 100
 AcDbEntity
   8
@@ -15683,63 +15649,7 @@ Arial
   0
 ARC
   5
-258
-100
-AcDbEntity
-  8
-2654___ W-_ GSP-_ SIGNAL-ANTRIEB
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
--56.1831061437
- 20
-237.4576742566
- 30
-0.0
- 40
-11.9432450451
-100
-AcDbArc
- 50
-131.099943452
- 51
-228.900056548
-  0
-ARC
-  5
-259
-100
-AcDbEntity
-  8
-2654___ W-_ GSP-_ SIGNAL-ANTRIEB
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
--54.8745753496
- 20
-203.9152053811
- 30
-0.0
- 40
-13.933785886
-100
-AcDbArc
- 50
-131.0999434524
- 51
-228.9000565483
-  0
-ARC
-  5
-25A
+257
 100
 AcDbEntity
   8
@@ -15767,7 +15677,7 @@ AcDbArc
   0
 ARC
   5
-25B
+258
 100
 AcDbEntity
   8
@@ -15795,7 +15705,7 @@ AcDbArc
   0
 ARC
   5
-25C
+259
 100
 AcDbEntity
   8
@@ -15823,7 +15733,7 @@ AcDbArc
   0
 ARC
   5
-25D
+25A
 100
 AcDbEntity
   8
@@ -15851,7 +15761,7 @@ AcDbArc
   0
 ARC
   5
-25E
+25B
 100
 AcDbEntity
   8
@@ -15879,7 +15789,7 @@ AcDbArc
   0
 ARC
   5
-25F
+25C
 100
 AcDbEntity
   8
@@ -15907,7 +15817,7 @@ AcDbArc
   0
 ARC
   5
-260
+25D
 100
 AcDbEntity
   8
@@ -15935,7 +15845,7 @@ AcDbArc
   0
 ARC
   5
-261
+25E
 100
 AcDbEntity
   8
@@ -15963,7 +15873,7 @@ AcDbArc
   0
 MTEXT
   5
-262
+25F
 100
 AcDbEntity
   8
@@ -15997,7 +15907,7 @@ Arial
   0
 MTEXT
   5
-263
+260
 100
 AcDbEntity
   8
@@ -16031,41 +15941,7 @@ Arial
   0
 MTEXT
   5
-264
-100
-AcDbEntity
-  8
-2654___ W-_ GSP-_ SIGNAL-ANTRIEB
-390
-0
-100
-AcDbMText
- 10
--68.9918506237
- 20
-207.1335502661
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.7L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-265
+261
 100
 AcDbEntity
   8
@@ -16099,7 +15975,7 @@ Arial
   0
 MTEXT
   5
-266
+262
 100
 AcDbEntity
   8
@@ -16133,7 +16009,7 @@ Arial
   0
 MTEXT
   5
-267
+263
 100
 AcDbEntity
   8
@@ -16167,7 +16043,7 @@ Arial
   0
 MTEXT
   5
-268
+264
 100
 AcDbEntity
   8
@@ -16201,13 +16077,15 @@ Arial
   0
 MTEXT
   5
-269
+265
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16235,7 +16113,7 @@ Arial
   0
 ARC
   5
-26A
+266
 100
 AcDbEntity
   8
@@ -16243,7 +16121,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16263,13 +16141,15 @@ AcDbArc
   0
 MTEXT
   5
-26B
+267
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16297,7 +16177,7 @@ Arial
   0
 ARC
   5
-26C
+268
 100
 AcDbEntity
   8
@@ -16305,7 +16185,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16325,7 +16205,7 @@ AcDbArc
   0
 ARC
   5
-26D
+269
 100
 AcDbEntity
   8
@@ -16333,133 +16213,7 @@ AcDbEntity
 390
 0
   6
-DOT
-100
-AcDbCircle
- 10
-138.7994490611
- 20
-246.6654392457
- 30
-0.0
- 40
-11.9432450451
-100
-AcDbArc
- 50
-131.099943452
- 51
-228.900056548
-  0
-MTEXT
-  5
-26E
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-125.9907045811
- 20
-248.3837841307
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.5L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-26F
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbMText
- 10
-125.9907045811
- 20
-230.3837841307
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.7L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-ARC
-  5
-270
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbCircle
- 10
-140.1079798552
- 20
-227.1654392458
- 30
-0.0
- 40
-13.933785886
-100
-AcDbArc
- 50
-131.0999434524
- 51
-228.9000565483
-  0
-ARC
-  5
-271
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16479,13 +16233,15 @@ AcDbArc
   0
 MTEXT
   5
-272
+26A
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16513,7 +16269,7 @@ Arial
   0
 ARC
   5
-273
+26B
 100
 AcDbEntity
   8
@@ -16521,7 +16277,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16541,13 +16297,15 @@ AcDbArc
   0
 MTEXT
   5
-274
+26C
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16575,7 +16333,7 @@ Arial
   0
 ARC
   5
-275
+26D
 100
 AcDbEntity
   8
@@ -16583,7 +16341,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16603,13 +16361,15 @@ AcDbArc
   0
 MTEXT
   5
-276
+26E
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16637,7 +16397,7 @@ Arial
   0
 CIRCLE
   5
-277
+26F
 100
 AcDbEntity
   8
@@ -16645,7 +16405,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16659,7 +16419,7 @@ AcDbCircle
   0
 CIRCLE
   5
-278
+270
 100
 AcDbEntity
   8
@@ -16667,7 +16427,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16681,7 +16441,7 @@ AcDbCircle
   0
 CIRCLE
   5
-279
+271
 100
 AcDbEntity
   8
@@ -16689,7 +16449,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16703,7 +16463,7 @@ AcDbCircle
   0
 TEXT
   5
-27A
+272
 100
 AcDbEntity
   8
@@ -16711,7 +16471,7 @@ AcDbEntity
 390
 0
   6
-PHANTOM
+DASHDOT
 100
 AcDbText
  10
@@ -16743,13 +16503,15 @@ AcDbText
   0
 MTEXT
   5
-27B
+273
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16777,7 +16539,7 @@ Arial
   0
 ARC
   5
-27C
+274
 100
 AcDbEntity
   8
@@ -16785,7 +16547,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16805,13 +16567,15 @@ AcDbArc
   0
 MTEXT
   5
-27D
+275
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16839,13 +16603,15 @@ Arial
   0
 MTEXT
   5
-27E
+276
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16873,7 +16639,7 @@ Arial
   0
 ARC
   5
-27F
+277
 100
 AcDbEntity
   8
@@ -16881,7 +16647,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16901,7 +16667,7 @@ AcDbArc
   0
 ARC
   5
-280
+278
 100
 AcDbEntity
   8
@@ -16909,7 +16675,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -16929,13 +16695,15 @@ AcDbArc
   0
 MTEXT
   5
-281
+279
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16963,13 +16731,15 @@ Arial
   0
 MTEXT
   5
-282
+27A
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -16997,7 +16767,7 @@ Arial
   0
 ARC
   5
-283
+27B
 100
 AcDbEntity
   8
@@ -17005,7 +16775,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17025,7 +16795,7 @@ AcDbArc
   0
 ARC
   5
-284
+27C
 100
 AcDbEntity
   8
@@ -17033,7 +16803,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17053,7 +16823,7 @@ AcDbArc
   0
 LINE
   5
-285
+27D
 100
 AcDbEntity
   8
@@ -17079,7 +16849,7 @@ AcDbLine
   0
 LINE
   5
-286
+27E
 100
 AcDbEntity
   8
@@ -17105,13 +16875,15 @@ AcDbLine
   0
 MTEXT
   5
-287
+27F
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -17139,7 +16911,7 @@ Arial
   0
 ARC
   5
-288
+280
 100
 AcDbEntity
   8
@@ -17147,7 +16919,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17167,13 +16939,15 @@ AcDbArc
   0
 MTEXT
   5
-289
+281
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -17201,7 +16975,7 @@ Arial
   0
 ARC
   5
-28A
+282
 100
 AcDbEntity
   8
@@ -17209,7 +16983,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17229,13 +17003,15 @@ AcDbArc
   0
 MTEXT
   5
-28B
+283
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -17263,7 +17039,7 @@ Arial
   0
 ARC
   5
-28C
+284
 100
 AcDbEntity
   8
@@ -17271,7 +17047,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17291,13 +17067,15 @@ AcDbArc
   0
 MTEXT
   5
-28D
+285
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -17325,13 +17103,15 @@ Arial
   0
 MTEXT
   5
-28E
+286
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -17359,7 +17139,7 @@ Arial
   0
 ARC
   5
-28F
+287
 100
 AcDbEntity
   8
@@ -17367,7 +17147,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17387,7 +17167,7 @@ AcDbArc
   0
 ARC
   5
-290
+288
 100
 AcDbEntity
   8
@@ -17395,7 +17175,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17415,13 +17195,15 @@ AcDbArc
   0
 MTEXT
   5
-291
+289
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -17449,7 +17231,7 @@ Arial
   0
 ARC
   5
-292
+28A
 100
 AcDbEntity
   8
@@ -17457,7 +17239,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17477,19 +17259,21 @@ AcDbArc
   0
 MTEXT
   5
-293
+28B
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
 185.9907045809
  20
-261.0380490131
+260.5377936029
  30
 0.0
  40
@@ -17511,7 +17295,7 @@ Arial
   0
 ARC
   5
-294
+28C
 100
 AcDbEntity
   8
@@ -17519,13 +17303,13 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
 222.3529150627
  20
-232.3198053391
+231.8195499289
  30
 0.0
  40
@@ -17539,13 +17323,15 @@ AcDbArc
   0
 MTEXT
   5
-295
+28D
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -17573,7 +17359,7 @@ Arial
   0
 ARC
   5
-296
+28E
 100
 AcDbEntity
   8
@@ -17581,7 +17367,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -17601,75 +17387,7 @@ AcDbArc
   0
 MTEXT
   5
-297
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-215.9907045812
- 20
-189.0380490131
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.5L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-298
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-215.9907045812
- 20
-171.0380490131
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.7L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-ARC
-  5
-299
+28F
 100
 AcDbEntity
   8
@@ -17677,67 +17395,13 @@ AcDbEntity
 390
 0
   6
-DOT
-100
-AcDbCircle
- 10
-228.7994490612
- 20
-187.3197041281
- 30
-0.0
- 40
-11.9432450451
-100
-AcDbArc
- 50
-131.099943452
- 51
-228.900056548
-  0
-ARC
-  5
-29A
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbCircle
- 10
-230.1079798553
- 20
-167.8197041282
- 30
-0.0
- 40
-13.933785886
-100
-AcDbArc
- 50
-131.0999434524
- 51
-228.9000565483
-  0
-MTEXT
-  5
-29B
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
+DASHDOT
 100
 AcDbMText
  10
-215.9907045811
+215.9907045814
  20
-205.5380490131
+204.5375381928
  30
 0.0
  40
@@ -17759,7 +17423,7 @@ Arial
   0
 ARC
   5
-29C
+290
 100
 AcDbEntity
   8
@@ -17767,13 +17431,13 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
-228.1451836641
+228.1451836643
  20
-204.5697041282
+203.5691933078
  30
 0.0
  40
@@ -17787,19 +17451,21 @@ AcDbArc
   0
 MTEXT
   5
-29D
+291
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
-215.9907045809
+215.990704581
  20
-261.0380490131
+260.5377936028
  30
 0.0
  40
@@ -17819,77 +17485,9 @@ Arial
  44
 0.66
   0
-MTEXT
-  5
-29E
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-215.990704581
- 20
-226.5380490131
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.7L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-29F
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-215.990704581
- 20
-244.5380490131
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.5L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
 ARC
   5
-2A0
+292
 100
 AcDbEntity
   8
@@ -17897,13 +17495,13 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
-228.1451836639
+228.145183664
  20
-260.0697041282
+259.5694487178
  30
 0.0
  40
@@ -17915,71 +17513,17 @@ AcDbArc
  51
 228.9000565483
   0
-ARC
-  5
-2A1
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbCircle
- 10
-230.1079798551
- 20
-223.3197041282
- 30
-0.0
- 40
-13.933785886
-100
-AcDbArc
- 50
-131.0999434524
- 51
-228.9000565483
-  0
-ARC
-  5
-2A2
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbCircle
- 10
-228.799449061
- 20
-242.8197041281
- 30
-0.0
- 40
-11.9432450451
-100
-AcDbArc
- 50
-131.099943452
- 51
-228.900056548
-  0
 MTEXT
   5
-2A3
+293
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -18005,77 +17549,9 @@ Arial
  44
 0.66
   0
-MTEXT
-  5
-2A4
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-215.9907045808
- 20
-282.0380490131
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.7L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-2A5
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-215.9907045808
- 20
-300.0380490131
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.5L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
 ARC
   5
-2A6
+294
 100
 AcDbEntity
   8
@@ -18083,7 +17559,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -18101,9 +17577,9 @@ AcDbArc
  51
 228.9000565483
   0
-ARC
+MTEXT
   5
-2A7
+295
 100
 AcDbEntity
   8
@@ -18111,95 +17587,7 @@ AcDbEntity
 390
 0
   6
-DOT
-100
-AcDbCircle
- 10
-230.1079798549
- 20
-278.8197041282
- 30
-0.0
- 40
-13.933785886
-100
-AcDbArc
- 50
-131.0999434524
- 51
-228.9000565483
-  0
-ARC
-  5
-2A8
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbCircle
- 10
-228.7994490608
- 20
-298.3197041281
- 30
-0.0
- 40
-11.9432450451
-100
-AcDbArc
- 50
-131.099943452
- 51
-228.900056548
-  0
-MTEXT
-  5
-2A9
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-185.9907045814
- 20
-124.3211996484
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.7L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-2AA
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
+DASHDOT
 100
 AcDbMText
  10
@@ -18227,47 +17615,15 @@ Arial
   0
 MTEXT
   5
-2AB
+296
 100
 AcDbEntity
   8
 2658_5L
 390
 0
-100
-AcDbMText
- 10
-185.9907045814
- 20
-142.3211996484
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.5L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-2AC
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -18293,77 +17649,9 @@ Arial
  44
 0.66
   0
-MTEXT
-  5
-2AD
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-185.9907045808
- 20
-282.0380490131
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.7L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-2AE
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-100
-AcDbMText
- 10
-185.9907045808
- 20
-300.0380490131
- 30
-0.0
- 40
-4.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W0.810845;>2654.5L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
 ARC
   5
-2AF
+297
 100
 AcDbEntity
   8
@@ -18371,7 +17659,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -18391,7 +17679,7 @@ AcDbArc
   0
 ARC
   5
-2B0
+298
 100
 AcDbEntity
   8
@@ -18399,63 +17687,7 @@ AcDbEntity
 390
 0
   6
-DOT
-100
-AcDbCircle
- 10
-200.1079798555
- 20
-121.1028547634
- 30
-0.0
- 40
-13.933785886
-100
-AcDbArc
- 50
-131.0999434524
- 51
-228.9000565483
-  0
-ARC
-  5
-2B1
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbCircle
- 10
-198.7994490614
- 20
-140.6028547633
- 30
-0.0
- 40
-11.9432450451
-100
-AcDbArc
- 50
-131.099943452
- 51
-228.900056548
-  0
-ARC
-  5
-2B2
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -18473,65 +17705,9 @@ AcDbArc
  51
 228.9000565483
   0
-ARC
-  5
-2B3
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbCircle
- 10
-200.1079798549
- 20
-278.8197041282
- 30
-0.0
- 40
-13.933785886
-100
-AcDbArc
- 50
-131.0999434524
- 51
-228.9000565483
-  0
-ARC
-  5
-2B4
-100
-AcDbEntity
-  8
-2658_5L
-390
-0
-  6
-DOT
-100
-AcDbCircle
- 10
-198.7994490608
- 20
-298.3197041281
- 30
-0.0
- 40
-11.9432450451
-100
-AcDbArc
- 50
-131.099943452
- 51
-228.900056548
-  0
 LINE
   5
-2B5
+299
 100
 AcDbEntity
   8
@@ -18555,13 +17731,15 @@ AcDbLine
   0
 MTEXT
   5
-2B6
+29A
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -18589,7 +17767,7 @@ Arial
   0
 ARC
   5
-2B7
+29B
 100
 AcDbEntity
   8
@@ -18597,7 +17775,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -18617,13 +17795,15 @@ AcDbArc
   0
 MTEXT
   5
-2B8
+29C
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -18651,7 +17831,7 @@ Arial
   0
 ARC
   5
-2B9
+29D
 100
 AcDbEntity
   8
@@ -18659,7 +17839,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -18679,13 +17859,15 @@ AcDbArc
   0
 MTEXT
   5
-2BA
+29E
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -18713,7 +17895,7 @@ Arial
   0
 ARC
   5
-2BB
+29F
 100
 AcDbEntity
   8
@@ -18721,7 +17903,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -18741,13 +17923,15 @@ AcDbArc
   0
 MTEXT
   5
-2BC
+2A0
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -18775,7 +17959,7 @@ Arial
   0
 ARC
   5
-2BD
+2A1
 100
 AcDbEntity
   8
@@ -18783,7 +17967,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -18803,13 +17987,15 @@ AcDbArc
   0
 MTEXT
   5
-2BE
+2A2
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -18837,7 +18023,7 @@ Arial
   0
 ARC
   5
-2BF
+2A3
 100
 AcDbEntity
   8
@@ -18845,7 +18031,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -18865,7 +18051,7 @@ AcDbArc
   0
 CIRCLE
   5
-2C0
+2A4
 100
 AcDbEntity
   8
@@ -18885,7 +18071,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2C1
+2A5
 100
 AcDbEntity
   8
@@ -18905,7 +18091,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2C2
+2A6
 100
 AcDbEntity
   8
@@ -18925,7 +18111,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2C3
+2A7
 100
 AcDbEntity
   8
@@ -18945,7 +18131,7 @@ AcDbCircle
   0
 LINE
   5
-2C4
+2A8
 100
 AcDbEntity
   8
@@ -18969,7 +18155,7 @@ AcDbLine
   0
 LINE
   5
-2C5
+2A9
 100
 AcDbEntity
   8
@@ -18993,7 +18179,7 @@ AcDbLine
   0
 LINE
   5
-2C6
+2AA
 100
 AcDbEntity
   8
@@ -19017,7 +18203,7 @@ AcDbLine
   0
 LINE
   5
-2C7
+2AB
 100
 AcDbEntity
   8
@@ -19041,7 +18227,7 @@ AcDbLine
   0
 LINE
   5
-2C8
+2AC
 100
 AcDbEntity
   8
@@ -19065,7 +18251,7 @@ AcDbLine
   0
 LINE
   5
-2C9
+2AD
 100
 AcDbEntity
   8
@@ -19089,7 +18275,7 @@ AcDbLine
   0
 LINE
   5
-2CA
+2AE
 100
 AcDbEntity
   8
@@ -19113,7 +18299,7 @@ AcDbLine
   0
 LINE
   5
-2CB
+2AF
 100
 AcDbEntity
   8
@@ -19137,7 +18323,7 @@ AcDbLine
   0
 LINE
   5
-2CC
+2B0
 100
 AcDbEntity
   8
@@ -19161,7 +18347,7 @@ AcDbLine
   0
 LINE
   5
-2CD
+2B1
 100
 AcDbEntity
   8
@@ -19185,7 +18371,7 @@ AcDbLine
   0
 LINE
   5
-2CE
+2B2
 100
 AcDbEntity
   8
@@ -19209,7 +18395,7 @@ AcDbLine
   0
 LINE
   5
-2CF
+2B3
 100
 AcDbEntity
   8
@@ -19233,7 +18419,7 @@ AcDbLine
   0
 LINE
   5
-2D0
+2B4
 100
 AcDbEntity
   8
@@ -19257,7 +18443,7 @@ AcDbLine
   0
 LINE
   5
-2D1
+2B5
 100
 AcDbEntity
   8
@@ -19281,7 +18467,7 @@ AcDbLine
   0
 LINE
   5
-2D2
+2B6
 100
 AcDbEntity
   8
@@ -19307,7 +18493,7 @@ AcDbLine
   0
 LINE
   5
-2D3
+2B7
 100
 AcDbEntity
   8
@@ -19333,7 +18519,7 @@ AcDbLine
   0
 LINE
   5
-2D4
+2B8
 100
 AcDbEntity
   8
@@ -19359,7 +18545,7 @@ AcDbLine
   0
 ARC
   5
-2D5
+2B9
 100
 AcDbEntity
   8
@@ -19371,23 +18557,23 @@ HIDDEN
 100
 AcDbCircle
  10
-131.2718044689
+131.2634711342
  20
-206.954277676
+206.7041499712
  30
 0.0
  40
-9.716549659
+9.4662831746
 100
 AcDbArc
  50
-91.9081787566
+91.908178756
  51
-268.0918212439
+268.0918212433
   0
 ARC
   5
-2D6
+2BA
 100
 AcDbEntity
   8
@@ -19415,7 +18601,7 @@ AcDbArc
   0
 ARC
   5
-2D7
+2BB
 100
 AcDbEntity
   8
@@ -19427,23 +18613,23 @@ HIDDEN
 100
 AcDbCircle
  10
-200.3748613855
+200.2188002905
  20
-181.211380657
+180.9612529514
  30
 0.0
  40
-17.8080961181
+17.5132759451
 100
 AcDbArc
  50
-121.9610977298
+121.9610977288
  51
-238.0389022722
+238.0389022712
   0
 ARC
   5
-2D8
+2BC
 100
 AcDbEntity
   8
@@ -19455,23 +18641,23 @@ HIDDEN
 100
 AcDbCircle
  10
-223.5307884832
+223.3242352784
  20
-147.9377023132
+147.1873191982
  30
 0.0
  40
-9.7309500681
+8.9526576772
 100
 AcDbArc
  50
-105.3902949559
+105.3902949547
  51
-254.6097050441
+254.6097050429
   0
 ARC
   5
-2D9
+2BD
 100
 AcDbEntity
   8
@@ -19499,7 +18685,7 @@ AcDbArc
   0
 ARC
   5
-2DA
+2BE
 100
 AcDbEntity
   8
@@ -19527,7 +18713,7 @@ AcDbArc
   0
 ARC
   5
-2DB
+2BF
 100
 AcDbEntity
   8
@@ -19555,7 +18741,7 @@ AcDbArc
   0
 TEXT
   5
-2DC
+2C0
 100
 AcDbEntity
   8
@@ -19563,7 +18749,7 @@ AcDbEntity
 390
 0
   6
-PHANTOM
+DASHDOT
 100
 AcDbText
  10
@@ -19595,7 +18781,7 @@ AcDbText
   0
 CIRCLE
   5
-2DD
+2C1
 100
 AcDbEntity
   8
@@ -19603,7 +18789,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19617,7 +18803,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2DE
+2C2
 100
 AcDbEntity
   8
@@ -19625,7 +18811,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19639,7 +18825,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2DF
+2C3
 100
 AcDbEntity
   8
@@ -19647,7 +18833,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19661,7 +18847,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2E0
+2C4
 100
 AcDbEntity
   8
@@ -19669,7 +18855,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19683,7 +18869,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2E1
+2C5
 100
 AcDbEntity
   8
@@ -19691,7 +18877,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19705,7 +18891,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2E2
+2C6
 100
 AcDbEntity
   8
@@ -19713,7 +18899,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19727,7 +18913,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2E3
+2C7
 100
 AcDbEntity
   8
@@ -19735,7 +18921,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19749,7 +18935,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2E4
+2C8
 100
 AcDbEntity
   8
@@ -19757,7 +18943,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19771,7 +18957,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2E5
+2C9
 100
 AcDbEntity
   8
@@ -19779,7 +18965,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19793,7 +18979,7 @@ AcDbCircle
   0
 CIRCLE
   5
-2E6
+2CA
 100
 AcDbEntity
   8
@@ -19801,7 +18987,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19815,7 +19001,7 @@ AcDbCircle
   0
 ARC
   5
-2E7
+2CB
 100
 AcDbEntity
   8
@@ -19843,7 +19029,7 @@ AcDbArc
   0
 MTEXT
   5
-2E8
+2CC
 100
 AcDbEntity
   8
@@ -19877,7 +19063,7 @@ Arial
   0
 ARC
   5
-2E9
+2CD
 100
 AcDbEntity
   8
@@ -19885,7 +19071,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19905,13 +19091,15 @@ AcDbArc
   0
 MTEXT
   5
-2EA
+2CE
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -19939,7 +19127,7 @@ Arial
   0
 ARC
   5
-2EB
+2CF
 100
 AcDbEntity
   8
@@ -19947,7 +19135,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -19967,13 +19155,15 @@ AcDbArc
   0
 MTEXT
   5
-2EC
+2D0
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20001,7 +19191,7 @@ Arial
   0
 ARC
   5
-2ED
+2D1
 100
 AcDbEntity
   8
@@ -20009,7 +19199,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20029,13 +19219,15 @@ AcDbArc
   0
 MTEXT
   5
-2EE
+2D2
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20063,7 +19255,7 @@ Arial
   0
 ARC
   5
-2EF
+2D3
 100
 AcDbEntity
   8
@@ -20071,7 +19263,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20091,13 +19283,15 @@ AcDbArc
   0
 MTEXT
   5
-2F0
+2D4
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20125,7 +19319,7 @@ Arial
   0
 ARC
   5
-2F1
+2D5
 100
 AcDbEntity
   8
@@ -20133,7 +19327,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20153,13 +19347,15 @@ AcDbArc
   0
 MTEXT
   5
-2F2
+2D6
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20187,7 +19383,7 @@ Arial
   0
 ARC
   5
-2F3
+2D7
 100
 AcDbEntity
   8
@@ -20195,7 +19391,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20215,13 +19411,15 @@ AcDbArc
   0
 MTEXT
   5
-2F4
+2D8
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20249,7 +19447,7 @@ Arial
   0
 ARC
   5
-2F5
+2D9
 100
 AcDbEntity
   8
@@ -20257,7 +19455,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20277,13 +19475,15 @@ AcDbArc
   0
 MTEXT
   5
-2F6
+2DA
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20311,7 +19511,7 @@ Arial
   0
 ARC
   5
-2F7
+2DB
 100
 AcDbEntity
   8
@@ -20319,7 +19519,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20339,13 +19539,15 @@ AcDbArc
   0
 MTEXT
   5
-2F8
+2DC
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20373,7 +19575,7 @@ Arial
   0
 ARC
   5
-2F9
+2DD
 100
 AcDbEntity
   8
@@ -20381,7 +19583,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20401,13 +19603,15 @@ AcDbArc
   0
 MTEXT
   5
-2FA
+2DE
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20435,7 +19639,7 @@ Arial
   0
 ARC
   5
-2FB
+2DF
 100
 AcDbEntity
   8
@@ -20443,7 +19647,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20463,13 +19667,15 @@ AcDbArc
   0
 MTEXT
   5
-2FC
+2E0
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20497,7 +19703,7 @@ Arial
   0
 ARC
   5
-2FD
+2E1
 100
 AcDbEntity
   8
@@ -20505,7 +19711,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20525,13 +19731,15 @@ AcDbArc
   0
 MTEXT
   5
-2FE
+2E2
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20559,7 +19767,7 @@ Arial
   0
 ARC
   5
-2FF
+2E3
 100
 AcDbEntity
   8
@@ -20567,7 +19775,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20587,13 +19795,15 @@ AcDbArc
   0
 MTEXT
   5
-300
+2E4
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20621,7 +19831,7 @@ Arial
   0
 ARC
   5
-301
+2E5
 100
 AcDbEntity
   8
@@ -20629,7 +19839,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20649,13 +19859,15 @@ AcDbArc
   0
 MTEXT
   5
-302
+2E6
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20683,7 +19895,7 @@ Arial
   0
 ARC
   5
-303
+2E7
 100
 AcDbEntity
   8
@@ -20691,7 +19903,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20711,13 +19923,15 @@ AcDbArc
   0
 MTEXT
   5
-304
+2E8
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -20745,7 +19959,7 @@ Arial
   0
 CIRCLE
   5
-305
+2E9
 100
 AcDbEntity
   8
@@ -20765,7 +19979,7 @@ AcDbCircle
   0
 LINE
   5
-306
+2EA
 100
 AcDbEntity
   8
@@ -20789,7 +20003,7 @@ AcDbLine
   0
 LINE
   5
-307
+2EB
 100
 AcDbEntity
   8
@@ -20813,7 +20027,7 @@ AcDbLine
   0
 ARC
   5
-308
+2EC
 100
 AcDbEntity
   8
@@ -20841,7 +20055,7 @@ AcDbArc
   0
 ARC
   5
-309
+2ED
 100
 AcDbEntity
   8
@@ -20869,7 +20083,7 @@ AcDbArc
   0
 ARC
   5
-30A
+2EE
 100
 AcDbEntity
   8
@@ -20881,23 +20095,23 @@ HIDDEN
 100
 AcDbCircle
  10
-417.4843493233
+417.980661276
  20
-187.4477660573
+187.1976383525
  30
 0.0
  40
-239.2148369373
+239.7652066425
 100
 AcDbArc
  50
-145.2440951789
+145.2625998284
  51
-198.7378143266
+198.7563189762
   0
 CIRCLE
   5
-30B
+2EF
 100
 AcDbEntity
   8
@@ -20905,7 +20119,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20919,7 +20133,7 @@ AcDbCircle
   0
 CIRCLE
   5
-30C
+2F0
 100
 AcDbEntity
   8
@@ -20927,7 +20141,7 @@ AcDbEntity
 390
 0
   6
-DOT
+DASHDOT
 100
 AcDbCircle
  10
@@ -20941,7 +20155,7 @@ AcDbCircle
   0
 MTEXT
   5
-30D
+2F1
 100
 AcDbEntity
   8
@@ -20975,7 +20189,7 @@ Arial
   0
 ARC
   5
-30E
+2F2
 100
 AcDbEntity
   8
@@ -21003,13 +20217,15 @@ AcDbArc
   0
 MTEXT
   5
-30F
+2F3
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -21037,7 +20253,7 @@ Arial
   0
 ARC
   5
-310
+2F4
 100
 AcDbEntity
   8
@@ -21065,13 +20281,15 @@ AcDbArc
   0
 MTEXT
   5
-311
+2F5
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -21099,7 +20317,7 @@ Arial
   0
 ARC
   5
-312
+2F6
 100
 AcDbEntity
   8
@@ -21127,13 +20345,15 @@ AcDbArc
   0
 MTEXT
   5
-313
+2F7
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -21161,7 +20381,7 @@ Arial
   0
 ARC
   5
-314
+2F8
 100
 AcDbEntity
   8
@@ -21189,13 +20409,15 @@ AcDbArc
   0
 MTEXT
   5
-315
+2F9
 100
 AcDbEntity
   8
 2658_5L
 390
 0
+  6
+DASHDOT
 100
 AcDbMText
  10
@@ -21223,7 +20445,7 @@ Arial
   0
 ARC
   5
-316
+2FA
 100
 AcDbEntity
   8
@@ -21251,7 +20473,7 @@ AcDbArc
   0
 LINE
   5
-317
+2FB
 100
 AcDbEntity
   8
@@ -21275,7 +20497,7 @@ AcDbLine
   0
 LINE
   5
-318
+2FC
 100
 AcDbEntity
   8
@@ -21299,7 +20521,7 @@ AcDbLine
   0
 LINE
   5
-319
+2FD
 100
 AcDbEntity
   8
@@ -21323,7 +20545,7 @@ AcDbLine
   0
 CIRCLE
   5
-31A
+2FE
 100
 AcDbEntity
   8
@@ -21331,7 +20553,7 @@ AcDbEntity
 390
 0
   6
-PHANTOM
+DASHDOT
 100
 AcDbCircle
  10
@@ -21345,7 +20567,7 @@ AcDbCircle
   0
 LINE
   5
-31B
+2FF
 100
 AcDbEntity
   8
@@ -21371,7 +20593,7 @@ AcDbLine
   0
 TEXT
   5
-31C
+300
 100
 AcDbEntity
   8
@@ -21379,7 +20601,7 @@ AcDbEntity
 390
 0
   6
-PHANTOM
+DASHDOT
 100
 AcDbText
  10
@@ -21409,9 +20631,917 @@ AcDbText
  73
          2
   0
-LINE
+ARC
+  5
+301
+100
+AcDbEntity
+  8
+2654___ W-_ GSP-_ SIGNAL-ANTRIEB
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+-54.5307747452
+ 20
+204.05253611
+ 30
+0.0
+ 40
+12.6069281264
+100
+AcDbArc
+ 50
+131.0999434524
+ 51
+228.9000565483
+  0
+ARC
+  5
+302
+100
+AcDbEntity
+  8
+2654___ W-_ GSP-_ SIGNAL-ANTRIEB
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+-53.876620752
+ 20
+236.8448772807
+ 30
+0.0
+ 40
+13.6020290792
+100
+AcDbArc
+ 50
+131.099943452
+ 51
+228.900056548
+  0
+MTEXT
+  5
+303
+100
+AcDbEntity
+  8
+2654___ W-_ GSP-_ SIGNAL-ANTRIEB
+390
+0
+100
+AcDbMText
+ 10
+-67.7758075603
+ 20
+237.3132221657
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.5L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+304
+100
+AcDbEntity
+  8
+2654___ W-_ GSP-_ SIGNAL-ANTRIEB
+390
+0
+100
+AcDbMText
+ 10
+-67.7758075603
+ 20
+208.2707532902
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.7L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+305
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+125.9907045814
+ 20
+245.8837841306
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.5L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+ARC
+  5
+306
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+139.8898913897
+ 20
+245.4154392455
+ 30
+0.0
+ 40
+13.6020290792
+100
+AcDbArc
+ 50
+131.099943452
+ 51
+228.900056548
+  0
+MTEXT
+  5
+307
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+125.9907045814
+ 20
+229.883528721
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.7L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+ARC
+  5
+308
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+139.2357373965
+ 20
+225.6653115408
+ 30
+0.0
+ 40
+12.6069281264
+100
+AcDbArc
+ 50
+131.0999434524
+ 51
+228.9000565483
+  0
+ARC
+  5
+309
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+199.8898913897
+ 20
+297.0697041277
+ 30
+0.0
+ 40
+13.6020290792
+100
+AcDbArc
+ 50
+131.099943452
+ 51
+228.900056548
+  0
+ARC
+  5
+30A
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+199.2357373965
+ 20
+277.319576423
+ 30
+0.0
+ 40
+12.6069281264
+100
+AcDbArc
+ 50
+131.0999434524
+ 51
+228.9000565483
+  0
+MTEXT
+  5
+30B
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+185.9907045814
+ 20
+281.5377936032
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.7L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+30C
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+185.9907045814
+ 20
+297.5380490127
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.5L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+ARC
+  5
+30D
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+199.8898913897
+ 20
+139.3528547634
+ 30
+0.0
+ 40
+13.6020290792
+100
+AcDbArc
+ 50
+131.099943452
+ 51
+228.900056548
+  0
+ARC
+  5
+30E
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+199.2357373965
+ 20
+119.6027270587
+ 30
+0.0
+ 40
+12.6069281264
+100
+AcDbArc
+ 50
+131.0999434524
+ 51
+228.9000565483
+  0
+MTEXT
+  5
+30F
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+185.9907045814
+ 20
+123.8209442389
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.7L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+310
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+185.9907045814
+ 20
+139.8211996484
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.5L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+ARC
+  5
+311
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+229.8898913897
+ 20
+297.0697041277
+ 30
+0.0
+ 40
+13.6020290792
+100
+AcDbArc
+ 50
+131.099943452
+ 51
+228.900056548
+  0
+ARC
+  5
+312
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+229.2357373965
+ 20
+277.319576423
+ 30
+0.0
+ 40
+12.6069281264
+100
+AcDbArc
+ 50
+131.0999434524
+ 51
+228.9000565483
+  0
+MTEXT
+  5
+313
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+215.9907045814
+ 20
+281.5377936032
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.7L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+314
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+215.9907045814
+ 20
+297.5380490127
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.5L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+ARC
+  5
+315
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+229.8898913898
+ 20
+241.0694487175
+ 30
+0.0
+ 40
+13.6020290792
+100
+AcDbArc
+ 50
+131.099943452
+ 51
+228.900056548
+  0
+ARC
+  5
+316
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+229.2357373966
+ 20
+221.3193210128
+ 30
+0.0
+ 40
+12.6069281264
+100
+AcDbArc
+ 50
+131.0999434524
+ 51
+228.9000565483
+  0
+MTEXT
+  5
+317
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+215.9907045815
+ 20
+225.537538193
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.7L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+318
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+215.9907045815
+ 20
+241.5377936025
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.5L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+ARC
+  5
+319
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+229.8898913899
+ 20
+185.0691933077
+ 30
+0.0
+ 40
+13.6020290792
+100
+AcDbArc
+ 50
+131.099943452
+ 51
+228.900056548
+  0
+ARC
+  5
+31A
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+229.2357373967
+ 20
+165.319065603
+ 30
+0.0
+ 40
+12.6069281264
+100
+AcDbArc
+ 50
+131.0999434524
+ 51
+228.9000565483
+  0
+MTEXT
+  5
+31B
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+215.9907045816
+ 20
+169.5372827832
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.7L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+31C
+100
+AcDbEntity
+  8
+2658_5L
+390
+0
+100
+AcDbMText
+ 10
+215.9907045816
+ 20
+185.5375381927
+ 30
+0.0
+ 40
+4.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W0.810845;>2654.5L\PM15x15x2\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+CIRCLE
   5
 31D
+100
+AcDbEntity
+  8
+HILFSLINIEN
+390
+0
+100
+AcDbCircle
+ 10
+78.608
+ 20
+306.176
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+31E
+100
+AcDbEntity
+  8
+HILFSLINIEN
+390
+0
+100
+AcDbCircle
+ 10
+310.948
+ 20
+265.37
+ 30
+0.0
+ 40
+10.0
+  0
+LINE
+  5
+31F
 100
 AcDbEntity
   8
@@ -21430,54 +21560,6 @@ AcDbLine
 10.0
  21
 400.0
- 31
-0.0
-  0
-LINE
-  5
-31E
-100
-AcDbEntity
-  8
-STANDARD
-390
-0
-100
-AcDbLine
- 10
-20.0
- 20
-390.0
- 30
-0.0
- 11
-20.0
- 21
-10.0
- 31
-0.0
-  0
-LINE
-  5
-31F
-100
-AcDbEntity
-  8
-STANDARD
-390
-0
-100
-AcDbLine
- 10
-10.0
- 20
-400.0
- 30
-0.0
- 11
-10.0
- 21
-390.0
  31
 0.0
   0
@@ -21493,15 +21575,15 @@ STANDARD
 100
 AcDbLine
  10
-584.0
+20.0
  20
-400.0
+390.0
  30
 0.0
  11
-584.0
+20.0
  21
-390.0
+10.0
  31
 0.0
   0
@@ -21517,13 +21599,13 @@ STANDARD
 100
 AcDbLine
  10
-105.6666666667
+10.0
  20
 400.0
  30
 0.0
  11
-105.6666666667
+10.0
  21
 390.0
  31
@@ -21541,13 +21623,13 @@ STANDARD
 100
 AcDbLine
  10
-201.3333333333
+584.0
  20
 400.0
  30
 0.0
  11
-201.3333333333
+584.0
  21
 390.0
  31
@@ -21565,13 +21647,13 @@ STANDARD
 100
 AcDbLine
  10
-297.0
+105.6666666667
  20
 400.0
  30
 0.0
  11
-297.0
+105.6666666667
  21
 390.0
  31
@@ -21589,13 +21671,13 @@ STANDARD
 100
 AcDbLine
  10
-392.6666666667
+201.3333333333
  20
 400.0
  30
 0.0
  11
-392.6666666667
+201.3333333333
  21
 390.0
  31
@@ -21613,13 +21695,13 @@ STANDARD
 100
 AcDbLine
  10
-488.3333333333
+297.0
  20
 400.0
  30
 0.0
  11
-488.3333333333
+297.0
  21
 390.0
  31
@@ -21637,6 +21719,54 @@ STANDARD
 100
 AcDbLine
  10
+392.6666666667
+ 20
+400.0
+ 30
+0.0
+ 11
+392.6666666667
+ 21
+390.0
+ 31
+0.0
+  0
+LINE
+  5
+327
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+488.3333333333
+ 20
+400.0
+ 30
+0.0
+ 11
+488.3333333333
+ 21
+390.0
+ 31
+0.0
+  0
+LINE
+  5
+328
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
 10.0
  20
 105.0
@@ -21651,7 +21781,7 @@ AcDbLine
   0
 LINE
   5
-327
+329
 100
 AcDbEntity
   8
@@ -21675,7 +21805,7 @@ AcDbLine
   0
 LINE
   5
-328
+32A
 100
 AcDbEntity
   8
@@ -21699,7 +21829,7 @@ AcDbLine
   0
 TEXT
   5
-329
+32B
 100
 AcDbEntity
   8
@@ -21735,7 +21865,7 @@ AcDbText
   0
 TEXT
   5
-32A
+32C
 100
 AcDbEntity
   8
@@ -21771,7 +21901,7 @@ AcDbText
   0
 TEXT
   5
-32B
+32D
 100
 AcDbEntity
   8
@@ -21807,7 +21937,7 @@ AcDbText
   0
 TEXT
   5
-32C
+32E
 100
 AcDbEntity
   8
@@ -21843,7 +21973,7 @@ AcDbText
   0
 TEXT
   5
-32D
+32F
 100
 AcDbEntity
   8
@@ -21879,7 +22009,7 @@ AcDbText
   0
 TEXT
   5
-32E
+330
 100
 AcDbEntity
   8
@@ -21915,7 +22045,7 @@ AcDbText
   0
 TEXT
   5
-32F
+331
 100
 AcDbEntity
   8
@@ -21951,7 +22081,7 @@ AcDbText
   0
 TEXT
   5
-330
+332
 100
 AcDbEntity
   8
@@ -21987,7 +22117,7 @@ AcDbText
   0
 TEXT
   5
-331
+333
 100
 AcDbEntity
   8
@@ -22023,7 +22153,7 @@ AcDbText
   0
 TEXT
   5
-332
+334
 100
 AcDbEntity
   8
@@ -22059,54 +22189,6 @@ AcDbText
   0
 LINE
   5
-333
-100
-AcDbEntity
-  8
-STANDARD
-390
-0
-100
-AcDbLine
- 10
-10.0
- 20
-10.0
- 30
-0.0
- 11
-20.0
- 21
-10.0
- 31
-0.0
-  0
-LINE
-  5
-334
-100
-AcDbEntity
-  8
-STANDARD
-390
-0
-100
-AcDbLine
- 10
-584.0
- 20
-10.0
- 30
-0.0
- 11
-584.0
- 21
-390.0
- 31
-0.0
-  0
-LINE
-  5
 335
 100
 AcDbEntity
@@ -22117,15 +22199,15 @@ STANDARD
 100
 AcDbLine
  10
-584.0
+10.0
  20
-390.0
+10.0
  30
 0.0
  11
 20.0
  21
-390.0
+10.0
  31
 0.0
   0
@@ -22141,15 +22223,15 @@ STANDARD
 100
 AcDbLine
  10
-10.0
+584.0
  20
-390.0
+10.0
  30
 0.0
  11
-10.0
+584.0
  21
-10.0
+390.0
  31
 0.0
   0
@@ -22165,15 +22247,15 @@ STANDARD
 100
 AcDbLine
  10
-592.0
+584.0
  20
-418.0
+390.0
  30
 0.0
  11
-2.0
+20.0
  21
-418.0
+390.0
  31
 0.0
   0
@@ -22189,15 +22271,15 @@ STANDARD
 100
 AcDbLine
  10
-592.0
+10.0
  20
-2.0
+390.0
  30
 0.0
  11
-592.0
+10.0
  21
-418.0
+10.0
  31
 0.0
   0
@@ -22213,6 +22295,54 @@ STANDARD
 100
 AcDbLine
  10
+592.0
+ 20
+418.0
+ 30
+0.0
+ 11
+2.0
+ 21
+418.0
+ 31
+0.0
+  0
+LINE
+  5
+33A
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+592.0
+ 20
+2.0
+ 30
+0.0
+ 11
+592.0
+ 21
+418.0
+ 31
+0.0
+  0
+LINE
+  5
+33B
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
 2.0
  20
 2.0
@@ -22227,7 +22357,7 @@ AcDbLine
   0
 LINE
   5
-33A
+33C
 100
 AcDbEntity
   8
@@ -22251,7 +22381,7 @@ AcDbLine
   0
 LINE
   5
-33B
+33D
 100
 AcDbEntity
   8
@@ -22275,7 +22405,7 @@ AcDbLine
   0
 LINE
   5
-33C
+33E
 100
 AcDbEntity
   8
@@ -22299,7 +22429,7 @@ AcDbLine
   0
 MTEXT
   5
-33D
+33F
 100
 AcDbEntity
   8
@@ -22333,7 +22463,7 @@ Arial
   0
 MTEXT
   5
-33E
+340
 100
 AcDbEntity
   8
@@ -22367,7 +22497,7 @@ Arial
   0
 MTEXT
   5
-33F
+341
 100
 AcDbEntity
   8
@@ -22401,7 +22531,7 @@ Arial
   0
 LINE
   5
-340
+342
 100
 AcDbEntity
   8
@@ -22427,7 +22557,7 @@ AcDbLine
   0
 LINE
   5
-341
+343
 100
 AcDbEntity
   8
@@ -22453,7 +22583,7 @@ AcDbLine
   0
 LINE
   5
-342
+344
 100
 AcDbEntity
   8
@@ -22479,58 +22609,6 @@ AcDbLine
   0
 LINE
   5
-343
-100
-AcDbEntity
-  8
-_TEMP
-370
-         0
-390
-0
-100
-AcDbLine
- 10
-428.4388603989
- 20
-54.8
- 30
-0.0
- 11
-583.8268945869
- 21
-54.8
- 31
-0.0
-  0
-LINE
-  5
-344
-100
-AcDbEntity
-  8
-_TEMP
-370
-         0
-390
-0
-100
-AcDbLine
- 10
-428.4388603989
- 20
-68.8
- 30
-0.0
- 11
-583.8268945869
- 21
-68.8
- 31
-0.0
-  0
-LINE
-  5
 345
 100
 AcDbEntity
@@ -22545,6 +22623,58 @@ AcDbLine
  10
 428.4388603989
  20
+54.8
+ 30
+0.0
+ 11
+583.8268945869
+ 21
+54.8
+ 31
+0.0
+  0
+LINE
+  5
+346
+100
+AcDbEntity
+  8
+_TEMP
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+428.4388603989
+ 20
+68.8
+ 30
+0.0
+ 11
+583.8268945869
+ 21
+68.8
+ 31
+0.0
+  0
+LINE
+  5
+347
+100
+AcDbEntity
+  8
+_TEMP
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+428.4388603989
+ 20
 24.0
  30
 0.0
@@ -22557,7 +22687,7 @@ AcDbLine
   0
 LINE
   5
-346
+348
 100
 AcDbEntity
   8
@@ -22583,7 +22713,7 @@ AcDbLine
   0
 MTEXT
   5
-347
+349
 100
 AcDbEntity
   8
@@ -22617,7 +22747,7 @@ Arial
   0
 TEXT
   5
-348
+34A
 100
 AcDbEntity
   8
@@ -22655,7 +22785,7 @@ AcDbText
   0
 TEXT
   5
-349
+34B
 100
 AcDbEntity
   8
@@ -22693,7 +22823,7 @@ AcDbText
   0
 TEXT
   5
-34A
+34C
 100
 AcDbEntity
   8
@@ -22731,7 +22861,7 @@ AcDbText
   0
 TEXT
   5
-34B
+34D
 100
 AcDbEntity
   8
