@@ -5349,7 +5349,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D358552320
+D298330880
 340
 0
 102
@@ -5367,7 +5367,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D358552064
+D298332160
 340
 0
 102
@@ -5385,13 +5385,13 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D358551808
+D298332928
 340
 0
 102
 {BLKREFS
 331
-12E
+12D
 102
 }
   0
@@ -5403,13 +5403,13 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D358551552
+D298321920
 340
 0
 102
 {BLKREFS
 331
-138
+137
 102
 }
   0
@@ -5421,13 +5421,13 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D358551296
+D205998592
 340
 0
 102
 {BLKREFS
 331
-13D
+13C
 102
 }
   0
@@ -5531,7 +5531,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D358552320
+D298330880
  70
          0
  10
@@ -5541,7 +5541,7 @@ D358552320
  30
 0.0
   3
-D358552320
+D298330880
   1
 
   0
@@ -5761,7 +5761,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D358552064
+D298332160
  70
          0
  10
@@ -5771,7 +5771,7 @@ D358552064
  30
 0.0
   3
-D358552064
+D298332160
   1
 
   0
@@ -5991,7 +5991,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D358551808
+D298332928
  70
          0
  10
@@ -6001,7 +6001,7 @@ D358551808
  30
 0.0
   3
-D358551808
+D298332928
   1
 
   0
@@ -6221,7 +6221,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D358551552
+D298321920
  70
          0
  10
@@ -6231,7 +6231,7 @@ D358551552
  30
 0.0
   3
-D358551552
+D298321920
   1
 
   0
@@ -6451,7 +6451,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D358551296
+D205998592
  70
          0
  10
@@ -6461,7 +6461,7 @@ D358551296
  30
 0.0
   3
-D358551296
+D205998592
   1
 
   0
@@ -8025,7 +8025,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D358552320
+D298330880
  10
 0.0
  20
@@ -8045,7 +8045,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D358552064
+D298332160
  10
 0.0
  20
@@ -8277,37 +8277,9 @@ AcDbCircle
  40
 1.0
   0
-TEXT
-  5
-124
-100
-AcDbEntity
-  8
-3207_5P
-390
-0
-100
-AcDbText
- 10
-27.7942339172
- 20
-145.6401209856
- 30
-0.0
- 40
-2.0
-  1
-@3207.4P
- 41
-1.1350967802
-  7
-Arial
-100
-AcDbText
-  0
 CIRCLE
   5
-125
+124
 100
 AcDbEntity
   8
@@ -8329,7 +8301,7 @@ AcDbCircle
   0
 CIRCLE
   5
-126
+125
 100
 AcDbEntity
   8
@@ -8351,7 +8323,7 @@ AcDbCircle
   0
 MTEXT
   5
-127
+126
 100
 AcDbEntity
   8
@@ -8387,7 +8359,7 @@ Arial
   0
 CIRCLE
   5
-128
+127
 100
 AcDbEntity
   8
@@ -8409,7 +8381,7 @@ AcDbCircle
   0
 CIRCLE
   5
-129
+128
 100
 AcDbEntity
   8
@@ -8431,7 +8403,7 @@ AcDbCircle
   0
 ARC
   5
-12A
+129
 100
 AcDbEntity
   8
@@ -8459,7 +8431,7 @@ AcDbArc
   0
 MTEXT
   5
-12B
+12A
 100
 AcDbEntity
   8
@@ -8493,7 +8465,7 @@ Arial
   0
 ARC
   5
-12C
+12B
 100
 AcDbEntity
   8
@@ -8521,7 +8493,7 @@ AcDbArc
   0
 MTEXT
   5
-12D
+12C
 100
 AcDbEntity
   8
@@ -8555,7 +8527,7 @@ Arial
   0
 INSERT
   5
-12E
+12D
 100
 AcDbEntity
   8
@@ -8565,7 +8537,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D358551808
+D298332928
  10
 0.0
  20
@@ -8575,7 +8547,7 @@ D358551808
   0
 MTEXT
   5
-12F
+12E
 100
 AcDbEntity
   8
@@ -8609,7 +8581,7 @@ Arial
   0
 MTEXT
   5
-130
+12F
 100
 AcDbEntity
   8
@@ -8643,7 +8615,7 @@ Arial
   0
 ARC
   5
-131
+130
 100
 AcDbEntity
   8
@@ -8671,7 +8643,7 @@ AcDbArc
   0
 MTEXT
   5
-132
+131
 100
 AcDbEntity
   8
@@ -8705,7 +8677,7 @@ Arial
   0
 ARC
   5
-133
+132
 100
 AcDbEntity
   8
@@ -8733,7 +8705,7 @@ AcDbArc
   0
 MTEXT
   5
-134
+133
 100
 AcDbEntity
   8
@@ -8767,7 +8739,7 @@ Arial
   0
 ARC
   5
-135
+134
 100
 AcDbEntity
   8
@@ -8795,7 +8767,7 @@ AcDbArc
   0
 ARC
   5
-136
+135
 100
 AcDbEntity
   8
@@ -8823,7 +8795,7 @@ AcDbArc
   0
 TEXT
   5
-137
+136
 100
 AcDbEntity
   8
@@ -8853,7 +8825,7 @@ AcDbText
   0
 INSERT
   5
-138
+137
 100
 AcDbEntity
   8
@@ -8863,7 +8835,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D358551552
+D298321920
  10
 0.0
  20
@@ -8873,7 +8845,7 @@ D358551552
   0
 MTEXT
   5
-139
+138
 100
 AcDbEntity
   8
@@ -8909,7 +8881,7 @@ Arial
   0
 MTEXT
   5
-13A
+139
 100
 AcDbEntity
   8
@@ -8943,7 +8915,7 @@ Arial
   0
 ARC
   5
-13B
+13A
 100
 AcDbEntity
   8
@@ -8971,7 +8943,7 @@ AcDbArc
   0
 ARC
   5
-13C
+13B
 100
 AcDbEntity
   8
@@ -8999,7 +8971,7 @@ AcDbArc
   0
 INSERT
   5
-13D
+13C
 100
 AcDbEntity
   8
@@ -9009,7 +8981,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D358551296
+D205998592
  10
 0.0
  20
@@ -9019,7 +8991,7 @@ D358551296
   0
 TEXT
   5
-13E
+13D
 100
 AcDbEntity
   8
@@ -9049,7 +9021,7 @@ AcDbText
   0
 MTEXT
   5
-13F
+13E
 100
 AcDbEntity
   8
@@ -9083,7 +9055,7 @@ Arial
   0
 MTEXT
   5
-140
+13F
 100
 AcDbEntity
   8
@@ -9117,7 +9089,7 @@ Arial
   0
 MTEXT
   5
-141
+140
 100
 AcDbEntity
   8
@@ -9151,7 +9123,7 @@ Arial
   0
 MTEXT
   5
-142
+141
 100
 AcDbEntity
   8
@@ -9185,7 +9157,7 @@ Arial
   0
 MTEXT
   5
-143
+142
 100
 AcDbEntity
   8
@@ -9219,7 +9191,7 @@ Arial
   0
 ARC
   5
-144
+143
 100
 AcDbEntity
   8
@@ -9247,7 +9219,7 @@ AcDbArc
   0
 ARC
   5
-145
+144
 100
 AcDbEntity
   8
@@ -9275,7 +9247,7 @@ AcDbArc
   0
 ARC
   5
-146
+145
 100
 AcDbEntity
   8
@@ -9303,7 +9275,7 @@ AcDbArc
   0
 ARC
   5
-147
+146
 100
 AcDbEntity
   8
@@ -9331,7 +9303,7 @@ AcDbArc
   0
 ARC
   5
-148
+147
 100
 AcDbEntity
   8
@@ -9359,7 +9331,7 @@ AcDbArc
   0
 ARC
   5
-149
+148
 100
 AcDbEntity
   8
@@ -9387,7 +9359,7 @@ AcDbArc
   0
 ARC
   5
-14A
+149
 100
 AcDbEntity
   8
@@ -9415,7 +9387,7 @@ AcDbArc
   0
 MTEXT
   5
-14B
+14A
 100
 AcDbEntity
   8
@@ -9451,7 +9423,7 @@ Arial
   0
 MTEXT
   5
-14C
+14B
 100
 AcDbEntity
   8
@@ -9487,7 +9459,7 @@ Arial
   0
 MTEXT
   5
-14D
+14C
 100
 AcDbEntity
   8
@@ -9523,7 +9495,7 @@ Arial
   0
 MTEXT
   5
-14E
+14D
 100
 AcDbEntity
   8
@@ -9559,7 +9531,7 @@ Arial
   0
 MTEXT
   5
-14F
+14E
 100
 AcDbEntity
   8
@@ -9595,7 +9567,7 @@ Arial
   0
 MTEXT
   5
-150
+14F
 100
 AcDbEntity
   8
@@ -9631,7 +9603,7 @@ Arial
   0
 MTEXT
   5
-151
+150
 100
 AcDbEntity
   8
@@ -9667,7 +9639,7 @@ Arial
   0
 MTEXT
   5
-152
+151
 100
 AcDbEntity
   8
@@ -9703,7 +9675,7 @@ Arial
   0
 ARC
   5
-153
+152
 100
 AcDbEntity
   8
@@ -9731,7 +9703,7 @@ AcDbArc
   0
 MTEXT
   5
-154
+153
 100
 AcDbEntity
   8
@@ -9767,7 +9739,7 @@ Arial
   0
 MTEXT
   5
-155
+154
 100
 AcDbEntity
   8
@@ -9803,7 +9775,7 @@ Arial
   0
 MTEXT
   5
-156
+155
 100
 AcDbEntity
   8
@@ -9839,7 +9811,7 @@ Arial
   0
 MTEXT
   5
-157
+156
 100
 AcDbEntity
   8
@@ -9875,7 +9847,7 @@ Arial
   0
 MTEXT
   5
-158
+157
 100
 AcDbEntity
   8
@@ -9911,7 +9883,7 @@ Arial
   0
 MTEXT
   5
-159
+158
 100
 AcDbEntity
   8
@@ -9938,6 +9910,40 @@ AcDbMText
          1
   1
 \W0.810867;Hebelbockwinkel\PHandfalle, Hebelklinke, Hebelschildchen\PHebelbock rechts, Hebelbock links, Winkelhebel\PHebeleisen\PHebelrolle, Kuppelrolle\P
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+159
+100
+AcDbEntity
+  8
+3207_5P
+390
+0
+100
+AcDbMText
+ 10
+26.3059269285
+ 20
+141.7758614999
+ 30
+0.0
+ 40
+2.0
+ 41
+0.0
+ 71
+         7
+ 72
+         1
+  1
+\W1.135081;M50x5\PT5 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20
   7
 Arial
  73
