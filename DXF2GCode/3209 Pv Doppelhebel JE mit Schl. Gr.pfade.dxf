@@ -25,7 +25,7 @@ $INSBASE
   9
 $EXTMIN
  10
--132.039352417
+0.0
  20
 0.0
  30
@@ -41,7 +41,7 @@ $EXTMAX
   9
 $LIMMIN
  10
--132.039352417
+0.0
  20
 0.0
   9
@@ -73,7 +73,7 @@ $MIRRTEXT
   9
 $LTSCALE
  40
-8.5509838104
+5.25
   9
 $ATTMODE
  70
@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-18B
+175
   9
 $SURFTAB1
  70
@@ -1277,7 +1277,7 @@ AcDbViewportTableRecord
  21
 1.0
  12
-38.9803266928
+105.0
  22
 148.5
  13
@@ -1305,7 +1305,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-285.1921835318
+229.0043457767
  41
 1.0
  42
@@ -5349,7 +5349,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D205929728
+D361825536
 340
 0
 102
@@ -5367,7 +5367,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D205929984
+D361836544
 340
 0
 102
@@ -5385,7 +5385,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D205930240
+D361827584
 340
 0
 102
@@ -5403,7 +5403,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D291086848
+D361838336
 340
 0
 102
@@ -5421,7 +5421,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D291087872
+D361839872
 340
 0
 102
@@ -5531,7 +5531,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D205929728
+D361825536
  70
          0
  10
@@ -5541,7 +5541,7 @@ D205929728
  30
 0.0
   3
-D205929728
+D361825536
   1
 
   0
@@ -5761,7 +5761,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D205929984
+D361836544
  70
          0
  10
@@ -5771,7 +5771,7 @@ D205929984
  30
 0.0
   3
-D205929984
+D361836544
   1
 
   0
@@ -5991,7 +5991,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D205930240
+D361827584
  70
          0
  10
@@ -6001,7 +6001,7 @@ D205930240
  30
 0.0
   3
-D205930240
+D361827584
   1
 
   0
@@ -6221,7 +6221,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D291086848
+D361838336
  70
          0
  10
@@ -6231,7 +6231,7 @@ D291086848
  30
 0.0
   3
-D291086848
+D361838336
   1
 
   0
@@ -6451,7 +6451,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D291087872
+D361839872
  70
          0
  10
@@ -6461,7 +6461,7 @@ D291087872
  30
 0.0
   3
-D291087872
+D361839872
   1
 
   0
@@ -6695,9 +6695,9 @@ AcDbText
  40
 3.0
   1
-2026-04-26
+2026-05-04
  41
-1.1351374485
+1.135137385
   7
 Arial
  11
@@ -6759,7 +6759,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D205929728
+D361825536
  10
 0.0
  20
@@ -6779,7 +6779,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D205929984
+D361836544
  10
 0.0
  20
@@ -6799,7 +6799,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D205930240
+D361827584
  10
 0.0
  20
@@ -6819,7 +6819,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D291086848
+D361838336
  10
 0.0
  20
@@ -6839,7 +6839,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D291087872
+D361839872
  10
 0.0
  20
@@ -7082,6 +7082,8 @@ AcDbEntity
 0
   6
 DASHDOT
+ 62
+       134
 100
 AcDbCircle
  10
@@ -7438,6 +7440,8 @@ AcDbEntity
 0
   6
 DASHDOT
+ 62
+       134
 100
 AcDbCircle
  10
@@ -7714,6 +7718,8 @@ AcDbEntity
 0
   6
 DASHDOT
+ 62
+       134
 100
 AcDbCircle
  10
@@ -8220,6 +8226,8 @@ AcDbEntity
 3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
 390
 0
+ 62
+       134
 100
 AcDbMText
  10
@@ -8350,6 +8358,8 @@ AcDbEntity
 3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
 390
 0
+ 62
+       134
 100
 AcDbMText
  10
@@ -8718,6 +8728,8 @@ AcDbEntity
 3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
 390
 0
+ 62
+       134
 100
 AcDbMText
  10
@@ -9009,7 +9021,7 @@ MTEXT
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
 390
 0
 100
@@ -9029,7 +9041,7 @@ AcDbMText
  72
          1
   1
-\W1.135138;\L3209.5\P50x5
+\W1.135094;\L3209.5P,T\P50+x5
   7
 Arial
  73
@@ -9043,7 +9055,7 @@ MTEXT
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
 390
 0
 100
@@ -9063,7 +9075,7 @@ AcDbMText
  72
          1
   1
-\W1.135138;\L3209.3\P60x2
+\W1.135098;\L3209.3P\P60+x2
   7
 Arial
  73
@@ -9077,7 +9089,7 @@ MTEXT
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
 390
 0
 100
@@ -9097,7 +9109,7 @@ AcDbMText
  72
          1
   1
-\W1.135138;\L3209.4\P50x5
+\W1.135098;\L3209.4P\P20+x5
   7
 Arial
  73
@@ -9111,7 +9123,7 @@ MTEXT
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
 390
 0
 100
@@ -9131,7 +9143,7 @@ AcDbMText
  72
          1
   1
-\W1.135138;\L3209.2\P15x15x1
+\W1.135103;\L3209.2L,R\P15x15x1
   7
 Arial
  73
@@ -9145,7 +9157,7 @@ MTEXT
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
 390
 0
 100
@@ -9165,7 +9177,7 @@ AcDbMText
  72
          1
   1
-\W1.135138;\L3209.1\P15x15x2
+\W1.135103;\L3209.1L,R\P15x15x2
   7
 Arial
  73
@@ -9173,613 +9185,9 @@ Arial
  44
 0.66
   0
-ARC
+MTEXT
   5
 143
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
--101.0969716748
- 20
-223.6174937664
- 30
-0.0
- 40
-22.1053072956
-100
-AcDbArc
- 50
-129.7316949036
- 51
-230.2683050958
-  0
-ARC
-  5
-144
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
--101.0969716748
- 20
-173.2263877821
- 30
-0.0
- 40
-22.1053072956
-100
-AcDbArc
- 50
-129.7316949036
- 51
-230.2683050958
-  0
-ARC
-  5
-145
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-87.2048470035
- 20
-192.6156798336
- 30
-0.0
- 40
-187.7550310173
-100
-AcDbArc
- 50
-157.6155717002
- 51
-202.3844282996
-  0
-ARC
-  5
-146
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-332.3972313213
- 20
-139.1998072304
- 30
-0.0
- 40
-386.8145810861
-100
-AcDbArc
- 50
-160.9113997169
- 51
-199.0886002832
-  0
-ARC
-  5
-147
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-142.9786068363
- 20
-183.9318942398
- 30
-0.0
- 40
-164.796773834
-100
-AcDbArc
- 50
-157.1490587558
- 51
-202.8521135238
-  0
-ARC
-  5
-148
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
--20.8353106092
- 20
-61.2730916361
- 30
-0.0
- 40
-99.4428989754
-100
-AcDbArc
- 50
-145.3776177856
- 51
-214.6223822144
-  0
-ARC
-  5
-149
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-110.0554103528
- 20
-192.6156798336
- 30
-0.0
- 40
-187.7550310173
-100
-AcDbArc
- 50
-157.6155717002
- 51
-202.3844282996
-  0
-ARC
-  5
-14A
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-9.5830635308
- 20
-61.2730916361
- 30
-0.0
- 40
-99.4428989754
-100
-AcDbArc
- 50
-145.3776177856
- 51
-214.6223822144
-  0
-LINE
-  5
-14B
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbLine
- 10
--45.1585042135
- 20
-169.6997344325
- 30
-0.0
- 11
--30.7592549577
- 21
-169.6997344325
- 31
-0.0
-  0
-MTEXT
-  5
-14C
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--124.4001552025
- 20
-227.3687293806
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;>3209.1L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-14D
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--124.7232355033
- 20
-176.4155563237
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.1R\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-14E
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--100.1040101678
- 20
-208.3405663279
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;>3209.2L\PM15x15x1\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-14F
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--77.2534468186
- 20
-208.3405663279
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.2R\PM15x15x1\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-150
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--47.7272910713
- 20
-202.8022131932
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.3P\PM60x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-151
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--22.4769712615
- 20
-191.1319258199
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.4P\PM50x5\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-152
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--113.1450238834
- 20
-93.4748090988
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.5P\PM50x5\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-153
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--82.7266497435
- 20
-93.4748090988
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135136;>3209.5T\PM50x5\PT2 O6
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-TEXT
-  5
-154
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHED
-100
-AcDbText
- 10
--31.0350520139
- 20
-264.2553933747
- 30
-0.0
- 40
-3.0
-  1
-[9]
- 41
-1.1351069903
-  7
-Arial
-100
-AcDbText
-  0
-MTEXT
-  5
-155
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbMText
- 10
--44.2469699322
- 20
-172.456309281
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         7
- 72
-         1
-  1
-\W1.135062;Bef. bei\P105 re mit\Pniedriger\PSchraube
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-156
 100
 AcDbEntity
   8
@@ -9805,7 +9213,7 @@ AcDbMText
  72
          1
   1
-\W1.135100;15x15x2\P15x15x1\P60x2\P\P50x5\P50x5
+\W1.135145;0\P0\P0\P\P0\P0\P
   7
 Arial
  73
@@ -9815,7 +9223,7 @@ Arial
   0
 MTEXT
   5
-157
+144
 100
 AcDbEntity
   8
@@ -9851,7 +9259,7 @@ Arial
   0
 MTEXT
   5
-158
+145
 100
 AcDbEntity
   8
@@ -9863,7 +9271,7 @@ DASHED
 100
 AcDbMText
  10
-126.9556186263
+114.6912595843
  20
 107.1070697245
  30
@@ -9887,115 +9295,7 @@ Arial
   0
 MTEXT
   5
-159
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHED
-100
-AcDbMText
- 10
--100.6300140467
- 20
-292.8893974341
- 30
-0.0
- 40
-3.0
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-\W1.135100;15x15x2\P15x15x1\P60x2\P\P50x5\P50x5
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-15A
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHED
-100
-AcDbMText
- 10
--120.6300140467
- 20
-292.8893974341
- 30
-0.0
- 40
-3.0
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-\W1.135138;3209.1\P3209.2\P3209.3\P\P3209.4\P3209.5\P
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-15B
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHED
-100
-AcDbMText
- 10
--80.6300140467
- 20
-292.8893974341
- 30
-0.0
- 40
-3.0
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-\W0.810867;Hebelbockwinkel\PHandfalle, Hebelklinke, Hebelschildchen\PHebelbock rechts, Hebelbock links, \P    Winkelhebel, Riegelplatte\PHebeleisen\PHebelrolle, Kuppelrolle\P
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-15C
+146
 100
 AcDbEntity
   8
@@ -10029,7 +9329,7 @@ Arial
   0
 LINE
   5
-15D
+147
 100
 AcDbEntity
   8
@@ -10053,7 +9353,7 @@ AcDbLine
   0
 LINE
   5
-15E
+148
 100
 AcDbEntity
   8
@@ -10077,7 +9377,7 @@ AcDbLine
   0
 LINE
   5
-15F
+149
 100
 AcDbEntity
   8
@@ -10101,7 +9401,7 @@ AcDbLine
   0
 LINE
   5
-160
+14A
 100
 AcDbEntity
   8
@@ -10125,7 +9425,7 @@ AcDbLine
   0
 LINE
   5
-161
+14B
 100
 AcDbEntity
   8
@@ -10149,7 +9449,7 @@ AcDbLine
   0
 LINE
   5
-162
+14C
 100
 AcDbEntity
   8
@@ -10173,7 +9473,7 @@ AcDbLine
   0
 LINE
   5
-163
+14D
 100
 AcDbEntity
   8
@@ -10197,7 +9497,7 @@ AcDbLine
   0
 LINE
   5
-164
+14E
 100
 AcDbEntity
   8
@@ -10221,7 +9521,7 @@ AcDbLine
   0
 LINE
   5
-165
+14F
 100
 AcDbEntity
   8
@@ -10245,7 +9545,7 @@ AcDbLine
   0
 LINE
   5
-166
+150
 100
 AcDbEntity
   8
@@ -10269,7 +9569,7 @@ AcDbLine
   0
 LINE
   5
-167
+151
 100
 AcDbEntity
   8
@@ -10293,7 +9593,7 @@ AcDbLine
   0
 LINE
   5
-168
+152
 100
 AcDbEntity
   8
@@ -10317,7 +9617,7 @@ AcDbLine
   0
 TEXT
   5
-169
+153
 100
 AcDbEntity
   8
@@ -10355,7 +9655,7 @@ AcDbText
   0
 TEXT
   5
-16A
+154
 100
 AcDbEntity
   8
@@ -10393,7 +9693,7 @@ AcDbText
   0
 TEXT
   5
-16B
+155
 100
 AcDbEntity
   8
@@ -10431,7 +9731,7 @@ AcDbText
   0
 TEXT
   5
-16C
+156
 100
 AcDbEntity
   8
@@ -10469,7 +9769,7 @@ AcDbText
   0
 TEXT
   5
-16D
+157
 100
 AcDbEntity
   8
@@ -10507,7 +9807,7 @@ AcDbText
   0
 TEXT
   5
-16E
+158
 100
 AcDbEntity
   8
@@ -10545,7 +9845,7 @@ AcDbText
   0
 TEXT
   5
-16F
+159
 100
 AcDbEntity
   8
@@ -10583,7 +9883,7 @@ AcDbText
   0
 TEXT
   5
-170
+15A
 100
 AcDbEntity
   8
@@ -10621,7 +9921,7 @@ AcDbText
   0
 TEXT
   5
-171
+15B
 100
 AcDbEntity
   8
@@ -10659,7 +9959,7 @@ AcDbText
   0
 TEXT
   5
-172
+15C
 100
 AcDbEntity
   8
@@ -10697,7 +9997,7 @@ AcDbText
   0
 LINE
   5
-173
+15D
 100
 AcDbEntity
   8
@@ -10721,7 +10021,7 @@ AcDbLine
   0
 LINE
   5
-174
+15E
 100
 AcDbEntity
   8
@@ -10745,7 +10045,7 @@ AcDbLine
   0
 LINE
   5
-175
+15F
 100
 AcDbEntity
   8
@@ -10769,7 +10069,7 @@ AcDbLine
   0
 LINE
   5
-176
+160
 100
 AcDbEntity
   8
@@ -10793,7 +10093,7 @@ AcDbLine
   0
 LINE
   5
-177
+161
 100
 AcDbEntity
   8
@@ -10817,7 +10117,7 @@ AcDbLine
   0
 LINE
   5
-178
+162
 100
 AcDbEntity
   8
@@ -10841,7 +10141,7 @@ AcDbLine
   0
 LINE
   5
-179
+163
 100
 AcDbEntity
   8
@@ -10865,7 +10165,7 @@ AcDbLine
   0
 LINE
   5
-17A
+164
 100
 AcDbEntity
   8
@@ -10889,7 +10189,7 @@ AcDbLine
   0
 LINE
   5
-17B
+165
 100
 AcDbEntity
   8
@@ -10913,7 +10213,7 @@ AcDbLine
   0
 LINE
   5
-17C
+166
 100
 AcDbEntity
   8
@@ -10937,7 +10237,7 @@ AcDbLine
   0
 MTEXT
   5
-17D
+167
 100
 AcDbEntity
   8
@@ -10977,7 +10277,7 @@ Arial
   0
 MTEXT
   5
-17E
+168
 100
 AcDbEntity
   8
@@ -11017,7 +10317,7 @@ Arial
   0
 LINE
   5
-17F
+169
 100
 AcDbEntity
   8
@@ -11041,7 +10341,7 @@ AcDbLine
   0
 LINE
   5
-180
+16A
 100
 AcDbEntity
   8
@@ -11067,7 +10367,7 @@ AcDbLine
   0
 LINE
   5
-181
+16B
 100
 AcDbEntity
   8
@@ -11093,7 +10393,7 @@ AcDbLine
   0
 LINE
   5
-182
+16C
 100
 AcDbEntity
   8
@@ -11119,7 +10419,7 @@ AcDbLine
   0
 LINE
   5
-183
+16D
 100
 AcDbEntity
   8
@@ -11145,7 +10445,7 @@ AcDbLine
   0
 LINE
   5
-184
+16E
 100
 AcDbEntity
   8
@@ -11171,7 +10471,7 @@ AcDbLine
   0
 TEXT
   5
-185
+16F
 100
 AcDbEntity
   8
@@ -11209,7 +10509,7 @@ AcDbText
   0
 TEXT
   5
-186
+170
 100
 AcDbEntity
   8
@@ -11247,7 +10547,7 @@ AcDbText
   0
 TEXT
   5
-187
+171
 100
 AcDbEntity
   8
@@ -11285,7 +10585,7 @@ AcDbText
   0
 TEXT
   5
-188
+172
 100
 AcDbEntity
   8
@@ -11323,7 +10623,7 @@ AcDbText
   0
 TEXT
   5
-189
+173
 100
 AcDbEntity
   8
