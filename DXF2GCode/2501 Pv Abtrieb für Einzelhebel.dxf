@@ -4205,7 +4205,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D216300288
+D343060736
 340
 0
 102
@@ -4223,7 +4223,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D216300544
+D343060992
 340
 0
 102
@@ -4241,7 +4241,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D216300800
+D343061504
 340
 0
 102
@@ -4259,7 +4259,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D216301056
+D343061760
 340
 0
 102
@@ -4277,7 +4277,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D216301312
+D343062272
 340
 0
 102
@@ -4295,7 +4295,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D216303360
+D343068160
 340
 0
 102
@@ -4405,7 +4405,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D216300288
+D343060736
  70
          0
  10
@@ -4415,7 +4415,7 @@ D216300288
  30
 0.0
   3
-D216300288
+D343060736
   1
 
   0
@@ -4635,7 +4635,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D216300544
+D343060992
  70
          0
  10
@@ -4645,7 +4645,7 @@ D216300544
  30
 0.0
   3
-D216300544
+D343060992
   1
 
   0
@@ -4865,7 +4865,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D216300800
+D343061504
  70
          0
  10
@@ -4875,7 +4875,7 @@ D216300800
  30
 0.0
   3
-D216300800
+D343061504
   1
 
   0
@@ -5095,7 +5095,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D216301056
+D343061760
  70
          0
  10
@@ -5105,7 +5105,7 @@ D216301056
  30
 0.0
   3
-D216301056
+D343061760
   1
 
   0
@@ -5319,7 +5319,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D216301312
+D343062272
  70
          0
  10
@@ -5329,7 +5329,7 @@ D216301312
  30
 0.0
   3
-D216301312
+D343062272
   1
 
   0
@@ -5549,7 +5549,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D216303360
+D343068160
  70
          0
  10
@@ -5559,7 +5559,7 @@ D216303360
  30
 0.0
   3
-D216303360
+D343068160
   1
 
   0
@@ -5787,9 +5787,9 @@ AcDbText
  40
 3.3
   1
-2501 Pv Unterzug für Einzelhebel
+2501 Pv Abtrieb für Einzelhebel
  41
-1.0318315609
+1.0318212781
   7
 Arial
  11
@@ -5823,9 +5823,9 @@ AcDbText
  40
 3.3
   1
-2026-05-06
+2026-05-08
  41
-1.0318366
+1.0318365856
   7
 Arial
  11
@@ -11073,7 +11073,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D216300288
+D343060736
  10
 0.0
  20
@@ -11093,7 +11093,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D216300544
+D343060992
  10
 0.0
  20
@@ -11113,7 +11113,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D216300800
+D343061504
  10
 0.0
  20
@@ -11133,7 +11133,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D216301056
+D343061760
  10
 0.0
  20
@@ -11153,7 +11153,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D216301312
+D343062272
  10
 0.0
  20
@@ -11173,7 +11173,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D216303360
+D343068160
  10
 0.0
  20
@@ -11663,9 +11663,9 @@ AcDbMText
  72
          1
   3
-\W0.972806;Unterzugrahmen\PUnterzugrad für Schalter\PUnterzugschieber\PSchieberabstandhalter\PSchalter\PUnterzugrad für Gestänge (Hebel ^ : Gestänge >; v: >)\PUnterzughebel\P\PM3x25 Radachse\PM3x5 Rahmenbefestigung\PM3x5 Seilbefestigung\PM12x5 Schieb
+\W0.972841;Abtriebrahmen\PAbtriebrad für Schalter\PAbtriebschieber\PSchieberabstandhalter\PSchalter\PAbtriebrad für Gestänge (Hebel ^ : Gestänge >; v: >)\PAnlenkung\P\PM3x25 Radachse\PM3x5 Rahmenbefestigung\PM3x5 Seilbefestigung\PM12x5 Schieberführun
   1
-erführung\PM12x5 Schalterbetätigung\PM3x16 Hebelachse\PM3x8(Stift) Hebelzapfen
+g\PM12x5 Schalterbetätigung\PM3x16 Anlenkungsachse\PM3x8(Stift) Hebelzapfen
   7
 Arial
  73
@@ -13187,9 +13187,9 @@ AcDbText
  40
 3.3
   1
-Unterzug für Einzelhebel
+Abtrieb für Einzelhebel
  41
-1.1301927271
+1.1302079763
  51
 15.0
   7

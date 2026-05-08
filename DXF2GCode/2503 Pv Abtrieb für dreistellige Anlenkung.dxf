@@ -4205,7 +4205,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D116669952
+D343114496
 340
 0
 102
@@ -4223,7 +4223,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D116676608
+D343114240
 340
 0
 102
@@ -4241,7 +4241,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D116675072
+D343113984
 340
 0
 102
@@ -4259,7 +4259,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D116674560
+D343113728
 340
 0
 102
@@ -4277,7 +4277,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D116674816
+D343113472
 340
 0
 102
@@ -4295,7 +4295,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D116669696
+D343113216
 340
 0
 102
@@ -4405,7 +4405,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D116669952
+D343114496
  70
          0
  10
@@ -4415,7 +4415,7 @@ D116669952
  30
 0.0
   3
-D116669952
+D343114496
   1
 
   0
@@ -4635,7 +4635,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D116676608
+D343114240
  70
          0
  10
@@ -4645,7 +4645,7 @@ D116676608
  30
 0.0
   3
-D116676608
+D343114240
   1
 
   0
@@ -4865,7 +4865,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D116675072
+D343113984
  70
          0
  10
@@ -4875,7 +4875,7 @@ D116675072
  30
 0.0
   3
-D116675072
+D343113984
   1
 
   0
@@ -5089,7 +5089,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D116674560
+D343113728
  70
          0
  10
@@ -5099,7 +5099,7 @@ D116674560
  30
 0.0
   3
-D116674560
+D343113728
   1
 
   0
@@ -5319,7 +5319,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D116674816
+D343113472
  70
          0
  10
@@ -5329,7 +5329,7 @@ D116674816
  30
 0.0
   3
-D116674816
+D343113472
   1
 
   0
@@ -5543,7 +5543,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D116669696
+D343113216
  70
          0
  10
@@ -5553,7 +5553,7 @@ D116669696
  30
 0.0
   3
-D116669696
+D343113216
   1
 
   0
@@ -5787,9 +5787,9 @@ AcDbText
  40
 3.3
   1
-2503 Pv Unterzug für dreistelligen Abtrieb
+2503 Pv Abtrieb für dreistellige Anlenkung
  41
-0.8844149565
+0.8844218117
   7
 Arial
  11
@@ -5823,9 +5823,9 @@ AcDbText
  40
 3.3
   1
-2026-05-04
+2026-05-08
  41
-1.0318366
+1.0318365856
   7
 Arial
  11
@@ -9829,7 +9829,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D116669952
+D343114496
  10
 0.0
  20
@@ -11457,7 +11457,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D116676608
+D343114240
  10
 0.0
  20
@@ -13953,7 +13953,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D116675072
+D343113984
  10
 0.0
  20
@@ -13973,7 +13973,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D116674560
+D343113728
  10
 0.0
  20
@@ -14041,7 +14041,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D116674816
+D343113472
  10
 0.0
  20
@@ -14061,7 +14061,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D116669696
+D343113216
  10
 0.0
  20
@@ -14405,9 +14405,9 @@ AcDbMText
  72
          1
   3
-\W0.648551;Unterzugrad für Schalter\PUnterzugschieber\PSchieberabstandhalter\PZweifachhebel-Unterzugrad rechtsgewendelt\P   Hebel ^ : Gestänge <; v: > \PZweifachhebel-Unterzugrad linksgewendelt\P   Hebel ^ : Gestänge >; v: < \PDoppelhebel-Unterzugrad 
+\W0.648555;Abtriebrad für Schalter\PAbtriebschieber\PSchieberabstandhalter\PZweifachhebel-Abtriebrad rechtsgewendelt\P   Hebel ^ : Gestänge <; v: > \PZweifachhebel-Abtriebrad linksgewendelt\P   Hebel ^ : Gestänge >; v: < \PDoppelhebel-Abtriebrad recht
   1
-rechtsgewendelt\P   Hebel ^ : Gestänge <; v: > \PDoppelhebel-Unterzugrad linksgewendelt\P   Hebel ^ : Gestänge >; v: < \PUnterzughebel
+sgewendelt\P   Hebel ^ : Gestänge <; v: > \PDoppelhebel-Abtriebrad linksgewendelt\P   Hebel ^ : Gestänge >; v: < \PAnlenkung
   7
 Arial
  73
@@ -15749,9 +15749,9 @@ AcDbText
  40
 3.3
   1
-Unterzug für dreistelligen Abtrieb
+Abtrieb für dreistellige Anlenkung
  41
-1.1302002971
+1.0318041391
  51
 15.0
   7
