@@ -25,7 +25,7 @@ $INSBASE
   9
 $EXTMIN
  10
-0.0
+-106.0
  20
 0.0
  30
@@ -33,23 +33,23 @@ $EXTMIN
   9
 $EXTMAX
  10
-210.0
+105.0
  20
-297.0
+178.1908874512
  30
 0.0
   9
 $LIMMIN
  10
-0.0
+-106.0
  20
 0.0
   9
 $LIMMAX
  10
-210.0
+105.0
  20
-297.0
+178.1908874512
   9
 $ORTHOMODE
  70
@@ -73,7 +73,7 @@ $MIRRTEXT
   9
 $LTSCALE
  40
-5.25
+5.275
   9
 $ATTMODE
  70
@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-1F7
+23B
   9
 $SURFTAB1
  70
@@ -1277,9 +1277,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-105.0
+52.5
  22
-148.5
+74.25
  13
 0.0
  23
@@ -1305,7 +1305,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-231.2943892345
+115.6471946172
  41
 1.0
  42
@@ -1763,7 +1763,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-       142
+       109
   0
 LAYER
   5
@@ -1981,57 +1981,13 @@ DASHDOT
 290
          1
 370
-        25
+        13
 390
 1D
   0
 LAYER
   5
 3C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-BESCHRIFTUNG00
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        25
-390
-1D
-  0
-LAYER
-  5
-3D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-BESCHRIFTUNG0
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        25
-390
-1D
-  0
-LAYER
-  5
-3E
 100
 AcDbSymbolTableRecord
 100
@@ -2053,7 +2009,7 @@ CONTINUOUS
   0
 LAYER
   5
-3F
+3D
 100
 AcDbSymbolTableRecord
 100
@@ -2075,7 +2031,7 @@ DASHED
   0
 LAYER
   5
-40
+3E
 100
 AcDbSymbolTableRecord
 100
@@ -2097,7 +2053,7 @@ DASHED
   0
 LAYER
   5
-41
+3F
 100
 AcDbSymbolTableRecord
 100
@@ -2119,2339 +2075,7 @@ CONTINUOUS
   0
 LAYER
   5
-42
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-SCHNITTVERLAUF
- 70
-        64
- 62
-        34
-  6
-DASHDOT
-290
-         1
-370
-        70
-390
-1D
-  0
-LAYER
-  5
-43
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-KENNZEICHNUNG
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-44
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-PFEILE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        70
-390
-1D
-  0
-LAYER
-  5
-45
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-SCHNITTDARSTELLUNG
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-46
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_3R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-47
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_3L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-48
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_1P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-49
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_2P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_6L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_7L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_9P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_8R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_8L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-50
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_9T
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-51
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_11P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-52
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_6R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-53
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_7R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-54
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201___ EINZELHEBEL JE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-55
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_1P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-56
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_2P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-57
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_9P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-58
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_9T
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-59
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_11P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-5A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_20T
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-5B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_20P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-5C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202___ DOPPELHEBEL JE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-5D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203_13P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-5E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203_14P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-5F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203_11P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-60
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203_30P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-61
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203___ EINZELHEBEL JE MIT SCHLOSS
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-62
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3204_11P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-63
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3204_30P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-64
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3204___ DOPPELHEBEL JE MIT SCHLOSS
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-65
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-66
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_3P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-67
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_1L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-68
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-69
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_2L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_2R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_5P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_5T
- 70
-        64
- 62
-        15
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206___ EINZELHEBEL JE GRUPPENPFADE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-6E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_3P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-70
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_1L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-71
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-72
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_2L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-73
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_2R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-74
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_5P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-75
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_5T
- 70
-        64
- 62
-        15
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-76
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207___ DOPPELHEBEL JE GRUPPENPFADE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-77
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-78
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_3P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-79
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_1L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_2L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_2R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_5P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_5T
- 70
-        64
- 62
-        15
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208___ EINZELHEBEL JE MIT SCHLOSS GRUPPENPFADE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-80
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-81
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_3P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-82
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_1L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-83
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-84
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_2L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-85
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_2R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-86
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_5P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-87
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_5T
- 70
-        64
- 62
-        15
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-88
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-89
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-FRƒSPFADE
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-8A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELSCHILDCHEN UMGELEGT
- 70
-        64
- 62
-        16
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-8B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELSCHILDCHEN
- 70
-        64
- 62
-        16
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-8C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELBOCK
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-8D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELEISEN UMGELEGT
- 70
-        64
- 62
-         5
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-8E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELEISEN
- 70
-        64
- 62
-         5
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-8F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELROLLE UMGELEGT
- 70
-        64
- 62
-       134
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-90
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELROLLE
- 70
-        64
- 62
-       134
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-91
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201-3204 WINKELHEBEL UMGELEGT
- 70
-        64
- 62
-       190
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-92
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201-3204 WINKELHEBEL
- 70
-        64
- 62
-       190
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-93
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HANDFALLE ANGEZOGEN
- 70
-        64
- 62
-        30
-  6
-HIDDEN
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-94
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HANDFALLE UMGELEGT
- 70
-        64
- 62
-        30
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-95
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HANDFALLE
- 70
-        64
- 62
-       114
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-96
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELKLINKE UMGELEGT
- 70
-        64
- 62
-       171
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-97
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELKLINKE
- 70
-        64
- 62
-       171
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-98
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 SEILZUG
- 70
-        64
- 62
-        94
-  6
-DASHDOT
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-99
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203 SCHLOSSRIEGELPLATTE AUFGESPERRT
- 70
-        64
- 62
-       172
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203 SCHLOSSRIEGELPLATTE
- 70
-        64
- 62
-       172
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201-3204 HEBEL JE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-9C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2001 BODEN
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2001 GEBƒUDE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-9E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2101 TRƒGER
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2101 HEBELBANK
- 70
-        64
- 62
-         9
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A0
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 RIEGEL UMGESPERRT
- 70
-        64
- 62
-       230
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 RIEGEL
- 70
-        64
- 62
-       230
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 ZUHALTUNG ANGEHOBEN
- 70
-        64
- 62
-        94
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A3
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 ZUHALTUNG
- 70
-        64
- 62
-        94
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A4
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 GEHƒUSE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A5
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 BESATZUNG
- 70
-        64
- 62
-         8
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A6
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 SCHLOSS MIT DORN
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-A7
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2053 SCHILD
- 70
-        64
- 62
-        54
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A8
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2053 SCHL‹SSEL
- 70
-        64
- 62
-       190
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A9
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2053 SCHL‹SSEL MIT DORN
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-AA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBERANTRIEB VERDREHT
- 70
-        64
- 62
-       171
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-AB
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBERANTRIEB
- 70
-        64
- 62
-       171
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-AC
+40
 100
 AcDbSymbolTableRecord
 100
@@ -4473,73 +2097,7 @@ CONTINUOUS
   0
 LAYER
   5
-AD
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 HEBELANLENKUNG
- 70
-        64
- 62
-       230
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-AE
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBER VERSCHOBEN
- 70
-        64
- 62
-       172
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-AF
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBER
- 70
-        64
- 62
-       172
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B0
+41
 100
 AcDbSymbolTableRecord
 100
@@ -4561,7 +2119,7 @@ DASHED
   0
 LAYER
   5
-B1
+42
 100
 AcDbSymbolTableRecord
 100
@@ -4583,73 +2141,7 @@ CONTINUOUS
   0
 LAYER
   5
-B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 ANLENKUNGSLAGER
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B3
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 RAHMEN QUER
- 70
-        64
- 62
-         8
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B4
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBERRECHEN
- 70
-        64
- 62
-        34
-  6
-BORDER
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B5
+43
 100
 AcDbSymbolTableRecord
 100
@@ -4671,7 +2163,7 @@ DASHED
   0
 LAYER
   5
-B6
+44
 100
 AcDbSymbolTableRecord
 100
@@ -4693,7 +2185,205 @@ CONTINUOUS
   0
 LAYER
   5
-B7
+45
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 FAHRSTRAﬂENSCHIEBER VERSCHOBEN
+ 70
+        64
+ 62
+       172
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+46
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 FAHRSTRAﬂENSCHIEBER
+ 70
+        64
+ 62
+       172
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+47
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 VERSCHLUSSST‹CKE VERSCHOBEN
+ 70
+        64
+ 62
+       190
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+48
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 VERSCHLUSSST‹CKE
+ 70
+        64
+ 62
+       190
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+49
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 HEBELANLENKUNG
+ 70
+        64
+ 62
+       230
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 RAHMEN QUER
+ 70
+        64
+ 62
+         8
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 ANLENKUNGSLAGER
+ 70
+        64
+ 62
+       252
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 FAHRSTRAﬂENSCHIEBERANTRIEB VERDREHT
+ 70
+        64
+ 62
+       171
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 FAHRSTRAﬂENSCHIEBERANTRIEB
+ 70
+        64
+ 62
+       171
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4E
 100
 AcDbSymbolTableRecord
 100
@@ -4715,95 +2405,7 @@ CONTINUOUS
   0
 LAYER
   5
-B8
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3304 KLOBEN
- 70
-        64
- 62
-       190
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-B9
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3211 TRƒGER JE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-BA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3211 STƒNDER JE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-BB
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3211 HEBELBANK JE
- 70
-        64
- 62
-         9
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-BC
+4F
 100
 AcDbSymbolTableRecord
 100
@@ -4825,7 +2427,117 @@ CONTINUOUS
   0
 LAYER
   5
-BD
+50
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HANDFALLE UMGELEGT
+ 70
+        64
+ 62
+       134
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+51
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HANDFALLE ANGEZOGEN
+ 70
+        64
+ 62
+       134
+  6
+DIVIDE
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+52
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HANDFALLE
+ 70
+        64
+ 62
+       134
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+53
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HEBELEISEN UMGELEGT
+ 70
+        64
+ 62
+         5
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+54
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HEBELEISEN
+ 70
+        64
+ 62
+         5
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+55
 100
 AcDbSymbolTableRecord
 100
@@ -4847,13 +2559,123 @@ CONTINUOUS
   0
 LAYER
   5
-BE
+56
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-KONSTRUKTION
+2052 GEHƒUSE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+57
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 RIEGEL UMGESPERRT
+ 70
+        64
+ 62
+       230
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+58
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 RIEGEL
+ 70
+        64
+ 62
+       230
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+59
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 ZUHALTUNG
+ 70
+        64
+ 62
+        94
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+5A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 BESATZUNG
+ 70
+        64
+ 62
+         8
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+5B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 SCHLOSS MIT DORN
  70
         64
  62
@@ -4869,7 +2691,1459 @@ CONTINUOUS
   0
 LAYER
   5
-BF
+5C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2053 SCHILD
+ 70
+        64
+ 62
+        54
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+5D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2053 SCHL‹SSEL
+ 70
+        64
+ 62
+       190
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+5E
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2053 SCHL‹SSEL MIT DORN
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+5F
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2001 BODEN
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+60
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2001 GEBƒUDE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+61
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3304 KLOBEN
+ 70
+        64
+ 62
+       190
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+62
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201-3204 WINKELHEBEL UMGELEGT
+ 70
+        64
+ 62
+       190
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+63
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201-3204 WINKELHEBEL
+ 70
+        64
+ 62
+       190
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+64
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELBOCK
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+65
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 SEILZUG
+ 70
+        64
+ 62
+        94
+  6
+DASHDOT
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+66
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELKLINKE UMGELEGT
+ 70
+        64
+ 62
+       171
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+67
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELKLINKE
+ 70
+        64
+ 62
+       171
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+68
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HANDFALLE UMGELEGT
+ 70
+        64
+ 62
+        30
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+69
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HANDFALLE ANGEZOGEN
+ 70
+        64
+ 62
+        30
+  6
+HIDDEN
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HANDFALLE
+ 70
+        64
+ 62
+       114
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELEISEN UMGELEGT
+ 70
+        64
+ 62
+         5
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELEISEN
+ 70
+        64
+ 62
+         5
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELSCHILDCHEN UMGELEGT
+ 70
+        64
+ 62
+        16
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6E
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELSCHILDCHEN
+ 70
+        64
+ 62
+        16
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6F
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELROLLE
+ 70
+        64
+ 62
+       134
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+70
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201-3204 HEBEL JE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+71
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3211 STƒNDER JE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+72
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3211 TRƒGER JE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+73
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3211 HEBELBANK JE
+ 70
+        64
+ 62
+         9
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+74
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2501 ABTRIEBRAHMEN
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+75
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2501 ROLLEN
+ 70
+        64
+ 62
+       134
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+76
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2501 ABTRIEB
+ 70
+        64
+ 62
+         9
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+77
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBELBOCK
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+78
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBEL NACH OBEN UMGELEGT
+ 70
+        64
+ 62
+         5
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+79
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBEL NACH UNTEN UMGELEGT
+ 70
+        64
+ 62
+         5
+  6
+DASHED
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBEL
+ 70
+        64
+ 62
+         5
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HANDFALLE ANGEZOGEN
+ 70
+        64
+ 62
+        30
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HANDFALLE NACH OBEN UMGELEGT
+ 70
+        64
+ 62
+        30
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HANDFALLE NACH UNTEN UMGELEGT
+ 70
+        64
+ 62
+        30
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7E
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HANDFALLE
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7F
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBELSCHILD
+ 70
+        64
+ 62
+       171
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+80
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 FAHRSTRAﬂENHEBEL JE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+81
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2101 HEBELBANK
+ 70
+        64
+ 62
+         9
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+82
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+1088 GEHƒUSE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+83
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+1088 BAUTEIL
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+84
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+KONSTRUKTION
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+85
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+SCHNITTDARSTELLUNG
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+86
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_2L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+87
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_2R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+88
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_1P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+89
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_6P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_7R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_7L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_8R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_8L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8E
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303___ FAHRSTRAﬂENHEBEL JE
+ 70
+        64
+ 62
+         6
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8F
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3304_1P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+90
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3304___ KLOBEN
+ 70
+        64
+ 62
+         6
+  6
+DASHDOT
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+91
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+1088_1P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+92
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+1088_1R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+93
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+1088___ VORLAGEN
+ 70
+        64
+ 62
+       230
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+94
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_2L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+95
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_2R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+96
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_1P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+97
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_4P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+98
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_5R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+99
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_5L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+9A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_6R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+9B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_6L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+9C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302___ HEBELERSATZSCHLOSS JE
+ 70
+        64
+ 62
+         6
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+9D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+FRƒSPFADE
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+9E
 100
 AcDbSymbolTableRecord
 100
@@ -5315,7 +4589,7 @@ BLOCK_RECORD
 100
 AcDbSymbolTable
  70
-         8
+         4
   0
 BLOCK_RECORD
   5
@@ -5343,145 +4617,73 @@ AcDbBlockTableRecord
   0
 BLOCK_RECORD
   5
-C0
+9F
 100
 AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378136320
+D486182144
 340
 0
 102
 {BLKREFS
 331
-15A
+F0
 102
 }
   0
 BLOCK_RECORD
   5
-C9
+A8
 100
 AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378332928
+D486183168
 340
 0
 102
 {BLKREFS
 331
-15B
+16D
 102
 }
   0
 BLOCK_RECORD
   5
-D2
+B1
 100
 AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378332672
+D486187776
 340
 0
 102
 {BLKREFS
 331
-15C
+173
 102
 }
   0
 BLOCK_RECORD
   5
-DB
+BA
 100
 AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378332416
+D486181376
 340
 0
 102
 {BLKREFS
 331
-15D
-102
-}
-  0
-BLOCK_RECORD
-  5
-E4
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378332160
-340
-0
-102
-{BLKREFS
-331
-15E
-102
-}
-  0
-BLOCK_RECORD
-  5
-ED
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378331904
-340
-0
-102
-{BLKREFS
-331
-179
-102
-}
-  0
-BLOCK_RECORD
-  5
-F6
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378331648
-340
-0
-102
-{BLKREFS
-331
-17A
-102
-}
-  0
-BLOCK_RECORD
-  5
-FF
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378331392
-340
-0
-102
-{BLKREFS
-331
-17B
+1E2
 102
 }
   0
@@ -5575,7 +4777,7 @@ AcDbBlockEnd
   0
 BLOCK
   5
-C1
+A0
 100
 AcDbEntity
   8
@@ -5585,7 +4787,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D378136320
+D486182144
  70
          0
  10
@@ -5595,13 +4797,41 @@ D378136320
  30
 0.0
   3
-D378136320
+D486182144
   1
 
   0
+ARC
+  5
+A1
+100
+AcDbEntity
+  8
+MASSLINIEN
+390
+0
+ 62
+       172
+100
+AcDbCircle
+ 10
+73.5
+ 20
+118.75
+ 30
+0.0
+ 40
+15.2643375225
+100
+AcDbArc
+ 50
+90.0
+ 51
+135.0024463739
+  0
 LINE
   5
-C2
+A2
 100
 AcDbEntity
   8
@@ -5613,21 +4843,21 @@ MASSLINIEN
 100
 AcDbLine
  10
-60.1308918546
+73.5
  20
-69.3445120984
+130.5
  30
 0.0
  11
-110.1298307756
+73.5
  21
-69.3445120986
+135.0143375225
  31
 0.0
   0
 LINE
   5
-C3
+A3
 100
 AcDbEntity
   8
@@ -5639,47 +4869,21 @@ MASSLINIEN
 100
 AcDbLine
  10
-60.130891854
+65.1911405781
  20
-266.0444241573
+127.0581499208
  30
 0.0
  11
-60.1308918546
+61.9988856115
  21
-67.3445120984
- 31
-0.0
-  0
-LINE
-  5
-C4
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-110.1298307759
- 20
-266.0
- 30
-0.0
- 11
-110.1298307756
- 21
-67.3445120986
+130.2501322978
  31
 0.0
   0
 SOLID
   5
-C5
+A4
 100
 AcDbEntity
   8
@@ -5689,33 +4893,33 @@ MASSGRENZEN
 100
 AcDbTrace
  10
-60.1308918546
+73.5
  20
-69.3445120984
+134.0143375225
  30
 0.0
  11
-63.1052264388
+72.0128327079
  21
-69.7360906751
+133.8185482341
  31
 0.0
  12
-63.1052264388
+72.0128327079
  22
-68.9529335218
+134.2101268108
  32
 0.0
  13
-63.1052264388
+72.0128327079
  23
-68.9529335218
+134.2101268108
  33
 0.0
   0
 SOLID
   5
-C6
+A5
 100
 AcDbEntity
   8
@@ -5725,33 +4929,33 @@ MASSGRENZEN
 100
 AcDbTrace
  10
-110.1298307756
+62.7060225836
  20
-69.3445120986
+129.5430557088
  30
 0.0
  11
-107.1554961915
+63.6191139152
  21
-68.9529335219
+130.7331247069
  31
 0.0
  12
-107.1554961915
+63.8960136043
  22
-69.7360906752
+130.4562486626
  32
 0.0
  13
-107.1554961915
+63.8960136043
  23
-69.7360906752
+130.4562486626
  33
 0.0
   0
 MTEXT
   5
-C7
+A6
 100
 AcDbEntity
   8
@@ -5763,13 +4967,243 @@ MASSTEXTE
 100
 AcDbMText
  10
-85.1303613151
+67.1883303828
  20
-71.8005120985
+133.9867983382
  30
 0.0
  40
-2.0
+1.0
+ 41
+0.0
+ 71
+         5
+ 72
+         1
+  1
+\W1.135147;\A1;45∞
+  7
+Arial
+ 11
+0.9238713625
+ 21
+0.3827031558
+ 31
+0.0
+ 73
+         0
+ 44
+0.0
+  0
+ENDBLK
+  5
+A7
+100
+AcDbEntity
+  8
+0
+390
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A9
+100
+AcDbEntity
+  8
+BEMASSUNG
+390
+0
+100
+AcDbBlockBegin
+  2
+D486183168
+ 70
+         0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+D486183168
+  1
+
+  0
+LINE
+  5
+AA
+100
+AcDbEntity
+  8
+MASSLINIEN
+390
+0
+ 62
+       172
+100
+AcDbLine
+ 10
+32.0
+ 20
+31.0
+ 30
+0.0
+ 11
+82.0
+ 21
+31.0
+ 31
+0.0
+  0
+LINE
+  5
+AB
+100
+AcDbEntity
+  8
+MASSLINIEN
+390
+0
+ 62
+       172
+100
+AcDbLine
+ 10
+32.0
+ 20
+62.0
+ 30
+0.0
+ 11
+32.0
+ 21
+30.0
+ 31
+0.0
+  0
+LINE
+  5
+AC
+100
+AcDbEntity
+  8
+MASSLINIEN
+390
+0
+ 62
+       172
+100
+AcDbLine
+ 10
+82.0
+ 20
+62.0
+ 30
+0.0
+ 11
+82.0
+ 21
+30.0
+ 31
+0.0
+  0
+SOLID
+  5
+AD
+100
+AcDbEntity
+  8
+MASSGRENZEN
+390
+0
+100
+AcDbTrace
+ 10
+32.0
+ 20
+31.0
+ 30
+0.0
+ 11
+33.4871672921
+ 21
+31.1957892883
+ 31
+0.0
+ 12
+33.4871672921
+ 22
+30.8042107117
+ 32
+0.0
+ 13
+33.4871672921
+ 23
+30.8042107117
+ 33
+0.0
+  0
+SOLID
+  5
+AE
+100
+AcDbEntity
+  8
+MASSGRENZEN
+390
+0
+100
+AcDbTrace
+ 10
+82.0
+ 20
+31.0
+ 30
+0.0
+ 11
+80.5128327079
+ 21
+30.8042107117
+ 31
+0.0
+ 12
+80.5128327079
+ 22
+31.1957892883
+ 32
+0.0
+ 13
+80.5128327079
+ 23
+31.1957892883
+ 33
+0.0
+  0
+MTEXT
+  5
+AF
+100
+AcDbEntity
+  8
+MASSTEXTE
+390
+0
+ 62
+       212
+100
+AcDbMText
+ 10
+57.0
+ 20
+32.228
+ 30
+0.0
+ 40
+1.0
  41
 0.0
  71
@@ -5780,12 +5214,6 @@ AcDbMText
 \W1.135145;\A1;50
   7
 Arial
- 11
-1.0
- 21
-0.0
- 31
-0.0
  73
          0
  44
@@ -5793,7 +5221,7 @@ Arial
   0
 ENDBLK
   5
-C8
+B0
 100
 AcDbEntity
   8
@@ -5805,7 +5233,7 @@ AcDbBlockEnd
   0
 BLOCK
   5
-CA
+B2
 100
 AcDbEntity
   8
@@ -5815,7 +5243,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D378332928
+D486187776
  70
          0
  10
@@ -5825,13 +5253,13 @@ D378332928
  30
 0.0
   3
-D378332928
+D486187776
   1
 
   0
 LINE
   5
-CB
+B3
 100
 AcDbEntity
   8
@@ -5843,21 +5271,21 @@ MASSLINIEN
 100
 AcDbLine
  10
-38.1445673191
+23.0
  20
-261.2779864832
+40.5
  30
 0.0
  11
-38.1445673191
+23.0
  21
-224.2779864832
+61.5
  31
 0.0
   0
 LINE
   5
-CC
+B4
 100
 AcDbEntity
   8
@@ -5869,21 +5297,21 @@ MASSLINIEN
 100
 AcDbLine
  10
-60.1308918538
+32.0
  20
-261.2779864832
+40.5
  30
 0.0
  11
-36.1445673191
+22.0
  21
-261.2779864832
+40.5
  31
 0.0
   0
 LINE
   5
-CD
+B5
 100
 AcDbEntity
   8
@@ -5895,21 +5323,21 @@ MASSLINIEN
 100
 AcDbLine
  10
-60.1308918538
+32.0
  20
-224.2779864832
+61.5
  30
 0.0
  11
-36.1445673191
+22.0
  21
-224.2779864832
+61.5
  31
 0.0
   0
 SOLID
   5
-CE
+B6
 100
 AcDbEntity
   8
@@ -5919,33 +5347,33 @@ MASSGRENZEN
 100
 AcDbTrace
  10
-38.1445673191
+23.0
  20
-261.2779864832
+40.5
  30
 0.0
  11
-38.5361458957
+22.8042107117
  21
-258.3036518991
+41.9871672921
  31
 0.0
  12
-37.7529887424
+23.1957892883
  22
-258.3036518991
+41.9871672921
  32
 0.0
  13
-37.7529887424
+23.1957892883
  23
-258.3036518991
+41.9871672921
  33
 0.0
   0
 SOLID
   5
-CF
+B7
 100
 AcDbEntity
   8
@@ -5955,33 +5383,33 @@ MASSGRENZEN
 100
 AcDbTrace
  10
-38.1445673191
+23.0
  20
-224.2779864832
+61.5
  30
 0.0
  11
-37.7529887424
+23.1957892883
  21
-227.2523210673
+60.0128327079
  31
 0.0
  12
-38.5361458957
+22.8042107117
  22
-227.2523210673
+60.0128327079
  32
 0.0
  13
-38.5361458957
+22.8042107117
  23
-227.2523210673
+60.0128327079
  33
 0.0
   0
 MTEXT
   5
-D0
+B8
 100
 AcDbEntity
   8
@@ -5993,473 +5421,13 @@ MASSTEXTE
 100
 AcDbMText
  10
-35.6885673191
+21.772
  20
-242.7779864832
+51.0
  30
 0.0
  40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;37
-  7
-Arial
- 11
-0.0
- 21
 1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-D1
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-D3
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378332672
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378332672
-  1
-
-  0
-LINE
-  5
-D4
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-38.1445673191
- 20
-203.8603314763
- 30
-0.0
- 11
-38.1445673191
- 21
-168.8603314763
- 31
-0.0
-  0
-LINE
-  5
-D5
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-60.1308918538
- 20
-203.8603314763
- 30
-0.0
- 11
-36.1445673191
- 21
-203.8603314763
- 31
-0.0
-  0
-LINE
-  5
-D6
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-60.1308918538
- 20
-168.8603314763
- 30
-0.0
- 11
-36.1445673191
- 21
-168.8603314763
- 31
-0.0
-  0
-SOLID
-  5
-D7
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-38.1445673191
- 20
-203.8603314763
- 30
-0.0
- 11
-38.5361458957
- 21
-200.8859968922
- 31
-0.0
- 12
-37.7529887424
- 22
-200.8859968922
- 32
-0.0
- 13
-37.7529887424
- 23
-200.8859968922
- 33
-0.0
-  0
-SOLID
-  5
-D8
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-38.1445673191
- 20
-168.8603314763
- 30
-0.0
- 11
-37.7529887424
- 21
-171.8346660604
- 31
-0.0
- 12
-38.5361458957
- 22
-171.8346660604
- 32
-0.0
- 13
-38.5361458957
- 23
-171.8346660604
- 33
-0.0
-  0
-MTEXT
-  5
-D9
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-35.6885673191
- 20
-186.3603314763
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;35
-  7
-Arial
- 11
-0.0
- 21
-1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-DA
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-DC
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378332416
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378332416
-  1
-
-  0
-LINE
-  5
-DD
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-38.1445673191
- 20
-144.5538896906
- 30
-0.0
- 11
-38.1445673191
- 21
-123.5564606742
- 31
-0.0
-  0
-LINE
-  5
-DE
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-60.1308918538
- 20
-144.5538896906
- 30
-0.0
- 11
-36.1445673191
- 21
-144.5538896906
- 31
-0.0
-  0
-LINE
-  5
-DF
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-60.1308918538
- 20
-123.5564606742
- 30
-0.0
- 11
-36.1445673191
- 21
-123.5564606742
- 31
-0.0
-  0
-SOLID
-  5
-E0
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-38.1445673191
- 20
-144.5538896906
- 30
-0.0
- 11
-38.5361458957
- 21
-141.5795551064
- 31
-0.0
- 12
-37.7529887424
- 22
-141.5795551064
- 32
-0.0
- 13
-37.7529887424
- 23
-141.5795551064
- 33
-0.0
-  0
-SOLID
-  5
-E1
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-38.1445673191
- 20
-123.5564606742
- 30
-0.0
- 11
-37.7529887424
- 21
-126.5307952583
- 31
-0.0
- 12
-38.5361458957
- 22
-126.5307952583
- 32
-0.0
- 13
-38.5361458957
- 23
-126.5307952583
- 33
-0.0
-  0
-MTEXT
-  5
-E2
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-35.6885673191
- 20
-134.0551751824
- 30
-0.0
- 40
-2.0
  41
 0.0
  71
@@ -6483,7 +5451,7 @@ Arial
   0
 ENDBLK
   5
-E3
+B9
 100
 AcDbEntity
   8
@@ -6495,7 +5463,7 @@ AcDbBlockEnd
   0
 BLOCK
   5
-E5
+BB
 100
 AcDbEntity
   8
@@ -6505,7 +5473,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D378332160
+D486181376
  70
          0
  10
@@ -6515,13 +5483,41 @@ D378332160
  30
 0.0
   3
-D378332160
+D486181376
   1
 
   0
+ARC
+  5
+BC
+100
+AcDbEntity
+  8
+MASSLINIEN
+390
+0
+ 62
+       172
+100
+AcDbCircle
+ 10
+-58.5
+ 20
+161.75
+ 30
+0.0
+ 40
+15.2643375225
+100
+AcDbArc
+ 50
+90.0
+ 51
+135.0024463739
+  0
 LINE
   5
-E6
+BD
 100
 AcDbEntity
   8
@@ -6533,21 +5529,21 @@ MASSLINIEN
 100
 AcDbLine
  10
-38.0725322099
+-58.5
  20
-104.5538896906
+173.5
  30
 0.0
  11
-38.0725322099
+-58.5
  21
-83.5564606742
+178.0143375225
  31
 0.0
   0
 LINE
   5
-E7
+BE
 100
 AcDbEntity
   8
@@ -6559,47 +5555,21 @@ MASSLINIEN
 100
 AcDbLine
  10
-60.1308918538
+-66.8088594219
  20
-104.5538896906
+170.0581499208
  30
 0.0
  11
-36.0725322099
+-70.0011143885
  21
-104.5538896906
- 31
-0.0
-  0
-LINE
-  5
-E8
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-60.1308918538
- 20
-83.5564606742
- 30
-0.0
- 11
-36.0725322099
- 21
-83.5564606742
+173.2501322978
  31
 0.0
   0
 SOLID
   5
-E9
+BF
 100
 AcDbEntity
   8
@@ -6609,33 +5579,33 @@ MASSGRENZEN
 100
 AcDbTrace
  10
-38.0725322099
+-58.5
  20
-104.5538896906
+177.0143375225
  30
 0.0
  11
-38.4641107865
+-59.9871672921
  21
-101.5795551064
+176.8185482341
  31
 0.0
  12
-37.6809536332
+-59.9871672921
  22
-101.5795551064
+177.2101268108
  32
 0.0
  13
-37.6809536332
+-59.9871672921
  23
-101.5795551064
+177.2101268108
  33
 0.0
   0
 SOLID
   5
-EA
+C0
 100
 AcDbEntity
   8
@@ -6645,33 +5615,33 @@ MASSGRENZEN
 100
 AcDbTrace
  10
-38.0725322099
+-69.2939774164
  20
-83.5564606742
+172.5430557088
  30
 0.0
  11
-37.6809536332
+-68.3808860848
  21
-86.5307952583
+173.7331247069
  31
 0.0
  12
-38.4641107865
+-68.1039863957
  22
-86.5307952583
+173.4562486626
  32
 0.0
  13
-38.4641107865
+-68.1039863957
  23
-86.5307952583
+173.4562486626
  33
 0.0
   0
 MTEXT
   5
-EB
+C1
 100
 AcDbEntity
   8
@@ -6683,243 +5653,13 @@ MASSTEXTE
 100
 AcDbMText
  10
-35.6165322099
+-64.8116696172
  20
-94.0551751824
+176.9867983382
  30
 0.0
  40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;21
-  7
-Arial
- 11
-0.0
- 21
 1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-EC
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-EE
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378331904
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378331904
-  1
-
-  0
-LINE
-  5
-EF
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-124.3136800251
- 20
-262.8591317078
- 30
-0.0
- 11
-124.3136800251
- 21
-216.8591317082
- 31
-0.0
-  0
-LINE
-  5
-F0
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-140.2904143258
- 20
-262.8591317078
- 30
-0.0
- 11
-122.3136800251
- 21
-262.8591317078
- 31
-0.0
-  0
-LINE
-  5
-F1
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-140.2904143259
- 20
-216.8591317082
- 30
-0.0
- 11
-122.3136800251
- 21
-216.8591317082
- 31
-0.0
-  0
-SOLID
-  5
-F2
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-124.3136800251
- 20
-262.8591317078
- 30
-0.0
- 11
-124.7052586018
- 21
-259.8847971236
- 31
-0.0
- 12
-123.9221014485
- 22
-259.8847971236
- 32
-0.0
- 13
-123.9221014485
- 23
-259.8847971236
- 33
-0.0
-  0
-SOLID
-  5
-F3
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-124.3136800251
- 20
-216.8591317082
- 30
-0.0
- 11
-123.9221014485
- 21
-219.8334662924
- 31
-0.0
- 12
-124.7052586018
- 22
-219.8334662924
- 32
-0.0
- 13
-124.7052586018
- 23
-219.8334662924
- 33
-0.0
-  0
-MTEXT
-  5
-F4
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-121.8576800251
- 20
-239.859131708
- 30
-0.0
- 40
-2.0
  41
 0.0
  71
@@ -6927,13 +5667,13 @@ AcDbMText
  72
          1
   1
-\W1.135145;\A1;46
+\W1.135147;\A1;45∞
   7
 Arial
  11
-0.0
+0.9238713625
  21
-1.0
+0.3827031558
  31
 0.0
  73
@@ -6943,461 +5683,7 @@ Arial
   0
 ENDBLK
   5
-F5
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-F7
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378331648
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378331648
-  1
-
-  0
-LINE
-  5
-F8
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-124.108352434
- 20
-182.6258005618
- 30
-0.0
- 11
-124.108352434
- 21
-136.6258005623
- 31
-0.0
-  0
-LINE
-  5
-F9
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-140.2904143261
- 20
-182.6258005618
- 30
-0.0
- 11
-122.108352434
- 21
-182.6258005618
- 31
-0.0
-  0
-LINE
-  5
-FA
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-140.2904143256
- 20
-136.6258005623
- 30
-0.0
- 11
-122.108352434
- 21
-136.6258005623
- 31
-0.0
-  0
-SOLID
-  5
-FB
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-124.108352434
- 20
-182.6258005618
- 30
-0.0
- 11
-124.4999310107
- 21
-179.6514659777
- 31
-0.0
- 12
-123.7167738574
- 22
-179.6514659777
- 32
-0.0
- 13
-123.7167738574
- 23
-179.6514659777
- 33
-0.0
-  0
-SOLID
-  5
-FC
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-124.108352434
- 20
-136.6258005623
- 30
-0.0
- 11
-123.7167738574
- 21
-139.6001351464
- 31
-0.0
- 12
-124.4999310107
- 22
-139.6001351464
- 32
-0.0
- 13
-124.4999310107
- 23
-139.6001351464
- 33
-0.0
-  0
-MTEXT
-  5
-FD
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-121.652352434
- 20
-159.625800562
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;46
-  7
-Arial
- 11
-0.0
- 21
-1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-FE
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-100
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378331392
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378331392
-  1
-
-  0
-LINE
-  5
-101
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-140.2904143262
- 20
-125.7494662921
- 30
-0.0
- 11
-200.2904143262
- 21
-125.7494662921
- 31
-0.0
-  0
-LINE
-  5
-102
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-140.2904143262
- 20
-268.6042142327
- 30
-0.0
- 11
-140.2904143262
- 21
-123.7494662921
- 31
-0.0
-  0
-LINE
-  5
-103
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-200.2904143262
- 20
-268.6042142327
- 30
-0.0
- 11
-200.2904143262
- 21
-123.7494662921
- 31
-0.0
-  0
-SOLID
-  5
-104
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-140.2904143262
- 20
-125.7494662921
- 30
-0.0
- 11
-143.2647489104
- 21
-126.1410448688
- 31
-0.0
- 12
-143.2647489104
- 22
-125.3578877155
- 32
-0.0
- 13
-143.2647489104
- 23
-125.3578877155
- 33
-0.0
-  0
-SOLID
-  5
-105
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-200.2904143262
- 20
-125.7494662921
- 30
-0.0
- 11
-197.3160797421
- 21
-125.3578877155
- 31
-0.0
- 12
-197.3160797421
- 22
-126.1410448688
- 32
-0.0
- 13
-197.3160797421
- 23
-126.1410448688
- 33
-0.0
-  0
-MTEXT
-  5
-106
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-170.2904143262
- 20
-128.2054662921
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;60
-  7
-Arial
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-107
+C2
 100
 AcDbEntity
   8
@@ -7415,7 +5701,7 @@ ENTITIES
   0
 TEXT
   5
-108
+C3
 100
 AcDbEntity
   8
@@ -7425,23 +5711,23 @@ BESCHRIFTUNG
 100
 AcDbText
  10
-129.6929117117
+64.8464558559
  20
-6.9230888889
+3.4615444444
  30
 0.0
  40
-3.3
+1.65
   1
-3203-3204 Pv Hebel JE mit Schloss
+3304 KPv Kloben
  41
-0.9827947167
+0.9828014828
   7
 Arial
  11
-129.6929117117
+64.8464558559
  21
-10.2230888889
+5.1115444444
  31
 0.0
 100
@@ -7451,7 +5737,7 @@ AcDbText
   0
 TEXT
   5
-109
+C4
 100
 AcDbEntity
   8
@@ -7461,87 +5747,49 @@ BESCHRIFTUNG
 100
 AcDbText
  10
-129.6929117117
+64.8464558559
  20
-29.3230888889
+14.6615444444
  30
 0.0
  40
-3.3
+1.65
   1
-2026-06-03
+2026-06-16
  41
-1.0318366722
+0.9828172203
   7
 Arial
  11
-129.6929117117
+64.8464558559
  21
-32.6230888889
+16.3115444444
  31
 0.0
 100
 AcDbText
  73
          3
-  0
-TEXT
-  5
-10A
-100
-AcDbEntity
-  8
-BESCHRIFTUNG
-390
-0
-100
-AcDbText
- 10
-61.0696325779
- 20
-271.4531750885
- 30
-0.0
- 40
-2.5
-  1
-3203.11
- 41
-1.1351394094
-  7
-Arial
- 72
-         1
- 11
-69.2493136165
- 21
-272.7031750885
- 31
-0.0
-100
-AcDbText
- 73
-         2
   0
 MTEXT
   5
-10B
+C5
 100
 AcDbEntity
   8
-3203_11P
+3304_1P
 390
 0
 100
 AcDbMText
  10
-51.4162391849
+27.1801012596
  20
-258.2263430203
+59.9795462337
  30
 0.0
  40
-2.0
+1.0
  41
 0.0
  71
@@ -7549,7 +5797,7 @@ AcDbMText
  72
          1
   1
-\W1.135098;M50+x2\PT2 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20
+\W1.135081;M50x5\PT5 O2 F150\PB-0.3    D1.6\PI1.4 P4 U20
   7
 Arial
  73
@@ -7557,9 +5805,363 @@ Arial
  44
 0.66
   0
+MTEXT
+  5
+C6
+100
+AcDbEntity
+  8
+3304___ KLOBEN
+390
+0
+100
+AcDbMText
+ 10
+23.7024180076
+ 20
+49.8347609352
+ 30
+0.0
+ 40
+1.0
+ 41
+0.0
+ 71
+         7
+ 72
+         1
+  1
+\W1.135110;>3304.1P\PM50x5\PT5 O2
+  7
+Arial
+ 11
+1.0
+ 21
+0.0
+ 31
+0.0
+ 73
+         1
+ 44
+0.66
+  0
 LINE
   5
-10C
+C7
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+24.0
+ 20
+116.0
+ 30
+0.0
+ 11
+30.0
+ 21
+116.0
+ 31
+0.0
+  0
+LINE
+  5
+C8
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+30.0
+ 20
+116.0
+ 30
+0.0
+ 11
+30.0
+ 21
+130.0
+ 31
+0.0
+  0
+LINE
+  5
+C9
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+30.0
+ 20
+130.0
+ 30
+0.0
+ 11
+27.8660254038
+ 21
+130.0
+ 31
+0.0
+  0
+LINE
+  5
+CA
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+24.0
+ 20
+130.0
+ 30
+0.0
+ 11
+24.0
+ 21
+116.0
+ 31
+0.0
+  0
+LINE
+  5
+CB
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+26.1339745962
+ 20
+130.0
+ 30
+0.0
+ 11
+24.0
+ 21
+130.0
+ 31
+0.0
+  0
+CIRCLE
+  5
+CC
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+27.0
+ 20
+118.75
+ 30
+0.0
+ 40
+1.25
+  0
+ARC
+  5
+CD
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+26.5
+ 20
+123.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
+  0
+ARC
+  5
+CE
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+27.5
+ 20
+123.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
+  0
+LINE
+  5
+CF
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+26.5
+ 20
+124.0
+ 30
+0.0
+ 11
+27.5
+ 21
+124.0
+ 31
+0.0
+  0
+LINE
+  5
+D0
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+27.5
+ 20
+122.0
+ 30
+0.0
+ 11
+26.5
+ 21
+122.0
+ 31
+0.0
+  0
+LINE
+  5
+D1
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+43.25
+ 20
+130.0
+ 30
+0.0
+ 11
+43.25
+ 21
+123.6614378278
+ 31
+0.0
+  0
+LINE
+  5
+D2
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+45.75
+ 20
+130.0
+ 30
+0.0
+ 11
+45.75
+ 21
+123.6614378278
+ 31
+0.0
+  0
+CIRCLE
+  5
+D3
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+HIDDEN
+100
+AcDbCircle
+ 10
+64.5
+ 20
+118.75
+ 30
+0.0
+ 40
+3.0
+  0
+LINE
+  5
+D4
 100
 AcDbEntity
   8
@@ -7569,327 +6171,1661 @@ MITTELLINIEN
 100
 AcDbLine
  10
-60.130891854
+59.0
  20
-271.0444241573
+118.75
  30
 0.0
  11
-60.1308918547
+70.0
  21
-63.2432584269
+118.75
  31
 0.0
   0
-ARC
-  5
-10D
-100
-AcDbEntity
-  8
-3201___ EINZELHEBEL JE
-390
-0
-100
-AcDbCircle
- 10
-72.6817268363
- 20
-242.7779864832
- 30
-0.0
- 40
-22.3556135849
-100
-AcDbArc
- 50
-124.153891203
- 51
-235.846108797
-  0
-CIRCLE
-  5
-10E
-100
-AcDbEntity
-  8
-3203_11P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-60.1308918538
- 20
-261.2779864832
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-10F
-100
-AcDbEntity
-  8
-3203_11P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-60.1308918538
- 20
-224.2779864832
- 30
-0.0
- 40
-1.0
-  0
 LINE
   5
-110
+D5
 100
 AcDbEntity
   8
-3201-3204 HEBEL JE
+MITTELLINIEN
 390
 0
 100
 AcDbLine
  10
-62.6194144824
+64.5
  20
-257.724245898
+113.25
  30
 0.0
  11
-63.6267859839
+64.5
  21
-260.380115784
+124.25
  31
 0.0
   0
-MTEXT
+CIRCLE
   5
-111
+D6
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
-AcDbMText
+AcDbCircle
  10
-54.531924388
+64.5
  20
-238.6607934299
+118.75
  30
 0.0
  40
 2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3203.11P\PM50+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
   0
-TEXT
+LINE
   5
-112
+D7
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
-AcDbText
+AcDbLine
  10
-61.3678607098
+60.5
  20
-211.7491056453
+123.75
  30
 0.0
- 40
-2.5
-  1
-3204.11
- 41
-1.135139387
-  7
-Arial
- 72
-         1
  11
-69.5475415865
+75.5
  21
-212.9991056453
+123.75
  31
 0.0
+  0
+LINE
+  5
+D8
 100
-AcDbText
- 73
-         2
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+HIDDEN
+100
+AcDbLine
+ 10
+75.5
+ 20
+123.75
+ 30
+0.0
+ 11
+75.5
+ 21
+113.75
+ 31
+0.0
+  0
+LINE
+  5
+D9
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+HIDDEN
+100
+AcDbLine
+ 10
+75.5
+ 20
+113.75
+ 30
+0.0
+ 11
+60.5
+ 21
+113.75
+ 31
+0.0
+  0
+LINE
+  5
+DA
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+HIDDEN
+100
+AcDbLine
+ 10
+60.5
+ 20
+113.75
+ 30
+0.0
+ 11
+60.5
+ 21
+123.75
+ 31
+0.0
+  0
+LINE
+  5
+DB
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+HIDDEN
+100
+AcDbLine
+ 10
+61.5
+ 20
+123.75
+ 30
+0.0
+ 11
+61.5
+ 21
+113.75
+ 31
+0.0
   0
 ARC
   5
-113
+DC
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
+3304 KLOBEN
 390
 0
 100
 AcDbCircle
  10
-72.0033033238
+27.0
  20
-186.3603314763
- 30
-0.0
- 40
-21.1472020398
-100
-AcDbArc
- 50
-124.153891203
- 51
-235.846108797
-  0
-CIRCLE
-  5
-114
-100
-AcDbEntity
-  8
-3204_11P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-60.1308918538
- 20
-203.8603314763
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-115
-100
-AcDbEntity
-  8
-3204_11P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-60.1308918538
- 20
-168.8603314763
+130.5
  30
 0.0
  40
 1.0
+100
+AcDbArc
+ 50
+210.0
+ 51
+330.0
   0
-MTEXT
+LINE
   5
-116
+DD
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
+3304 KLOBEN
 390
 0
 100
-AcDbMText
+AcDbLine
  10
-55.6254269445
+73.0
  20
-195.3592623341
+124.0
  30
 0.0
- 40
-2.0
- 41
+ 11
+74.0
+ 21
+124.0
+ 31
 0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3204.11P\PM50+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
   0
-TEXT
+LINE
   5
-117
+DE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+72.6339745962
+ 20
+130.0
+ 30
+0.0
+ 11
+70.5
+ 21
+130.0
+ 31
+0.0
+  0
+LINE
+  5
+DF
+100
+AcDbEntity
+  8
+3304 KLOBEN
 390
 0
   6
 DIVIDE
 100
-AcDbText
+AcDbLine
  10
-55.1613762182
+72.25
  20
-204.5377319796
+130.0
+ 30
+0.0
+ 11
+72.25
+ 21
+123.6614378278
+ 31
+0.0
+  0
+LINE
+  5
+E0
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+74.75
+ 20
+130.0
+ 30
+0.0
+ 11
+74.75
+ 21
+123.6614378278
+ 31
+0.0
+  0
+LINE
+  5
+E1
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+74.0
+ 20
+122.0
+ 30
+0.0
+ 11
+73.0
+ 21
+122.0
+ 31
+0.0
+  0
+LINE
+  5
+E2
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+70.5
+ 20
+116.0
+ 30
+0.0
+ 11
+76.5
+ 21
+116.0
+ 31
+0.0
+  0
+LINE
+  5
+E3
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+76.5
+ 20
+130.0
+ 30
+0.0
+ 11
+74.3660254038
+ 21
+130.0
+ 31
+0.0
+  0
+LINE
+  5
+E4
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+76.5
+ 20
+116.0
+ 30
+0.0
+ 11
+76.5
+ 21
+130.0
+ 31
+0.0
+  0
+LINE
+  5
+E5
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+70.5
+ 20
+130.0
+ 30
+0.0
+ 11
+70.5
+ 21
+116.0
+ 31
+0.0
+  0
+ARC
+  5
+E6
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+73.0
+ 20
+123.0
  30
 0.0
  40
-1.5
-  1
-@3203.11P
- 41
-0.8648217064
-  7
-Arial
- 72
-         1
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
+  0
+ARC
+  5
+E7
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+74.0
+ 20
+123.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
+  0
+ARC
+  5
+E8
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+73.5
+ 20
+130.5
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+210.0
+ 51
+330.0
+  0
+LINE
+  5
+E9
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+64.9323627756
+ 20
+126.0922130445
+ 30
+0.0
  11
-60.1649875194
+63.4234792971
  21
-205.2877319796
+124.5832007101
  31
 0.0
+  0
+LINE
+  5
+EA
 100
-AcDbText
- 73
-         2
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+67.6659388311
+ 20
+128.8260225426
+ 30
+0.0
+ 11
+66.1570553526
+ 21
+127.3170102081
+ 31
+0.0
+  0
+LINE
+  5
+EB
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+77.5658564402
+ 20
+118.9269502965
+ 30
+0.0
+ 11
+67.6659388311
+ 21
+128.8260225426
+ 31
+0.0
+  0
+LINE
+  5
+EC
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+63.4234792971
+ 20
+124.5832007101
+ 30
+0.0
+ 11
+73.3233969062
+ 21
+114.684128464
+ 31
+0.0
+  0
+LINE
+  5
+ED
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+73.3233969062
+ 20
+114.684128464
+ 30
+0.0
+ 11
+77.5658564402
+ 21
+118.9269502965
+ 31
+0.0
+  0
+CIRCLE
+  5
+EE
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+73.5
+ 20
+118.75
+ 30
+0.0
+ 40
+1.25
+  0
+ARC
+  5
+EF
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+65.1911405781
+ 20
+127.0581499208
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+255.0024463739
+ 51
+375.0024463739
+  0
+INSERT
+  5
+F0
+100
+AcDbEntity
+  8
+BEMASSUNG
+390
+0
+100
+AcDbBlockReference
+  2
+D486182144
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LINE
+  5
+F1
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+47.0
+ 20
+116.0
+ 30
+0.0
+ 11
+42.0
+ 21
+116.0
+ 31
+0.0
+  0
+LINE
+  5
+F2
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+42.0
+ 20
+116.0
+ 30
+0.0
+ 11
+42.0
+ 21
+130.0
+ 31
+0.0
+  0
+LINE
+  5
+F3
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+42.0
+ 20
+130.0
+ 30
+0.0
+ 11
+47.0
+ 21
+130.0
+ 31
+0.0
+  0
+LINE
+  5
+F4
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+47.0
+ 20
+130.0
+ 30
+0.0
+ 11
+47.0
+ 21
+116.0
+ 31
+0.0
+  0
+LINE
+  5
+F5
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+44.5
+ 20
+132.5
+ 30
+0.0
+ 11
+44.5
+ 21
+121.1614378278
+ 31
+0.0
+  0
+LINE
+  5
+F6
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+23.25
+ 20
+118.75
+ 30
+0.0
+ 11
+30.75
+ 21
+118.75
+ 31
+0.0
+  0
+LINE
+  5
+F7
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+27.0
+ 20
+115.0
+ 30
+0.0
+ 11
+27.0
+ 21
+122.5
+ 31
+0.0
+  0
+LINE
+  5
+F8
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+47.0
+ 20
+124.0
+ 30
+0.0
+ 11
+43.0
+ 21
+124.0
+ 31
+0.0
+  0
+LINE
+  5
+F9
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+47.0
+ 20
+122.0
+ 30
+0.0
+ 11
+43.0
+ 21
+122.0
+ 31
+0.0
+  0
+LINE
+  5
+FA
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+47.0
+ 20
+120.0
+ 30
+0.0
+ 11
+42.0
+ 21
+120.0
+ 31
+0.0
+  0
+LINE
+  5
+FB
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+47.0
+ 20
+117.5
+ 30
+0.0
+ 11
+42.0
+ 21
+117.5
+ 31
+0.0
+  0
+LINE
+  5
+FC
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+43.0
+ 20
+124.0
+ 30
+0.0
+ 11
+43.0
+ 21
+122.0
+ 31
+0.0
+  0
+LINE
+  5
+FD
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+49.5
+ 20
+118.75
+ 30
+0.0
+ 11
+39.5
+ 21
+118.75
+ 31
+0.0
+  0
+LINE
+  5
+FE
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+36.5
+ 20
+54.0
+ 30
+0.0
+ 11
+37.5
+ 21
+54.0
+ 31
+0.0
+  0
+LINE
+  5
+FF
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+36.1339745962
+ 20
+60.0
+ 30
+0.0
+ 11
+34.0
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+100
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+37.5
+ 20
+52.0
+ 30
+0.0
+ 11
+36.5
+ 21
+52.0
+ 31
+0.0
+  0
+LINE
+  5
+101
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+34.0
+ 20
+46.0
+ 30
+0.0
+ 11
+40.0
+ 21
+46.0
+ 31
+0.0
+  0
+LINE
+  5
+102
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+40.0
+ 20
+60.0
+ 30
+0.0
+ 11
+37.8660254038
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+103
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+40.0
+ 20
+46.0
+ 30
+0.0
+ 11
+40.0
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+104
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+34.0
+ 20
+60.0
+ 30
+0.0
+ 11
+34.0
+ 21
+46.0
+ 31
+0.0
+  0
+CIRCLE
+  5
+105
+100
+AcDbEntity
+  8
+3304_1P
+390
+0
+100
+AcDbCircle
+ 10
+37.0
+ 20
+48.75
+ 30
+0.0
+ 40
+1.25
+  0
+ARC
+  5
+106
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+36.5
+ 20
+53.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
+  0
+ARC
+  5
+107
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+37.5
+ 20
+53.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
+  0
+LINE
+  5
+108
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+32.0
+ 20
+64.5
+ 30
+0.0
+ 11
+32.0
+ 21
+37.5
+ 31
+0.0
+  0
+LINE
+  5
+109
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+45.5
+ 20
+52.0
+ 30
+0.0
+ 11
+44.5
+ 21
+52.0
+ 31
+0.0
+  0
+LINE
+  5
+10A
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+42.0
+ 20
+46.0
+ 30
+0.0
+ 11
+48.0
+ 21
+46.0
+ 31
+0.0
+  0
+LINE
+  5
+10B
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+44.5
+ 20
+54.0
+ 30
+0.0
+ 11
+45.5
+ 21
+54.0
+ 31
+0.0
+  0
+LINE
+  5
+10C
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+48.0
+ 20
+46.0
+ 30
+0.0
+ 11
+48.0
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+10D
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+48.0
+ 20
+60.0
+ 30
+0.0
+ 11
+45.8660254038
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+10E
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+44.1339745962
+ 20
+60.0
+ 30
+0.0
+ 11
+42.0
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+10F
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+42.0
+ 20
+60.0
+ 30
+0.0
+ 11
+42.0
+ 21
+46.0
+ 31
+0.0
+  0
+CIRCLE
+  5
+110
+100
+AcDbEntity
+  8
+3304_1P
+390
+0
+100
+AcDbCircle
+ 10
+45.0
+ 20
+48.75
+ 30
+0.0
+ 40
+1.25
+  0
+ARC
+  5
+111
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+44.5
+ 20
+53.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
+  0
+ARC
+  5
+112
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+45.5
+ 20
+53.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
+  0
+LINE
+  5
+113
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+52.1339745962
+ 20
+60.0
+ 30
+0.0
+ 11
+50.0
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+114
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+56.0
+ 20
+46.0
+ 30
+0.0
+ 11
+56.0
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+115
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+56.0
+ 20
+60.0
+ 30
+0.0
+ 11
+53.8660254038
+ 21
+60.0
+ 31
+0.0
+  0
+LINE
+  5
+116
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+50.0
+ 20
+46.0
+ 30
+0.0
+ 11
+56.0
+ 21
+46.0
+ 31
+0.0
+  0
+LINE
+  5
+117
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+53.5
+ 20
+52.0
+ 30
+0.0
+ 11
+52.5
+ 21
+52.0
+ 31
+0.0
   0
 LINE
   5
@@ -7897,21 +7833,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-60.1308918545
+52.5
  20
-133.0650813684
+54.0
  30
 0.0
  11
-63.1284560541
+53.5
  21
-135.5543859232
+54.0
  31
 0.0
   0
@@ -7921,95 +7857,95 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-68.7122102615
+50.0
  20
-140.5525695736
+60.0
  30
 0.0
  11
-63.1284560541
+50.0
  21
-140.5525695736
+46.0
  31
 0.0
   0
-LINE
+CIRCLE
   5
 11A
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304_1P
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-63.1284560541
+53.0
  20
-135.5543859232
+48.75
  30
 0.0
- 11
-63.1284560541
- 21
-136.0538896906
- 31
-0.0
+ 40
+1.25
   0
-LINE
+ARC
   5
 11B
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-69.8951467568
+52.5
  20
-143.5538896906
+53.0
  30
 0.0
- 11
-63.1284560541
- 21
-143.5538896906
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
   0
-LINE
+ARC
   5
 11C
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-83.6298307757
+53.5
  20
-133.0564606742
+53.0
  30
 0.0
- 11
-69.8951467568
- 21
-143.5538896906
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
   0
 LINE
   5
@@ -8017,21 +7953,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-96.6298307757
+60.5
  20
-124.5564606742
+54.0
  30
 0.0
  11
-60.1308918545
+61.5
  21
-124.5564606742
+54.0
  31
 0.0
   0
@@ -8041,21 +7977,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-68.6351467568
+58.0
  20
-136.0538896906
+60.0
  30
 0.0
  11
-63.1284560541
+58.0
  21
-136.0538896906
+46.0
  31
 0.0
   0
@@ -8065,21 +8001,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-60.1308918545
+60.1339745962
  20
-133.0650813684
+60.0
  30
 0.0
  11
-60.1308918545
+58.0
  21
-124.5564606742
+60.0
  31
 0.0
   0
@@ -8089,21 +8025,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-96.6298307757
+64.0
  20
-124.5564606742
+60.0
  30
 0.0
  11
-96.6298307757
+61.8660254038
  21
-133.0564606742
+60.0
  31
 0.0
   0
@@ -8113,21 +8049,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-63.1284560541
+58.0
  20
-140.5525695736
+46.0
  30
 0.0
  11
-63.1284560541
+64.0
  21
-143.5538896906
+46.0
  31
 0.0
   0
@@ -8137,113 +8073,119 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-96.6298307757
+64.0
  20
-133.0564606742
+46.0
  30
 0.0
  11
-83.6298307757
+64.0
  21
-133.0564606742
+60.0
  31
 0.0
   0
-CIRCLE
+LINE
   5
 123
 100
 AcDbEntity
   8
-3203_13P
-390
-0
-100
-AcDbCircle
- 10
-92.6298307757
- 20
-127.0564606742
- 30
-0.0
- 40
-1.5
-  0
-ARC
-  5
-124
-100
-AcDbEntity
-  8
-3203 SCHLOSSRIEGELPLATTE
-390
-0
-100
-AcDbCircle
- 10
-68.6351467568
- 20
-138.3038896906
- 30
-0.0
- 40
-2.25
-100
-AcDbArc
- 50
-269.9999999999
- 51
-448.0372100815
-  0
-CIRCLE
-  5
-125
-100
-AcDbEntity
-  8
-3203_13P
-390
-0
-100
-AcDbCircle
- 10
-87.6298307757
- 20
-130.0564606742
- 30
-0.0
- 40
-1.5
-  0
-LINE
-  5
-126
-100
-AcDbEntity
-  8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-60.1342883977
+61.5
  20
-93.0679020021
+52.0
  30
 0.0
  11
-63.1284560541
+60.5
  21
-95.5543859232
+52.0
  31
 0.0
+  0
+CIRCLE
+  5
+124
+100
+AcDbEntity
+  8
+3304_1P
+390
+0
+100
+AcDbCircle
+ 10
+61.0
+ 20
+48.75
+ 30
+0.0
+ 40
+1.25
+  0
+ARC
+  5
+125
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+60.5
+ 20
+53.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
+  0
+ARC
+  5
+126
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbCircle
+ 10
+61.5
+ 20
+53.0
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
   0
 LINE
   5
@@ -8251,21 +8193,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-60.1342883977
+68.5
  20
-92.5558746213
+54.0
  30
 0.0
  11
-60.1342883977
+69.5
  21
-93.0679020021
+54.0
  31
 0.0
   0
@@ -8275,21 +8217,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-69.8951467568
+68.1339745962
  20
-103.5538896906
+60.0
  30
 0.0
  11
-63.1284560541
+66.0
  21
-103.5538896906
+60.0
  31
 0.0
   0
@@ -8299,21 +8241,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-83.6298307757
+66.0
  20
-93.0564606742
+46.0
  30
 0.0
  11
-69.8951467568
+72.0
  21
-103.5538896906
+46.0
  31
 0.0
   0
@@ -8323,21 +8265,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-65.6351467567
+69.5
  20
-92.5558746214
+52.0
  30
 0.0
  11
-60.1342883977
+68.5
  21
-92.5558746213
+52.0
  31
 0.0
   0
@@ -8347,21 +8289,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-96.6298307757
+66.0
  20
-84.5564606742
+60.0
  30
 0.0
  11
-60.1308918545
+66.0
  21
-84.5564606742
+46.0
  31
 0.0
   0
@@ -8371,21 +8313,21 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-65.6351467568
+72.0
  20
-88.0558746214
+46.0
  30
 0.0
  11
-60.1308918545
+72.0
  21
-88.0558746213
+60.0
  31
 0.0
   0
@@ -8395,299 +8337,283 @@ LINE
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-60.1308918545
+72.0
  20
-88.0558746213
+60.0
  30
 0.0
  11
-60.1308918545
+69.8660254038
  21
-84.5564606742
+60.0
  31
 0.0
   0
-LINE
+CIRCLE
   5
 12E
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304_1P
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-96.6298307757
+69.0
  20
-84.5564606742
+48.75
  30
 0.0
- 11
-96.6298307757
- 21
-93.0564606742
- 31
-0.0
+ 40
+1.25
   0
-LINE
+ARC
   5
 12F
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-63.1284560541
+68.5
  20
-95.5543859232
+53.0
  30
 0.0
- 11
-63.1284560541
- 21
-103.5538896906
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
   0
-LINE
+ARC
   5
 130
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-96.6298307757
+69.5
  20
-93.0564606742
+53.0
  30
 0.0
- 11
-83.6298307757
- 21
-93.0564606742
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
   0
-CIRCLE
+LINE
   5
 131
 100
 AcDbEntity
   8
-3203_14P
+3304 KLOBEN
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-92.6298307757
+77.5
  20
-87.0564606742
+52.0
  30
 0.0
- 40
-1.5
+ 11
+76.5
+ 21
+52.0
+ 31
+0.0
   0
-ARC
+LINE
   5
 132
 100
 AcDbEntity
   8
-3203 SCHLOSSRIEGELPLATTE
+3304 KLOBEN
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-65.6351467568
+74.0
  20
-90.3058746214
+60.0
  30
 0.0
- 40
-2.25
-100
-AcDbArc
- 50
-270.0000000004
- 51
-450.0000000005
+ 11
+74.0
+ 21
+46.0
+ 31
+0.0
   0
-CIRCLE
+LINE
   5
 133
 100
 AcDbEntity
   8
-3203_14P
+3304 KLOBEN
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-87.6298307757
+74.0
  20
-90.0564606742
+46.0
  30
 0.0
- 40
-1.5
+ 11
+80.0
+ 21
+46.0
+ 31
+0.0
   0
-MTEXT
+LINE
   5
 134
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
+3304 KLOBEN
 390
 0
 100
-AcDbMText
+AcDbLine
  10
-55.6254269445
+76.1339745962
  20
-136.0528205484
+60.0
  30
 0.0
- 40
-2.0
- 41
+ 11
+74.0
+ 21
+60.0
+ 31
 0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3203.13P\PM50+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
   0
-ARC
+LINE
   5
 135
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
+3304 KLOBEN
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-67.2534666279
+76.5
  20
-134.0551751823
+54.0
  30
 0.0
- 40
-12.6867678208
-100
-AcDbArc
- 50
-124.1538912029
- 51
-235.8461087969
+ 11
+77.5
+ 21
+54.0
+ 31
+0.0
   0
-CIRCLE
+LINE
   5
 136
 100
 AcDbEntity
   8
-3203_13P
+3304 KLOBEN
 390
 0
-  6
-PHANTOM
 100
-AcDbCircle
+AcDbLine
  10
-60.1308918538
+80.0
  20
-144.5538896906
+46.0
  30
 0.0
- 40
-0.5
+ 11
+80.0
+ 21
+60.0
+ 31
+0.0
   0
-CIRCLE
+LINE
   5
 137
 100
 AcDbEntity
   8
-3203_13P
+3304 KLOBEN
 390
 0
-  6
-PHANTOM
 100
-AcDbCircle
+AcDbLine
  10
-60.1308918538
+80.0
  20
-123.5564606742
+60.0
  30
 0.0
- 40
-1.0
+ 11
+77.8660254038
+ 21
+60.0
+ 31
+0.0
   0
-MTEXT
+CIRCLE
   5
 138
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
+3304_1P
 390
 0
 100
-AcDbMText
+AcDbCircle
  10
-55.6254269445
+77.0
  20
-96.0528205484
+48.75
  30
 0.0
  40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3203.14P\PM50+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
+1.25
   0
 ARC
   5
@@ -8695,145 +8621,127 @@ ARC
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
+3304 KLOBEN
 390
 0
 100
 AcDbCircle
  10
-67.2534666279
+76.5
  20
-94.0551751823
+53.0
  30
 0.0
  40
-12.6867678208
+1.0
 100
 AcDbArc
  50
-124.1538912029
+90.0
  51
-235.8461087969
+270.0
   0
-CIRCLE
+ARC
   5
 13A
 100
 AcDbEntity
   8
-3203_14P
+3304 KLOBEN
 390
 0
-  6
-PHANTOM
 100
 AcDbCircle
  10
-60.1308918538
+77.5
  20
-104.5538896906
+53.0
  30
 0.0
  40
-0.5
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
   0
-CIRCLE
+LINE
   5
 13B
 100
 AcDbEntity
   8
-3203_14P
+MITTELLINIEN
 390
 0
-  6
-PHANTOM
 100
-AcDbCircle
+AcDbLine
  10
-60.1308918538
+82.0
  20
-83.5564606742
+64.5
  30
 0.0
- 40
-1.0
+ 11
+82.0
+ 21
+39.5
+ 31
+0.0
   0
-TEXT
+LINE
   5
 13C
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3304_1P
 390
 0
+  6
+DIVIDE
 100
-AcDbText
+AcDbLine
  10
-61.0339958472
+36.5
  20
-152.4426638596
+53.0
  30
 0.0
- 40
-2.5
-  1
-3203.13
- 41
-1.1351394319
-  7
-Arial
- 72
-         1
  11
-69.5475415866
+37.5
  21
-153.6926638596
+53.0
  31
 0.0
-100
-AcDbText
- 73
-         2
   0
-TEXT
+LINE
   5
 13D
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3304_1P
 390
 0
+  6
+DIVIDE
 100
-AcDbText
+AcDbLine
  10
-61.0339960159
+44.5
  20
-112.4426638596
+53.0
  30
 0.0
- 40
-2.5
-  1
-3203.14
- 41
-1.1351394094
-  7
-Arial
- 72
-         1
  11
-69.5475415867
+45.5
  21
-113.6926638596
+53.0
  31
 0.0
-100
-AcDbText
- 73
-         2
   0
 LINE
   5
@@ -8841,23 +8749,23 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
   6
-BORDER
+DIVIDE
 100
 AcDbLine
  10
-70.2335376866
+52.5
  20
-144.5538896906
+53.0
  30
 0.0
  11
-62.1284560541
+53.5
  21
-144.5538896906
+53.0
  31
 0.0
   0
@@ -8867,21 +8775,23 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
+  6
+DIVIDE
 100
 AcDbLine
  10
-83.9682217055
+60.5
  20
-134.0564606742
+53.0
  30
 0.0
  11
-70.2335376866
+61.5
  21
-144.5538896906
+53.0
  31
 0.0
   0
@@ -8891,23 +8801,23 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
   6
-BORDER
+DIVIDE
 100
 AcDbLine
  10
-97.6298307757
+68.5
  20
-134.0564606742
+53.0
  30
 0.0
  11
-83.9682217055
+69.5
  21
-134.0564606742
+53.0
  31
 0.0
   0
@@ -8917,21 +8827,21 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
 100
 AcDbLine
  10
-97.6298307756
+41.0
  20
-123.5564606742
+45.5
  30
 0.0
  11
-97.6298307757
+41.0
  21
-134.0564606742
+60.5
  31
 0.0
   0
@@ -8941,23 +8851,23 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
   6
-BORDER
+DIVIDE
 100
 AcDbLine
  10
-97.6298307756
+76.5
  20
-123.5564606742
+53.0
  30
 0.0
  11
-60.1308918545
+77.5
  21
-123.5564606742
+53.0
  31
 0.0
   0
@@ -8967,21 +8877,21 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
 100
 AcDbLine
  10
-59.1308918545
+49.0
  20
-133.5344983968
+45.5
  30
 0.0
  11
-62.1284560541
+49.0
  21
-136.0238029517
+60.5
  31
 0.0
   0
@@ -8991,21 +8901,21 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
 100
 AcDbLine
  10
-62.1284560541
+57.0
  20
-136.0238029517
+45.5
  30
 0.0
  11
-62.1284560541
+57.0
  21
-137.0538896906
+60.5
  31
 0.0
   0
@@ -9015,49 +8925,47 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
 100
 AcDbLine
  10
-68.6351467568
+65.0
  20
-137.0538896906
+45.5
  30
 0.0
  11
-62.1284560541
+65.0
  21
-137.0538896906
+60.5
  31
 0.0
   0
-ARC
+LINE
   5
 146
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-68.6351467568
+73.0
  20
-138.3038896906
+45.5
  30
 0.0
- 40
-1.25
-100
-AcDbArc
- 50
-269.9999999999
- 51
-447.3665379542
+ 11
+73.0
+ 21
+60.5
+ 31
+0.0
   0
 LINE
   5
@@ -9065,175 +8973,155 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
 100
 AcDbLine
  10
-68.6925797593
+81.0
  20
-139.5525695736
+45.5
  30
 0.0
  11
-62.1284560541
+81.0
  21
-139.5525695736
+60.5
  31
 0.0
   0
-LINE
+CIRCLE
   5
 148
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
+  6
+DIVIDE
 100
-AcDbLine
+AcDbCircle
  10
-62.1284560541
+37.0
  20
-139.5525695736
+60.5
  30
 0.0
- 11
-62.1284560541
- 21
-144.5538896906
- 31
-0.0
+ 40
+1.0
   0
-LINE
+CIRCLE
   5
 149
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
   6
-DASHED
+DIVIDE
 100
-AcDbLine
+AcDbCircle
  10
-60.1308918538
+45.0
  20
-144.5538896906
+60.5
  30
 0.0
- 11
-87.6298307757
- 21
-130.0564606742
- 31
-0.0
+ 40
+1.0
   0
-LINE
+CIRCLE
   5
 14A
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
   6
-DASHED
+DIVIDE
 100
-AcDbLine
+AcDbCircle
  10
-87.6298307757
+53.0
  20
-130.0564606742
+60.5
  30
 0.0
- 11
-92.6298307757
- 21
-127.0564606742
- 31
-0.0
+ 40
+1.0
   0
-LINE
+CIRCLE
   5
 14B
 100
 AcDbEntity
   8
-3203_13P
+3304_1P
 390
 0
   6
-DASHED
+DIVIDE
 100
-AcDbLine
+AcDbCircle
  10
-92.6298307757
+61.0
  20
-127.0564606742
+60.5
  30
 0.0
- 11
-75.1284560541
- 21
-130.0564606742
- 31
-0.0
+ 40
+1.0
   0
-LINE
+CIRCLE
   5
 14C
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
+  6
+DIVIDE
 100
-AcDbLine
+AcDbCircle
  10
-83.9682217055
+69.0
  20
-94.0564606742
+60.5
  30
 0.0
- 11
-70.2335376866
- 21
-104.5538896906
- 31
-0.0
+ 40
+1.0
   0
-LINE
+CIRCLE
   5
 14D
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
   6
-BORDER
+DIVIDE
 100
-AcDbLine
+AcDbCircle
  10
-70.2335376866
+77.0
  20
-104.5538896906
+60.5
  30
 0.0
- 11
-62.1284560541
- 21
-104.5538896906
- 31
-0.0
+ 40
+1.0
   0
 LINE
   5
@@ -9241,49 +9129,47 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
   6
-BORDER
+DIVIDE
 100
 AcDbLine
  10
-97.6298307757
+36.0
  20
-94.0564606742
+45.0
  30
 0.0
  11
-83.9682217055
+78.0
  21
-94.0564606742
+45.0
  31
 0.0
   0
-LINE
+CIRCLE
   5
 14F
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
+  6
+PHANTOM
 100
-AcDbLine
+AcDbCircle
  10
-97.6298307756
+32.0
  20
-83.5564606742
+61.5
  30
 0.0
- 11
-97.6298307757
- 21
-94.0564606742
- 31
-0.0
+ 40
+0.5
   0
 LINE
   5
@@ -9291,23 +9177,23 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
   6
-BORDER
+DASHED
 100
 AcDbLine
  10
-97.6298307756
+32.0
  20
-83.5564606742
+61.5
  30
 0.0
  11
-60.1308918545
+37.0
  21
-83.5564606742
+60.5
  31
 0.0
   0
@@ -9317,49 +9203,51 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-65.6351467568
+37.0
  20
-89.0558746214
+60.5
  30
 0.0
  11
-59.1308918545
+36.5
  21
-89.0558746213
+53.0
  31
 0.0
   0
-ARC
+LINE
   5
 152
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-65.6351467568
+37.5
  20
-90.3058746214
+53.0
  30
 0.0
- 40
-1.25
-100
-AcDbArc
- 50
-270.0000000004
- 51
-450.0000000005
+ 11
+37.0
+ 21
+48.75
+ 31
+0.0
   0
 LINE
   5
@@ -9367,21 +9255,23 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-65.6351467568
+37.0
  20
-91.5558746214
+48.75
  30
 0.0
  11
-59.1342883978
+45.0
  21
-91.5558746213
+48.75
  31
 0.0
   0
@@ -9391,21 +9281,23 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-62.1284560541
+45.0
  20
-96.0238029517
+48.75
  30
 0.0
  11
-62.1284560541
+45.5
  21
-104.5538896906
+53.0
  31
 0.0
   0
@@ -9415,21 +9307,23 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-59.1342883977
+44.5
  20
-93.5373190306
+53.0
  30
 0.0
  11
-62.1284560541
+45.0
  21
-96.0238029517
+60.5
  31
 0.0
   0
@@ -9439,21 +9333,23 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-59.1342883978
+53.5
  20
-91.5558746213
+53.0
  30
 0.0
  11
-59.1342883977
+53.0
  21
-93.5373190306
+48.75
  31
 0.0
   0
@@ -9463,7 +9359,7 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
   6
@@ -9471,15 +9367,15 @@ DASHED
 100
 AcDbLine
  10
-60.1308918538
+53.0
  20
-104.5538896906
+60.5
  30
 0.0
  11
-87.6298307757
+52.5
  21
-90.0564606742
+53.0
  31
 0.0
   0
@@ -9489,7 +9385,7 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304_1P
 390
 0
   6
@@ -9497,15 +9393,15 @@ DASHED
 100
 AcDbLine
  10
-87.6298307757
+60.5
  20
-90.0564606742
+53.0
  30
 0.0
  11
-92.6298307757
+61.0
  21
-87.0564606742
+60.5
  31
 0.0
   0
@@ -9515,367 +9411,371 @@ LINE
 100
 AcDbEntity
   8
-MITTELLINIEN
+3304_1P
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-110.1298307759
+61.0
  20
-271.0
+48.75
  30
 0.0
  11
-110.1298307756
+61.5
  21
-60.8944272716
+53.0
  31
 0.0
   0
-INSERT
+LINE
   5
 15A
 100
 AcDbEntity
   8
-BEMASSUNG
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbBlockReference
-  2
-D378136320
+AcDbLine
  10
-0.0
+53.0
  20
-0.0
+48.75
  30
 0.0
+ 11
+61.0
+ 21
+48.75
+ 31
+0.0
   0
-INSERT
+LINE
   5
 15B
 100
 AcDbEntity
   8
-BEMASSUNG
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbBlockReference
-  2
-D378332928
+AcDbLine
  10
-0.0
+69.5
  20
-0.0
+53.0
  30
 0.0
+ 11
+69.0
+ 21
+48.75
+ 31
+0.0
   0
-INSERT
+LINE
   5
 15C
 100
 AcDbEntity
   8
-BEMASSUNG
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbBlockReference
-  2
-D378332672
+AcDbLine
  10
-0.0
+69.0
  20
-0.0
+60.5
  30
 0.0
+ 11
+68.5
+ 21
+53.0
+ 31
+0.0
   0
-INSERT
+LINE
   5
 15D
 100
 AcDbEntity
   8
-BEMASSUNG
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbBlockReference
-  2
-D378332416
+AcDbLine
  10
-0.0
+76.5
  20
-0.0
+53.0
  30
 0.0
+ 11
+77.0
+ 21
+60.5
+ 31
+0.0
   0
-INSERT
+LINE
   5
 15E
 100
 AcDbEntity
   8
-BEMASSUNG
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbBlockReference
-  2
-D378332160
+AcDbLine
  10
-0.0
+77.0
  20
-0.0
+48.75
  30
 0.0
+ 11
+77.5
+ 21
+53.0
+ 31
+0.0
   0
-TEXT
+LINE
   5
 15F
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbText
+AcDbLine
  10
-150.7179256732
+69.0
  20
-272.7170936279
+48.75
  30
 0.0
- 40
-2.5
-  1
-3203.30
- 41
-1.1351393195
-  7
-Arial
- 72
-         1
  11
-159.4088360883
+77.0
  21
-273.9670936279
+48.75
  31
 0.0
-100
-AcDbText
- 73
-         2
   0
-MTEXT
+LINE
   5
 160
 100
 AcDbEntity
   8
-3203_30P
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbMText
+AcDbLine
  10
-148.2352918013
+77.0
  20
-244.8525741394
+60.5
  30
 0.0
- 40
-2.0
- 41
+ 11
+81.0
+ 21
+60.5
+ 31
 0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3203.11P\PM50+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
   0
-TEXT
+LINE
   5
 161
 100
 AcDbEntity
   8
-BESCHRIFTUNG
+3304_1P
 390
 0
 100
-AcDbText
+AcDbLine
  10
-151.0161538153
+33.0
  20
-191.5264090161
+45.5
  30
 0.0
- 40
-2.5
-  1
-3204.30
- 41
-1.135139297
-  7
-Arial
- 72
-         1
  11
-159.7070640583
+33.0
  21
-192.7764090161
+60.5
  31
 0.0
-100
-AcDbText
- 73
-         2
   0
-CIRCLE
+ARC
   5
 162
 100
 AcDbEntity
   8
-3203_30P
+3304_1P
 390
 0
   6
-PHANTOM
+DASHED
 100
 AcDbCircle
  10
-140.2904143259
+77.0
  20
-216.8591317082
+38.75
  30
 0.0
  40
-1.0
+7.8461774132
+100
+AcDbArc
+ 50
+59.3493320429
+ 51
+120.6506679571
   0
-MTEXT
+ARC
   5
 163
 100
 AcDbEntity
   8
-3203_30P
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbMText
+AcDbCircle
  10
-144.3554323102
+69.0
  20
-227.3022156782
+67.25
  30
 0.0
  40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135119;>3203.=LP\PM50+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
+7.8461774132
+100
+AcDbArc
+ 50
+239.3493320429
+ 51
+300.6506679571
   0
-CIRCLE
+ARC
   5
 164
 100
 AcDbEntity
   8
-3204_30P
+3304_1P
 390
 0
   6
-PHANTOM
+DASHED
 100
 AcDbCircle
  10
-140.2904143261
+53.0
  20
-182.6258005618
+67.25
  30
 0.0
  40
-0.5
+7.8461774132
+100
+AcDbArc
+ 50
+239.3493320429
+ 51
+300.6506679571
   0
-MTEXT
+ARC
   5
 165
 100
 AcDbEntity
   8
-3204_30P
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbMText
+AcDbCircle
  10
-148.3021564061
+61.0
  20
-169.6075244303
+38.75
  30
 0.0
  40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3204.11P\PM50+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
+7.8461774132
+100
+AcDbArc
+ 50
+59.3493320429
+ 51
+120.6506679571
   0
-CIRCLE
+ARC
   5
 166
 100
 AcDbEntity
   8
-3204_30P
+3304_1P
 390
 0
   6
-PHANTOM
+DASHED
 100
 AcDbCircle
  10
-140.2904143256
+37.0
  20
-136.6258005623
+67.25
  30
 0.0
  40
-1.0
+7.8461774132
+100
+AcDbArc
+ 50
+239.3493320429
+ 51
+300.6506679571
   0
 ARC
   5
@@ -9883,267 +9783,91 @@ ARC
 100
 AcDbEntity
   8
-3203___ EINZELHEBEL JE MIT SCHLOSS
+3304_1P
 390
 0
   6
-DASHDOT
+DASHED
 100
 AcDbCircle
  10
-172.6127330527
+45.0
  20
-159.6258005617
+38.75
  30
 0.0
  40
-39.6702947792
+7.8461774132
 100
 AcDbArc
  50
-144.5650066227
+59.3493320429
  51
-215.4349933759
+120.6506679571
   0
-MTEXT
+ARC
   5
 168
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbMText
+AcDbCircle
  10
-133.8251656137
+49.0
  20
-166.4820947882
+44.75
  30
 0.0
  40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3204.30P\PM60+x2\PT2 O2\P:L13,14
-  7
-Arial
- 73
-         1
- 44
-0.66
+16.25
+100
+AcDbArc
+ 50
+75.7499673022
+ 51
+104.2500326978
   0
-LINE
+ARC
   5
 169
 100
 AcDbEntity
   8
-MITTELLINIEN
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbLine
+AcDbCircle
  10
-140.2904143262
+65.0
  20
-132.6258005623
+44.75
  30
 0.0
- 11
-140.2904143262
- 21
-273.6042142327
- 31
-0.0
+ 40
+16.25
+100
+AcDbArc
+ 50
+75.7499673022
+ 51
+104.2500326978
   0
-MTEXT
+CIRCLE
   5
 16A
 100
 AcDbEntity
   8
-3201___ EINZELHEBEL JE
-390
-0
-100
-AcDbMText
- 10
-133.8251656134
- 20
-246.7154259342
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3203.30P\PM60+x2\PT2 O2\P:L13,14
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-ARC
-  5
-16B
-100
-AcDbEntity
-  8
-3203___ EINZELHEBEL JE MIT SCHLOSS
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-172.6127330527
- 20
-239.8591317081
- 30
-0.0
- 40
-39.6702947792
-100
-AcDbArc
- 50
-144.5650066236
- 51
-215.4349933767
-  0
-ARC
-  5
-16C
-100
-AcDbEntity
-  8
-3203_30P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-204.0900460108
- 20
-244.3591317078
- 30
-0.0
- 40
-58.7864686488
-100
-AcDbArc
- 50
-161.6574003871
- 51
-198.3425996129
-  0
-ARC
-  5
-16D
-100
-AcDbEntity
-  8
-3203_30P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-120.1696776001
- 20
-227.3578462165
- 30
-0.0
- 40
-24.4857101106
-100
-AcDbArc
- 50
-334.6105340998
- 51
-385.3894659
-  0
-ARC
-  5
-16E
-100
-AcDbEntity
-  8
-3204_30P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-211.14390499
- 20
-165.1258005618
- 30
-0.0
- 40
-65.2442433371
-100
-AcDbArc
- 50
-164.4414537683
- 51
-195.5585462317
-  0
-ARC
-  5
-16F
-100
-AcDbEntity
-  8
-3204_30P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-119.4569359569
- 20
-147.1245150705
- 30
-0.0
- 40
-25.1314691322
-100
-AcDbArc
- 50
-335.3072745345
- 51
-384.6927254653
-  0
-CIRCLE
-  5
-170
-100
-AcDbEntity
-  8
-3203_30P
+3304_1P
 390
 0
   6
@@ -10151,229 +9875,299 @@ PHANTOM
 100
 AcDbCircle
  10
-140.2904143258
+32.0
  20
-262.8591317078
+40.5
  30
 0.0
  40
-0.5
+1.0
   0
-TEXT
+LINE
   5
-171
+16B
 100
 AcDbEntity
   8
-3204_30P
+3304_1P
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+33.0
+ 20
+45.5
+ 30
+0.0
+ 11
+36.0
+ 21
+45.0
+ 31
+0.0
+  0
+ARC
+  5
+16C
+100
+AcDbEntity
+  8
+3304___ KLOBEN
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+38.1041666667
+ 20
+51.0
+ 30
+0.0
+ 40
+12.1454045093
+100
+AcDbArc
+ 50
+120.1715441087
+ 51
+239.8284558913
+  0
+INSERT
+  5
+16D
+100
+AcDbEntity
+  8
+BEMASSUNG
+390
+0
+100
+AcDbBlockReference
+  2
+D486183168
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LINE
+  5
+16E
+100
+AcDbEntity
+  8
+3304_1P
 390
 0
   6
 DIVIDE
 100
-AcDbText
+AcDbLine
  10
-135.0707184094
+72.0
  20
-183.3032010651
+61.0
+ 30
+0.0
+ 11
+78.0
+ 21
+61.0
+ 31
+0.0
+  0
+LINE
+  5
+16F
+100
+AcDbEntity
+  8
+3304_1P
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+36.0
+ 20
+61.0
+ 30
+0.0
+ 11
+42.0
+ 21
+61.0
+ 31
+0.0
+  0
+LINE
+  5
+170
+100
+AcDbEntity
+  8
+3304_1P
+390
+0
+100
+AcDbLine
+ 10
+42.0
+ 20
+61.0
+ 30
+0.0
+ 11
+72.0
+ 21
+61.0
+ 31
+0.0
+  0
+ARC
+  5
+171
+100
+AcDbEntity
+  8
+3304_1P
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+74.1
+ 20
+53.0
  30
 0.0
  40
-1.5
-  1
-@3203.30P
- 41
-0.8648216596
-  7
-Arial
- 72
-         1
- 11
-140.3245099917
- 21
-184.0532010651
- 31
-0.0
+8.9
 100
-AcDbText
- 73
-         2
+AcDbArc
+ 50
+295.9892335838
+ 51
+424.0107664162
   0
-MTEXT
+ARC
   5
 172
 100
 AcDbEntity
   8
-3204_30P
+3304_1P
 390
 0
+  6
+DASHED
 100
-AcDbMText
+AcDbCircle
  10
-144.3554323099
+59.625
  20
-147.0688845323
+45.75
  30
 0.0
  40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135119;>3203.=LP\PM50+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
+28.1194438956
+100
+AcDbArc
+ 50
+147.1576503333
+ 51
+190.760469306
   0
-LINE
+INSERT
   5
 173
 100
 AcDbEntity
   8
-3203_30P
+BEMASSUNG
 390
 0
-  6
-DASHED
 100
-AcDbLine
+AcDbBlockReference
+  2
+D486187776
  10
-140.2904143258
+0.0
  20
-262.8591317078
+0.0
  30
 0.0
- 11
-148.2904143256
- 21
-262.8591317078
- 31
-0.0
   0
-LINE
+TEXT
   5
 174
 100
 AcDbEntity
   8
-3203_30P
+BESCHRIFTUNG
 390
 0
-  6
-DASHED
 100
-AcDbLine
+AcDbText
  10
-148.2904143256
+13.0
  20
-225.8591317078
+135.0
  30
 0.0
- 11
-142.2904143259
- 21
-237.8565607247
- 31
-0.0
+ 40
+2.5
+  1
+3304
+ 41
+1.1351453378
+  7
+Arial
+100
+AcDbText
   0
-LINE
+TEXT
   5
 175
 100
 AcDbEntity
   8
-3204_30P
+BESCHRIFTUNG
 390
 0
-  6
-DASHED
 100
-AcDbLine
+AcDbText
  10
-140.2904143261
+13.0
  20
-182.6258005618
+71.0
  30
 0.0
- 11
-148.2904143261
- 21
-182.6258005618
- 31
-0.0
+ 40
+2.5
+  1
+3304.1P
+ 41
+1.1350985377
+  7
+Arial
+100
+AcDbText
   0
 LINE
   5
 176
-100
-AcDbEntity
-  8
-3204_30P
-390
-0
-  6
-DASHED
-100
-AcDbLine
- 10
-148.2904143261
- 20
-147.6258005618
- 30
-0.0
- 11
-142.2904143256
- 21
-157.6232295787
- 31
-0.0
-  0
-MTEXT
-  5
-177
-100
-AcDbEntity
-  8
-3203_30P
-390
-0
-100
-AcDbMText
- 10
-131.1651064765
- 20
-257.1382295693
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         7
- 72
-         1
-  1
-\W1.134938;M60+x2\PT2 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20\P:L13,14
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-LINE
-  5
-178
 100
 AcDbEntity
   8
@@ -10383,76 +10177,140 @@ MITTELLINIEN
 100
 AcDbLine
  10
-200.2904143262
+99.0
  20
-132.6258005623
+118.75
  30
 0.0
  11
-200.2904143262
+89.0
  21
-273.6042142327
+118.75
  31
 0.0
   0
-INSERT
+LINE
+  5
+177
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+92.5
+ 20
+124.0
+ 30
+0.0
+ 11
+92.5
+ 21
+122.0
+ 31
+0.0
+  0
+LINE
+  5
+178
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+91.5
+ 20
+116.0
+ 30
+0.0
+ 11
+91.5
+ 21
+130.0
+ 31
+0.0
+  0
+LINE
   5
 179
 100
 AcDbEntity
   8
-BEMASSUNG
+3304 KLOBEN
 390
 0
 100
-AcDbBlockReference
-  2
-D378331904
+AcDbLine
  10
-0.0
+96.5
  20
-0.0
+130.0
  30
 0.0
+ 11
+96.5
+ 21
+116.0
+ 31
+0.0
   0
-INSERT
+LINE
   5
 17A
 100
 AcDbEntity
   8
-BEMASSUNG
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbBlockReference
-  2
-D378331648
+AcDbLine
  10
-0.0
+96.5
  20
-0.0
+124.0
  30
 0.0
+ 11
+92.5
+ 21
+124.0
+ 31
+0.0
   0
-INSERT
+LINE
   5
 17B
 100
 AcDbEntity
   8
-BEMASSUNG
+3304 KLOBEN
 390
 0
 100
-AcDbBlockReference
-  2
-D378331392
+AcDbLine
  10
-0.0
+96.5
  20
-0.0
+116.0
  30
+0.0
+ 11
+91.5
+ 21
+116.0
+ 31
 0.0
   0
 LINE
@@ -10461,21 +10319,23 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-59.1308918545
+96.5
  20
-133.5344983968
+122.0
  30
 0.0
  11
-59.1308918545
+92.5
  21
-124.5564606742
+122.0
  31
 0.0
   0
@@ -10485,99 +10345,99 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304 KLOBEN
 390
 0
 100
 AcDbLine
  10
-59.1308918545
+91.5
  20
-89.0558746213
+130.0
  30
 0.0
  11
-59.1308918545
+96.5
  21
-84.5564606742
+130.0
  31
 0.0
   0
-ARC
+LINE
   5
 17E
 100
 AcDbEntity
   8
-3203_30P
+3304 KLOBEN
 390
 0
   6
 DASHED
 100
-AcDbCircle
+AcDbLine
  10
-141.2904143267
+96.5
  20
-214.4810199245
+117.5
  30
 0.0
- 40
-2.5798092283
-100
-AcDbArc
- 50
-112.8068353513
- 51
-427.1931646776
+ 11
+91.5
+ 21
+117.5
+ 31
+0.0
   0
-ARC
+LINE
   5
 17F
 100
 AcDbEntity
   8
-3204_30P
+3304 KLOBEN
 390
 0
   6
 DASHED
 100
-AcDbCircle
+AcDbLine
  10
-141.2904143256
+96.5
  20
-135.0529042715
+120.0
  30
 0.0
- 40
-1.8638676835
-100
-AcDbArc
- 50
-122.4469695
- 51
-417.5530305
+ 11
+91.5
+ 21
+120.0
+ 31
+0.0
   0
-CIRCLE
+LINE
   5
 180
 100
 AcDbEntity
   8
-3203_13P
+MITTELLINIEN
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-75.1284560541
+94.0
  20
-130.0564606742
+132.5
  30
 0.0
- 40
-1.25
+ 11
+94.0
+ 21
+121.1614378278
+ 31
+0.0
   0
 LINE
   5
@@ -10585,45 +10445,51 @@ LINE
 100
 AcDbEntity
   8
-3203_13P
+3304 KLOBEN
 390
 0
   6
-DASHED
+DIVIDE
 100
 AcDbLine
  10
-75.1284560541
+92.75
  20
-130.0564606742
+130.0
  30
 0.0
  11
-59.1308918545
+92.75
  21
-124.5564606742
+123.6614378278
  31
 0.0
   0
-CIRCLE
+LINE
   5
 182
 100
 AcDbEntity
   8
-3203_14P
+3304 KLOBEN
 390
 0
+  6
+DIVIDE
 100
-AcDbCircle
+AcDbLine
  10
-75.1284560541
+95.25
  20
-90.0564606742
+130.0
  30
 0.0
- 40
-1.25
+ 11
+95.25
+ 21
+123.6614378278
+ 31
+0.0
   0
 LINE
   5
@@ -10631,7 +10497,7 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304 KLOBEN
 390
 0
   6
@@ -10639,15 +10505,15 @@ DASHED
 100
 AcDbLine
  10
-75.1284560541
+81.0
  20
-90.0564606742
+120.75
  30
 0.0
  11
-59.1308918545
+101.0
  21
-84.5564606742
+120.75
  31
 0.0
   0
@@ -10657,7 +10523,33 @@ LINE
 100
 AcDbEntity
   8
-3203_14P
+3304 KLOBEN
+390
+0
+  6
+HIDDEN
+100
+AcDbLine
+ 10
+81.0
+ 20
+121.75
+ 30
+0.0
+ 11
+101.0
+ 21
+121.75
+ 31
+0.0
+  0
+LINE
+  5
+185
+100
+AcDbEntity
+  8
+3304 KLOBEN
 390
 0
   6
@@ -10665,123 +10557,67 @@ DASHED
 100
 AcDbLine
  10
-92.6298307757
+81.0
  20
-87.0564606742
+116.75
  30
 0.0
  11
-75.1284560541
+101.0
  21
-90.0564606742
+116.75
  31
 0.0
   0
-TEXT
-  5
-185
-100
-AcDbEntity
-  8
-3203_13P
-390
-0
-  6
-DIVIDE
-100
-AcDbText
- 10
-55.1613762182
- 20
-145.2312901939
- 30
-0.0
- 40
-1.5
-  1
-@3203.11P
- 41
-0.8648217064
-  7
-Arial
- 72
-         1
- 11
-60.1649875194
- 21
-145.9812901939
- 31
-0.0
-100
-AcDbText
- 73
-         2
-  0
-TEXT
+LINE
   5
 186
 100
 AcDbEntity
   8
-3203_14P
+3304 KLOBEN
 390
 0
   6
-DIVIDE
+HIDDEN
 100
-AcDbText
+AcDbLine
  10
-55.6036741158
+81.0
  20
-104.9981109286
+115.75
  30
 0.0
- 40
-1.5
-  1
-@3203.11P
- 41
-0.8648217064
-  7
-Arial
- 72
-         1
  11
-60.607285417
+101.0
  21
-105.7481109286
+115.75
  31
 0.0
-100
-AcDbText
- 73
-         2
   0
-ARC
+LINE
   5
 187
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-72.8632816933
+60.0
  20
-252.783112535
+115.25
  30
 0.0
- 40
-1.6
-100
-AcDbArc
- 50
-252.9638948122
- 51
-432.9638948122
+ 11
+60.5
+ 21
+115.25
+ 31
+0.0
   0
 LINE
   5
@@ -10789,21 +10625,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-62.7258208251
+60.0
  20
-257.5628615183
+122.25
  30
 0.0
  11
-73.3320405193
+60.0
  21
-254.3129050579
+115.25
  31
 0.0
   0
@@ -10813,21 +10649,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-60.956901695
+60.5
  20
-251.7900011298
+122.25
  30
 0.0
  11
-75.5190698048
+60.0
  21
-247.3278634699
+122.25
  31
 0.0
   0
@@ -10837,21 +10673,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-62.7258208251
+60.5
  20
-257.5628615183
+115.25
  30
 0.0
  11
-63.5580143287
+60.5
  21
-260.2787216336
+122.25
  31
 0.0
   0
@@ -10861,21 +10697,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+MITTELLINIEN
 390
 0
 100
 AcDbLine
  10
-61.788303173
+61.0
  20
-254.5032764726
+118.75
  30
 0.0
  11
-72.3945228672
+59.5
  21
-251.2533200122
+118.75
  31
 0.0
   0
@@ -10885,21 +10721,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-63.5580143287
+60.0
  20
-260.2787216336
+121.5
  30
 0.0
  11
-97.7087422091
+58.1
  21
-260.2787216336
+121.5
  31
 0.0
   0
@@ -10909,43 +10745,47 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-60.956901695
+60.0
  20
-251.7900011298
+116.0
  30
 0.0
  11
-61.788303173
+58.1
  21
-254.5032764726
+116.0
  31
 0.0
   0
-CIRCLE
+LINE
   5
 18E
 100
 AcDbEntity
   8
-3203_11P
+MITTELLINIEN
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-97.7087422091
+53.0
  20
-256.2787216336
+118.75
  30
 0.0
- 40
-1.25
+ 11
+73.0
+ 21
+118.75
+ 31
+0.0
   0
 LINE
   5
@@ -10953,21 +10793,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-76.1825373347
+60.0
  20
-246.6636662331
+116.0
  30
 0.0
  11
-81.169512435
+60.0
  21
-230.3245975327
+121.5
  31
 0.0
   0
@@ -10977,69 +10817,73 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-101.3499187878
+58.0
  20
-254.6228734754
+121.4
  30
 0.0
  11
-90.0365081542
+58.0
  21
-229.7449125223
+119.15
  31
 0.0
   0
-ARC
+LINE
   5
 191
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-97.7087422091
+58.0
  20
-256.2787216336
+116.1
  30
 0.0
- 40
-4.0
-100
-AcDbArc
- 50
-335.5460318365
- 51
-450.0
+ 11
+58.0
+ 21
+118.35
+ 31
+0.0
   0
-CIRCLE
+ARC
   5
 192
 100
 AcDbEntity
   8
-3203_11P
+UNSICHTBARE
 390
 0
 100
 AcDbCircle
  10
-87.0659492678
+58.1
  20
-247.9732440189
+121.4
  30
 0.0
  40
-1.25
+0.1
+100
+AcDbArc
+ 50
+90.0
+ 51
+180.0
   0
 ARC
   5
@@ -11047,71 +10891,73 @@ ARC
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbCircle
  10
-75.2260955385
+58.1
  20
-246.3717431432
+116.1
  30
 0.0
  40
-1.0
+0.1
 100
 AcDbArc
  50
-16.9731237467
+180.0
  51
-72.9638948122
+270.0
   0
-CIRCLE
+LINE
   5
 194
 100
 AcDbEntity
   8
-3203_11P
+UNSICHTBARE
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-85.712610967
+58.0
  20
-231.7112322101
+118.35
  30
 0.0
- 40
-1.25
+ 11
+58.85
+ 21
+118.35
+ 31
+0.0
   0
-ARC
+LINE
   5
 195
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-85.712610967
+58.0
  20
-231.7112322101
+119.15
  30
 0.0
- 40
-4.75
-100
-AcDbArc
- 50
-196.9731237467
- 51
-335.5460318365
+ 11
+58.85
+ 21
+119.15
+ 31
+0.0
   0
 LINE
   5
@@ -11119,21 +10965,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-61.543487653
+58.85
  20
-194.3399509057
+119.15
  30
 0.0
  11
-62.3795623292
+58.85
  21
-197.1185365841
+118.35
  31
 0.0
   0
@@ -11143,21 +10989,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-63.481567885
+60.0
  20
-200.1351425126
+120.25
  30
 0.0
  11
-74.2932345629
+67.693265
  21
-197.652809569
+120.25
  31
 0.0
   0
@@ -11167,21 +11013,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-63.481567885
+61.5
  20
-200.1351425126
+119.943265
  30
 0.0
  11
-64.1072647866
+68.0
  21
-202.8603314763
+119.943265
  31
 0.0
   0
@@ -11191,21 +11037,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-62.7654872293
+61.5
  20
-197.0162920041
+117.556735
  30
 0.0
  11
-73.5771539072
+68.0
  21
-194.5339590605
+117.556735
  31
 0.0
   0
@@ -11215,21 +11061,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-95.1878617725
+60.0
  20
-173.8432245465
+117.25
  30
 0.0
  11
-106.3919740371
+67.693265
  21
-197.1258268056
+117.25
  31
 0.0
   0
@@ -11239,21 +11085,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-80.3534760705
+61.5
  20
-189.2100180289
+120.25
  30
 0.0
  11
-86.5091104977
+61.5
  21
-174.1098597884
+117.25
  31
 0.0
   0
@@ -11263,21 +11109,21 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-62.1161704261
+68.0
  20
-194.1882278384
+119.943265
  30
 0.0
  11
-79.6698483062
+68.0
  21
-189.8027057641
+117.556735
  31
 0.0
   0
@@ -11287,209 +11133,227 @@ LINE
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-64.1072647866
+67.693265
  20
-202.8603314763
+120.25
  30
 0.0
  11
-102.7876025874
+67.693265
  21
-202.8603314763
+117.25
  31
 0.0
   0
-ARC
+LINE
   5
 19E
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+UNSICHTBARE
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-90.907670676
+67.693265
  20
-175.902948843
+120.25
  30
 0.0
- 40
-4.75
-100
-AcDbArc
- 50
-202.178444398
- 51
-334.3020930321
+ 11
+68.0
+ 21
+119.943265
+ 31
+0.0
   0
-CIRCLE
+LINE
   5
 19F
 100
 AcDbEntity
   8
-3204_11P
+UNSICHTBARE
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-102.7876025874
+67.693265
  20
-198.8603314763
+117.25
  30
 0.0
- 40
-1.25
+ 11
+68.0
+ 21
+117.556735
+ 31
+0.0
   0
-CIRCLE
+LINE
   5
 1A0
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-90.907670676
+83.0
  20
-175.902948843
+123.75
  30
 0.0
- 40
-1.25
+ 11
+98.0
+ 21
+123.75
+ 31
+0.0
   0
-ARC
+LINE
   5
 1A1
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-73.9351942351
+98.0
  20
-196.0933843148
+123.75
  30
 0.0
- 40
-1.6
-100
-AcDbArc
- 50
-257.069133738
- 51
-437.069133738
+ 11
+98.0
+ 21
+113.75
+ 31
+0.0
   0
-CIRCLE
+LINE
   5
 1A2
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-88.5478176755
+98.0
  20
-192.7383607427
+113.75
  30
 0.0
- 40
-1.25
+ 11
+83.0
+ 21
+113.75
+ 31
+0.0
   0
-ARC
+LINE
   5
 1A3
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-102.7876025874
+83.0
  20
-198.8603314763
+113.75
  30
 0.0
- 40
-4.0
-100
-AcDbArc
- 50
-334.3020930321
- 51
-450.0
+ 11
+83.0
+ 21
+123.75
+ 31
+0.0
   0
-ARC
+LINE
   5
 1A4
 100
 AcDbEntity
   8
-3201-3204 WINKELHEBEL
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-79.4274634014
+97.0
  20
-188.8325255963
+123.75
  30
 0.0
- 40
-1.0
-100
-AcDbArc
- 50
-22.178444398
- 51
-75.9726577666
+ 11
+97.0
+ 21
+113.75
+ 31
+0.0
   0
-CIRCLE
+LINE
   5
 1A5
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
   6
-DIVIDE
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-83.5478176755
+-41.5
  20
-192.7383607427
+167.0
  30
 0.0
- 40
-1.0
+ 11
+-41.5
+ 21
+165.0
+ 31
+0.0
   0
 LINE
   5
@@ -11497,23 +11361,21 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
-  6
-DIVIDE
 100
 AcDbLine
  10
-62.8981093164
+-42.5
  20
-261.2787216336
+159.0
  30
 0.0
  11
-97.7087422091
+-42.5
  21
-261.2787216336
+173.0
  31
 0.0
   0
@@ -11523,23 +11385,21 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
-  6
-DIVIDE
 100
 AcDbLine
  10
-59.707807102
+-37.5
  20
-251.1268550693
+173.0
  30
 0.0
  11
-75.2260955385
+-37.5
  21
-246.3717431432
+159.0
  31
 0.0
   0
@@ -11549,23 +11409,23 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
   6
-DIVIDE
+DASHED
 100
 AcDbLine
  10
-63.3108433687
+-37.5
  20
-203.8603314763
+167.0
  30
 0.0
  11
-102.7876025874
+-41.5
  21
-203.8603314763
+167.0
  31
 0.0
   0
@@ -11575,23 +11435,21 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
-  6
-DIVIDE
 100
 AcDbLine
  10
-60.2813312688
+-37.5
  20
-193.6158983846
+159.0
  30
 0.0
  11
-79.4274634014
+-42.5
  21
-188.8325255963
+159.0
  31
 0.0
   0
@@ -11601,49 +11459,49 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-79.4274634014
+-37.5
  20
-188.8325255963
+165.0
  30
 0.0
  11
-85.5830978286
+-41.5
  21
-173.7323673558
+165.0
  31
 0.0
   0
-ARC
+LINE
   5
 1AB
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-90.907670676
+-42.5
  20
-175.902948843
+173.0
  30
 0.0
- 40
-5.75
-100
-AcDbArc
- 50
-202.178444398
- 51
-334.3020930321
+ 11
+-37.5
+ 21
+173.0
+ 31
+0.0
   0
 LINE
   5
@@ -11651,49 +11509,51 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-96.0889546349
+-37.5
  20
-173.4095983788
+160.5
  30
 0.0
  11
-107.2930668995
+-42.5
  21
-196.6922006379
+160.5
  31
 0.0
   0
-ARC
+LINE
   5
 1AD
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-102.7876025874
+-37.5
  20
-198.8603314763
+163.0
  30
 0.0
- 40
-5.0
-100
-AcDbArc
- 50
-334.3020930321
- 51
-450.0
+ 11
+-42.5
+ 21
+163.0
+ 31
+0.0
   0
 LINE
   5
@@ -11701,21 +11561,23 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DIVIDE
 100
 AcDbLine
  10
-61.6876960835
+-41.25
  20
-198.2897693251
+173.0
  30
 0.0
  11
-73.8009291121
+-41.25
  21
-195.5085998444
+166.6614378278
  31
 0.0
   0
@@ -11725,49 +11587,51 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DIVIDE
 100
 AcDbLine
  10
-62.2831518962
+-38.75
  20
-199.3842769336
+173.0
  30
 0.0
  11
-74.069459358
+-38.75
  21
-196.6781687851
+166.6614378278
  31
 0.0
   0
-ARC
+LINE
   5
 1B0
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-73.9351942351
+-37.0
  20
-196.0933843148
+166.75
  30
 0.0
- 40
-0.6
-100
-AcDbArc
- 50
-257.069133738
- 51
-437.069133738
+ 11
+-37.0
+ 21
+156.75
+ 31
+0.0
   0
 LINE
   5
@@ -11775,21 +11639,23 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-62.2831518962
+-53.0
  20
-199.3842769336
+163.75
  30
 0.0
  11
-63.3108433687
+-33.0
  21
-203.8603314763
+163.75
  31
 0.0
   0
@@ -11799,49 +11665,51 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-60.2813312688
+-51.0
  20
-193.6158983846
+156.75
  30
 0.0
  11
-61.6876960835
+-51.0
  21
-198.2897693251
+166.75
  31
 0.0
   0
-ARC
+LINE
   5
 1B3
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
-AcDbCircle
+AcDbLine
  10
-97.7087422091
+-53.0
  20
-256.2787216336
+158.75
  30
 0.0
- 40
-5.0
-100
-AcDbArc
- 50
-335.5460318365
- 51
-450.0
+ 11
+-33.0
+ 21
+158.75
+ 31
+0.0
   0
 LINE
   5
@@ -11849,49 +11717,51 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-102.2602129325
+-53.0
  20
-254.2089114359
+159.75
  30
 0.0
  11
-90.9468022988
+-33.0
  21
-229.3309504827
+159.75
  31
 0.0
   0
-ARC
+LINE
   5
 1B5
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbCircle
+AcDbLine
  10
-85.712610967
+-51.0
  20
-231.7112322101
+166.75
  30
 0.0
- 40
-5.75
-100
-AcDbArc
- 50
-196.9731237467
- 51
-335.5460318365
+ 11
+-36.0
+ 21
+166.75
+ 31
+0.0
   0
 LINE
   5
@@ -11899,21 +11769,23 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-75.2260955385
+-36.0
  20
-246.3717431432
+166.75
  30
 0.0
  11
-80.2130706388
+-36.0
  21
-230.0326744427
+156.75
  31
 0.0
   0
@@ -11923,21 +11795,23 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-61.1251571125
+-36.0
  20
-255.7523710657
+156.75
  30
 0.0
  11
-72.6874971335
+-51.0
  21
-252.209440339
+156.75
  31
 0.0
   0
@@ -11947,49 +11821,49 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
 AcDbLine
  10
-61.2620974311
+-53.0
  20
-256.9654819871
+164.75
  30
 0.0
  11
-73.039066253
+-33.0
  21
-253.3567847311
+164.75
  31
 0.0
   0
-ARC
+LINE
   5
 1B9
 100
 AcDbEntity
   8
-3203_11P
+MITTELLINIEN
 390
 0
 100
-AcDbCircle
+AcDbLine
  10
-72.8632816933
+-35.0
  20
-252.783112535
+161.75
  30
 0.0
- 40
-0.6
-100
-AcDbArc
- 50
-252.9638948122
- 51
-432.9638948122
+ 11
+-45.0
+ 21
+161.75
+ 31
+0.0
   0
 LINE
   5
@@ -11997,125 +11871,121 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+MITTELLINIEN
 390
 0
 100
 AcDbLine
  10
-59.707807102
+-40.0
  20
-251.1268550693
+175.5
  30
 0.0
  11
-61.1251571125
+-40.0
  21
-255.7523710657
+164.1614378278
  31
 0.0
   0
-LINE
+CIRCLE
   5
 1BB
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-61.2620974311
+-103.0
  20
-256.9654819871
+161.75
  30
 0.0
- 11
-62.8981093164
- 21
-261.2787216336
- 31
-0.0
+ 40
+1.25
   0
-LINE
+ARC
   5
 1BC
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
-AcDbLine
+AcDbCircle
  10
-60.1308918538
+-103.5
  20
-261.2779864832
+166.0
  30
 0.0
- 11
-97.7087422091
- 21
-256.2787216336
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
   0
-LINE
+ARC
   5
 1BD
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
-AcDbLine
+AcDbCircle
  10
-97.7087422091
+-102.5
  20
-256.2787216336
+166.0
  30
 0.0
- 11
-87.0659492678
- 21
-247.9732440189
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
   0
-LINE
+ARC
   5
 1BE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
-AcDbLine
+AcDbCircle
  10
-87.0659492678
+-103.0
  20
-247.9732440189
+173.5
  30
 0.0
- 11
-85.712610967
- 21
-231.7112322101
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+210.0
+ 51
+330.0
   0
 LINE
   5
@@ -12123,23 +11993,21 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
 AcDbLine
  10
-85.712610967
+-106.0
  20
-231.7112322101
+159.0
  30
 0.0
  11
-80.2130706388
+-100.0
  21
-230.0326744427
+159.0
  31
 0.0
   0
@@ -12149,23 +12017,21 @@ LINE
 100
 AcDbEntity
   8
-3203_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
 AcDbLine
  10
-80.2130706388
+-100.0
  20
-230.0326744427
+159.0
  30
 0.0
  11
-60.1308918541
+-100.0
  21
-224.277986483
+173.0
  31
 0.0
   0
@@ -12175,23 +12041,21 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
 AcDbLine
  10
-60.1308918542
+-100.0
  20
-203.8603314766
+173.0
  30
 0.0
  11
-83.5478176755
+-102.1339745962
  21
-192.7383607427
+173.0
  31
 0.0
   0
@@ -12201,23 +12065,21 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
 AcDbLine
  10
-88.5478176755
+-106.0
  20
-192.7383607427
+173.0
  30
 0.0
  11
-102.7876025874
+-106.0
  21
-198.8603314763
+159.0
  31
 0.0
   0
@@ -12227,23 +12089,21 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
 AcDbLine
  10
-102.7876025874
+-103.8660254038
  20
-198.8603314763
+173.0
  30
 0.0
  11
-90.907670676
+-106.0
  21
-175.902948843
+173.0
  31
 0.0
   0
@@ -12253,23 +12113,21 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
 AcDbLine
  10
-90.907670676
+-103.5
  20
-175.902948843
+167.0
  30
 0.0
  11
-85.5830978286
+-102.5
  21
-173.7323673558
+167.0
  31
 0.0
   0
@@ -12279,53 +12137,47 @@ LINE
 100
 AcDbEntity
   8
-3204_11P
+3304 KLOBEN
 390
 0
-  6
-DASHED
 100
 AcDbLine
  10
-85.5830978286
+-102.5
  20
-173.7323673558
+165.0
  30
 0.0
  11
-60.1308918543
+-103.5
  21
-168.860331476
+165.0
  31
 0.0
   0
-ARC
+LINE
   5
 1C6
 100
 AcDbEntity
   8
-3204_11P
+MITTELLINIEN
 390
 0
-  6
-DASHED
 100
-AcDbCircle
+AcDbLine
  10
-86.0478176755
+-103.0
  20
-192.4879447367
+158.0
  30
 0.0
- 40
-2.5125103335
-100
-AcDbArc
- 50
-5.7200327389
- 51
-174.2799672611
+ 11
+-103.0
+ 21
+165.5
+ 31
+0.0
   0
 LINE
   5
@@ -12333,191 +12185,193 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+MITTELLINIEN
 390
 0
 100
 AcDbLine
  10
-10.0
+-106.75
  20
-5.0
+161.75
  30
 0.0
  11
-10.0
+-99.25
  21
-292.0
+161.75
  31
 0.0
   0
-LINE
+CIRCLE
   5
 1C8
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
-AcDbLine
+AcDbCircle
  10
-15.0
+-67.5
  20
-287.0
+161.75
  30
 0.0
- 11
-205.0
- 21
-287.0
- 31
-0.0
+ 40
+3.0
   0
-LINE
+CIRCLE
   5
 1C9
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
-AcDbLine
+AcDbCircle
  10
-10.0
+-67.5
  20
-292.0
+161.75
  30
 0.0
- 11
-15.0
- 21
-292.0
- 31
-0.0
+ 40
+2.0
   0
-LINE
+ARC
   5
 1CA
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-10.0
+-59.0
  20
-5.0
+166.0
  30
 0.0
- 11
-15.0
- 21
-5.0
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+270.0
   0
-LINE
+ARC
   5
 1CB
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-10.0
+-58.0
  20
-244.1666666667
+166.0
  30
 0.0
- 11
-15.0
- 21
-244.1666666667
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+450.0
   0
-LINE
+ARC
   5
 1CC
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-10.0
+-58.5
  20
-196.3333333333
+173.5
  30
 0.0
- 11
-15.0
- 21
-196.3333333333
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+210.0
+ 51
+330.0
   0
-LINE
+CIRCLE
   5
 1CD
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-10.0
+-58.5
  20
-148.5
+161.75
  30
 0.0
- 11
-15.0
- 21
-148.5
- 31
-0.0
+ 40
+1.25
   0
-LINE
+ARC
   5
 1CE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
-AcDbLine
+AcDbCircle
  10
-10.0
+-66.8088594219
  20
-100.6666666667
+170.0581499208
  30
 0.0
- 11
-15.0
- 21
-100.6666666667
- 31
-0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+255.0024463739
+ 51
+375.0024463739
   0
 LINE
   5
@@ -12525,21 +12379,23 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
 AcDbLine
  10
-10.0
+-71.5
  20
-52.8333333333
+166.75
  30
 0.0
  11
-15.0
+-56.5
  21
-52.8333333333
+166.75
  31
 0.0
   0
@@ -12549,21 +12405,23 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
 AcDbLine
  10
-157.5
+-56.5
  20
-292.0
+166.75
  30
 0.0
  11
-157.5
+-56.5
  21
-287.0
+156.75
  31
 0.0
   0
@@ -12573,21 +12431,23 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
 AcDbLine
  10
-110.0
+-56.5
  20
-292.0
+156.75
  30
 0.0
  11
-110.0
+-71.5
  21
-287.0
+156.75
  31
 0.0
   0
@@ -12597,403 +12457,271 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
 AcDbLine
  10
-62.5
+-71.5
  20
-292.0
+156.75
  30
 0.0
  11
-62.5
+-71.5
  21
-287.0
+166.75
  31
 0.0
   0
-TEXT
+LINE
   5
 1D3
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+HIDDEN
 100
-AcDbText
+AcDbLine
  10
-10.9491078691
+-70.5
  20
-267.8641561278
+166.75
  30
 0.0
- 40
-2.23125
-  1
-A
- 41
-1.547986837
-  7
-Arial
- 72
-         1
  11
-12.6760806841
+-70.5
  21
-270.0954061278
+156.75
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1D4
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbText
+AcDbLine
  10
-10.9491074243
+-59.0
  20
-220.0308227945
+167.0
  30
 0.0
- 40
-2.23125
-  1
-B
- 41
-1.5479872357
-  7
-Arial
- 72
-         1
  11
-12.6760806841
+-58.0
  21
-222.2620727945
+167.0
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1D5
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbText
+AcDbLine
  10
-10.9489779593
+-59.3660254038
  20
-172.1974894612
+173.0
  30
 0.0
- 40
-2.23125
-  1
-C
- 41
-1.5481032827
-  7
-Arial
- 72
-         1
  11
-12.6760806841
+-61.5
  21
-174.4287394612
+173.0
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1D6
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+DIVIDE
 100
-AcDbText
+AcDbLine
  10
-10.9489771034
+-59.75
  20
-124.3641561278
+173.0
  30
 0.0
- 40
-2.23125
-  1
-D
- 41
-1.54810405
-  7
-Arial
- 72
-         1
  11
-12.6760806841
+-59.75
  21
-126.5954061278
+166.6614378278
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1D7
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+DIVIDE
 100
-AcDbText
+AcDbLine
  10
-10.9491076096
+-57.25
  20
-76.5308227945
+173.0
  30
 0.0
- 40
-2.23125
-  1
-E
- 41
-1.5479870696
-  7
-Arial
- 72
-         1
  11
-12.6760806841
+-57.25
  21
-78.7620727945
+166.6614378278
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1D8
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbText
+AcDbLine
  10
-10.9493506612
+-58.0
  20
-28.6974894612
+165.0
  30
 0.0
- 40
-2.23125
-  1
-F
- 41
-1.5477692083
-  7
-Arial
- 72
-         1
  11
-12.6760806841
+-59.0
  21
-30.9287394612
+165.0
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1D9
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbText
+AcDbLine
  10
-36.7048241449
+-61.5
  20
-288.48599354
+159.0
  30
 0.0
- 40
-2.23125
-  1
-1
- 41
-1.5479225906
-  7
-Arial
- 72
-         1
  11
-38.0
+-55.5
  21
-290.71724354
+159.0
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1DA
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbText
+AcDbLine
  10
-83.7730999712
+-55.5
  20
-288.48599354
+173.0
  30
 0.0
- 40
-2.23125
-  1
-2
- 41
-1.5479215945
-  7
-Arial
- 72
-         1
  11
-85.5
+-57.6339745962
  21
-290.71724354
+173.0
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1DB
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbText
+AcDbLine
  10
-131.2730986376
+-55.5
  20
-288.48599354
+159.0
  30
 0.0
- 40
-2.23125
-  1
-3
- 41
-1.5479227899
-  7
-Arial
- 72
-         1
  11
-133.0
+-55.5
  21
-290.71724354
+173.0
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
-TEXT
+LINE
   5
 1DC
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
 100
-AcDbText
+AcDbLine
  10
-178.7730988598
+-61.5
  20
-288.48599354
+173.0
  30
 0.0
- 40
-2.23125
-  1
-4
- 41
-1.5479225906
-  7
-Arial
- 72
-         1
  11
-180.5
+-61.5
  21
-290.71724354
+159.0
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
 LINE
   5
@@ -13001,21 +12729,23 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-205.0
+-67.0676372244
  20
-292.0
+169.0922130445
  30
 0.0
  11
-205.0
+-68.5765207029
  21
-287.0
+167.5832007101
  31
 0.0
   0
@@ -13025,21 +12755,23 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-205.0
+-64.3340611689
  20
-5.0
+171.8260225426
  30
 0.0
  11
-15.0
+-65.8429446474
  21
-5.0
+170.3170102081
  31
 0.0
   0
@@ -13049,21 +12781,23 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-15.0
+-54.4341435598
  20
-5.0
+161.9269502965
  30
 0.0
  11
-15.0
+-64.3340611689
  21
-287.0
+171.8260225426
  31
 0.0
   0
@@ -13073,21 +12807,23 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-15.0
+-68.5765207029
  20
-292.0
+167.5832007101
  30
 0.0
  11
-205.0
+-58.6766030938
  21
-292.0
+157.684128464
  31
 0.0
   0
@@ -13097,46 +12833,44 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+3304 KLOBEN
 390
 0
+  6
+DASHED
 100
 AcDbLine
  10
-1.0
+-58.6766030938
  20
-1.0
+157.684128464
  30
 0.0
  11
-1.0
+-54.4341435598
  21
-296.0
+161.9269502965
  31
 0.0
   0
-LINE
+INSERT
   5
 1E2
 100
 AcDbEntity
   8
-STANDARD
+BEMASSUNG
 390
 0
 100
-AcDbLine
+AcDbBlockReference
+  2
+D486181376
  10
-209.0
- 20
-1.0
- 30
 0.0
- 11
-1.0
- 21
-1.0
- 31
+ 20
+0.0
+ 30
 0.0
   0
 LINE
@@ -13145,21 +12879,21 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+MITTELLINIEN
 390
 0
 100
 AcDbLine
  10
-209.0
+-67.5
  20
-296.0
+156.25
  30
 0.0
  11
-209.0
+-67.5
  21
-1.0
+167.25
  31
 0.0
   0
@@ -13169,21 +12903,21 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+MITTELLINIEN
 390
 0
 100
 AcDbLine
  10
-1.0
+-73.0
  20
-296.0
+161.75
  30
 0.0
  11
-209.0
+-62.0
  21
-296.0
+161.75
  31
 0.0
   0
@@ -13193,21 +12927,21 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-15.0
+-72.0
  20
-287.0
+164.5
  30
 0.0
  11
-15.0
+-73.9
  21
-292.0
+164.5
  31
 0.0
   0
@@ -13217,143 +12951,95 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-205.0
+-72.0
  20
-287.0
+159.0
  30
 0.0
  11
-205.0
+-73.9
  21
-5.0
+159.0
  31
 0.0
   0
-MTEXT
+LINE
   5
 1E7
 100
 AcDbEntity
   8
-STANDARD
+MITTELLINIEN
 390
 0
 100
-AcDbMText
+AcDbLine
  10
-203.6063292805
+-79.0
  20
-81.4222772661
+161.75
  30
 0.0
- 40
-1.59375
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-
-  7
-Arial
  11
-0.0
+-59.0
  21
--1.0
+161.75
  31
 0.0
- 73
-         1
- 44
-1.0352941176
   0
-MTEXT
+LINE
   5
 1E8
 100
 AcDbEntity
   8
-STANDARD
+UNSICHTBARE
 390
 0
 100
-AcDbMText
+AcDbLine
  10
-116.6968769253
+-72.0
  20
-27.5871143065
+159.0
  30
 0.0
- 40
-1.59375
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-
-  7
-Arial
  11
-0.0
+-72.0
  21
--1.0
+164.5
  31
 0.0
- 73
-         1
- 44
-1.0352941176
   0
-MTEXT
+LINE
   5
 1E9
 100
 AcDbEntity
   8
-STANDARD
+UNSICHTBARE
 390
 0
 100
-AcDbMText
+AcDbLine
  10
-203.6063292805
+-74.0
  20
-125.7560948498
+164.4
  30
 0.0
- 40
-1.59375
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-
-  7
-Arial
  11
-0.0
+-74.0
  21
--1.0
+162.15
  31
 0.0
- 73
-         1
- 44
-1.0352941176
   0
 LINE
   5
@@ -13361,75 +13047,75 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-205.0
+-74.0
  20
-182.1150997151
+159.1
  30
 0.0
  11
-205.0
+-74.0
  21
-5.1236467236
+161.35
  31
 0.0
   0
-LINE
+ARC
   5
 1EB
 100
 AcDbEntity
   8
-STANDARD
-370
-         0
+UNSICHTBARE
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-127.305982906
+-73.9
  20
-34.4
+164.4
  30
 0.0
- 11
-127.305982906
- 21
-5.0
- 31
-0.0
+ 40
+0.1
+100
+AcDbArc
+ 50
+90.0
+ 51
+180.0
   0
-LINE
+ARC
   5
 1EC
 100
 AcDbEntity
   8
-STANDARD
-370
-         0
+UNSICHTBARE
 390
 0
 100
-AcDbLine
+AcDbCircle
  10
-81.105982906
+-73.9
  20
-34.4
+159.1
  30
 0.0
- 11
-205.0
- 21
-34.4
- 31
-0.0
+ 40
+0.1
+100
+AcDbArc
+ 50
+180.0
+ 51
+270.0
   0
 LINE
   5
@@ -13437,23 +13123,21 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
-370
-         0
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-81.105982906
+-74.0
  20
-27.4
+161.35
  30
 0.0
  11
-205.0
+-73.15
  21
-27.4
+161.35
  31
 0.0
   0
@@ -13463,23 +13147,21 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
-370
-         0
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-81.105982906
+-74.0
  20
-12.0
+162.15
  30
 0.0
  11
-205.0
+-73.15
  21
-12.0
+162.15
  31
 0.0
   0
@@ -13489,23 +13171,21 @@ LINE
 100
 AcDbEntity
   8
-STANDARD
-370
-         0
+UNSICHTBARE
 390
 0
 100
 AcDbLine
  10
-81.105982906
+-73.15
  20
-34.4
+162.15
  30
 0.0
  11
-81.105982906
+-73.15
  21
-5.0
+161.35
  31
 0.0
   0
@@ -13515,6 +13195,1720 @@ LINE
 100
 AcDbEntity
   8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-72.0
+ 20
+163.25
+ 30
+0.0
+ 11
+-64.306735
+ 21
+163.25
+ 31
+0.0
+  0
+LINE
+  5
+1F1
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-70.5
+ 20
+162.943265
+ 30
+0.0
+ 11
+-64.0
+ 21
+162.943265
+ 31
+0.0
+  0
+LINE
+  5
+1F2
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-70.5
+ 20
+160.556735
+ 30
+0.0
+ 11
+-64.0
+ 21
+160.556735
+ 31
+0.0
+  0
+LINE
+  5
+1F3
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-72.0
+ 20
+160.25
+ 30
+0.0
+ 11
+-64.306735
+ 21
+160.25
+ 31
+0.0
+  0
+LINE
+  5
+1F4
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-70.5
+ 20
+163.25
+ 30
+0.0
+ 11
+-70.5
+ 21
+160.25
+ 31
+0.0
+  0
+LINE
+  5
+1F5
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-64.0
+ 20
+162.943265
+ 30
+0.0
+ 11
+-64.0
+ 21
+160.556735
+ 31
+0.0
+  0
+LINE
+  5
+1F6
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-64.306735
+ 20
+163.25
+ 30
+0.0
+ 11
+-64.306735
+ 21
+160.25
+ 31
+0.0
+  0
+LINE
+  5
+1F7
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-64.306735
+ 20
+163.25
+ 30
+0.0
+ 11
+-64.0
+ 21
+162.943265
+ 31
+0.0
+  0
+LINE
+  5
+1F8
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-64.306735
+ 20
+160.25
+ 30
+0.0
+ 11
+-64.0
+ 21
+160.556735
+ 31
+0.0
+  0
+LINE
+  5
+1F9
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-72.0
+ 20
+158.25
+ 30
+0.0
+ 11
+-71.5
+ 21
+158.25
+ 31
+0.0
+  0
+LINE
+  5
+1FA
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-72.0
+ 20
+165.25
+ 30
+0.0
+ 11
+-72.0
+ 21
+158.25
+ 31
+0.0
+  0
+LINE
+  5
+1FB
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-71.5
+ 20
+165.25
+ 30
+0.0
+ 11
+-72.0
+ 21
+165.25
+ 31
+0.0
+  0
+LINE
+  5
+1FC
+100
+AcDbEntity
+  8
+UNSICHTBARE
+390
+0
+100
+AcDbLine
+ 10
+-71.5
+ 20
+158.25
+ 30
+0.0
+ 11
+-71.5
+ 21
+165.25
+ 31
+0.0
+  0
+LINE
+  5
+1FD
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+-71.0
+ 20
+161.75
+ 30
+0.0
+ 11
+-72.5
+ 21
+161.75
+ 31
+0.0
+  0
+LINE
+  5
+1FE
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+-90.75
+ 20
+173.0
+ 30
+0.0
+ 11
+-90.75
+ 21
+166.6614378278
+ 31
+0.0
+  0
+LINE
+  5
+1FF
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+-88.25
+ 20
+173.0
+ 30
+0.0
+ 11
+-88.25
+ 21
+166.6614378278
+ 31
+0.0
+  0
+LINE
+  5
+200
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+-87.0
+ 20
+159.0
+ 30
+0.0
+ 11
+-92.0
+ 21
+159.0
+ 31
+0.0
+  0
+LINE
+  5
+201
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+-92.0
+ 20
+159.0
+ 30
+0.0
+ 11
+-92.0
+ 21
+173.0
+ 31
+0.0
+  0
+LINE
+  5
+202
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+-92.0
+ 20
+173.0
+ 30
+0.0
+ 11
+-87.0
+ 21
+173.0
+ 31
+0.0
+  0
+LINE
+  5
+203
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+100
+AcDbLine
+ 10
+-87.0
+ 20
+173.0
+ 30
+0.0
+ 11
+-87.0
+ 21
+159.0
+ 31
+0.0
+  0
+LINE
+  5
+204
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+-87.0
+ 20
+167.0
+ 30
+0.0
+ 11
+-91.0
+ 21
+167.0
+ 31
+0.0
+  0
+LINE
+  5
+205
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+-87.0
+ 20
+165.0
+ 30
+0.0
+ 11
+-91.0
+ 21
+165.0
+ 31
+0.0
+  0
+LINE
+  5
+206
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+-87.0
+ 20
+163.0
+ 30
+0.0
+ 11
+-92.0
+ 21
+163.0
+ 31
+0.0
+  0
+LINE
+  5
+207
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+-87.0
+ 20
+160.5
+ 30
+0.0
+ 11
+-92.0
+ 21
+160.5
+ 31
+0.0
+  0
+LINE
+  5
+208
+100
+AcDbEntity
+  8
+3304 KLOBEN
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+-91.0
+ 20
+167.0
+ 30
+0.0
+ 11
+-91.0
+ 21
+165.0
+ 31
+0.0
+  0
+LINE
+  5
+209
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+-84.5
+ 20
+161.75
+ 30
+0.0
+ 11
+-94.5
+ 21
+161.75
+ 31
+0.0
+  0
+LINE
+  5
+20A
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+-89.5
+ 20
+175.5
+ 30
+0.0
+ 11
+-89.5
+ 21
+164.1614378278
+ 31
+0.0
+  0
+LINE
+  5
+20B
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+5.0
+ 20
+2.5
+ 30
+0.0
+ 11
+5.0
+ 21
+146.0
+ 31
+0.0
+  0
+LINE
+  5
+20C
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+7.5
+ 20
+143.5
+ 30
+0.0
+ 11
+102.5
+ 21
+143.5
+ 31
+0.0
+  0
+LINE
+  5
+20D
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+5.0
+ 20
+146.0
+ 30
+0.0
+ 11
+7.5
+ 21
+146.0
+ 31
+0.0
+  0
+LINE
+  5
+20E
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+5.0
+ 20
+2.5
+ 30
+0.0
+ 11
+7.5
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+20F
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+5.0
+ 20
+122.0833333333
+ 30
+0.0
+ 11
+7.5
+ 21
+122.0833333333
+ 31
+0.0
+  0
+LINE
+  5
+210
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+5.0
+ 20
+98.1666666667
+ 30
+0.0
+ 11
+7.5
+ 21
+98.1666666667
+ 31
+0.0
+  0
+LINE
+  5
+211
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+5.0
+ 20
+74.25
+ 30
+0.0
+ 11
+7.5
+ 21
+74.25
+ 31
+0.0
+  0
+LINE
+  5
+212
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+5.0
+ 20
+50.3333333333
+ 30
+0.0
+ 11
+7.5
+ 21
+50.3333333333
+ 31
+0.0
+  0
+LINE
+  5
+213
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+5.0
+ 20
+26.4166666667
+ 30
+0.0
+ 11
+7.5
+ 21
+26.4166666667
+ 31
+0.0
+  0
+LINE
+  5
+214
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+78.75
+ 20
+146.0
+ 30
+0.0
+ 11
+78.75
+ 21
+143.5
+ 31
+0.0
+  0
+LINE
+  5
+215
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+55.0
+ 20
+146.0
+ 30
+0.0
+ 11
+55.0
+ 21
+143.5
+ 31
+0.0
+  0
+LINE
+  5
+216
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+31.25
+ 20
+146.0
+ 30
+0.0
+ 11
+31.25
+ 21
+143.5
+ 31
+0.0
+  0
+TEXT
+  5
+217
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+5.4745539346
+ 20
+133.9320780639
+ 30
+0.0
+ 40
+1.115625
+  1
+A
+ 41
+1.547986837
+  7
+Arial
+ 72
+         1
+ 11
+6.3380403421
+ 21
+135.0477030639
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+218
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+5.4745537121
+ 20
+110.0154113973
+ 30
+0.0
+ 40
+1.115625
+  1
+B
+ 41
+1.5479872357
+  7
+Arial
+ 72
+         1
+ 11
+6.3380403421
+ 21
+111.1310363973
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+219
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+5.4744889797
+ 20
+86.0987447306
+ 30
+0.0
+ 40
+1.115625
+  1
+C
+ 41
+1.5481032827
+  7
+Arial
+ 72
+         1
+ 11
+6.3380403421
+ 21
+87.2143697306
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+21A
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+5.4744885517
+ 20
+62.1820780639
+ 30
+0.0
+ 40
+1.115625
+  1
+D
+ 41
+1.54810405
+  7
+Arial
+ 72
+         1
+ 11
+6.3380403421
+ 21
+63.2977030639
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+21B
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+5.4745538048
+ 20
+38.2654113973
+ 30
+0.0
+ 40
+1.115625
+  1
+E
+ 41
+1.5479870696
+  7
+Arial
+ 72
+         1
+ 11
+6.3380403421
+ 21
+39.3810363973
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+21C
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+5.4746753306
+ 20
+14.3487447306
+ 30
+0.0
+ 40
+1.115625
+  1
+F
+ 41
+1.5477692083
+  7
+Arial
+ 72
+         1
+ 11
+6.3380403421
+ 21
+15.4643697306
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+21D
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+18.3524120724
+ 20
+144.24299677
+ 30
+0.0
+ 40
+1.115625
+  1
+1
+ 41
+1.5479225906
+  7
+Arial
+ 72
+         1
+ 11
+19.0
+ 21
+145.35862177
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+21E
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+41.8865499856
+ 20
+144.24299677
+ 30
+0.0
+ 40
+1.115625
+  1
+2
+ 41
+1.5479215945
+  7
+Arial
+ 72
+         1
+ 11
+42.75
+ 21
+145.35862177
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+21F
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+65.6365493188
+ 20
+144.24299677
+ 30
+0.0
+ 40
+1.115625
+  1
+3
+ 41
+1.5479227899
+  7
+Arial
+ 72
+         1
+ 11
+66.5
+ 21
+145.35862177
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+220
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbText
+ 10
+89.3865494299
+ 20
+144.24299677
+ 30
+0.0
+ 40
+1.115625
+  1
+4
+ 41
+1.5479225906
+  7
+Arial
+ 72
+         1
+ 11
+90.25
+ 21
+145.35862177
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+LINE
+  5
+221
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+102.5
+ 20
+146.0
+ 30
+0.0
+ 11
+102.5
+ 21
+143.5
+ 31
+0.0
+  0
+LINE
+  5
+222
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+102.5
+ 20
+2.5
+ 30
+0.0
+ 11
+7.5
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+223
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+7.5
+ 20
+2.5
+ 30
+0.0
+ 11
+7.5
+ 21
+143.5
+ 31
+0.0
+  0
+LINE
+  5
+224
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+7.5
+ 20
+146.0
+ 30
+0.0
+ 11
+102.5
+ 21
+146.0
+ 31
+0.0
+  0
+LINE
+  5
+225
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+0.5
+ 20
+0.5
+ 30
+0.0
+ 11
+0.5
+ 21
+148.0
+ 31
+0.0
+  0
+LINE
+  5
+226
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+104.5
+ 20
+0.5
+ 30
+0.0
+ 11
+0.5
+ 21
+0.5
+ 31
+0.0
+  0
+LINE
+  5
+227
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+104.5
+ 20
+148.0
+ 30
+0.0
+ 11
+104.5
+ 21
+0.5
+ 31
+0.0
+  0
+LINE
+  5
+228
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+0.5
+ 20
+148.0
+ 30
+0.0
+ 11
+104.5
+ 21
+148.0
+ 31
+0.0
+  0
+LINE
+  5
+229
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+7.5
+ 20
+143.5
+ 30
+0.0
+ 11
+7.5
+ 21
+146.0
+ 31
+0.0
+  0
+LINE
+  5
+22A
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+102.5
+ 20
+143.5
+ 30
+0.0
+ 11
+102.5
+ 21
+2.5
+ 31
+0.0
+  0
+MTEXT
+  5
+22B
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbMText
+ 10
+101.8031646402
+ 20
+40.711138633
+ 30
+0.0
+ 40
+0.796875
+ 41
+0.0
+ 71
+         1
+ 72
+         1
+  1
+
+  7
+Arial
+ 11
+0.0
+ 21
+-1.0
+ 31
+0.0
+ 73
+         1
+ 44
+1.0352941176
+  0
+MTEXT
+  5
+22C
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbMText
+ 10
+58.3484384627
+ 20
+13.7935571533
+ 30
+0.0
+ 40
+0.796875
+ 41
+0.0
+ 71
+         1
+ 72
+         1
+  1
+
+  7
+Arial
+ 11
+0.0
+ 21
+-1.0
+ 31
+0.0
+ 73
+         1
+ 44
+1.0352941176
+  0
+MTEXT
+  5
+22D
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbMText
+ 10
+101.8031646402
+ 20
+62.8780474249
+ 30
+0.0
+ 40
+0.796875
+ 41
+0.0
+ 71
+         1
+ 72
+         1
+  1
+
+  7
+Arial
+ 11
+0.0
+ 21
+-1.0
+ 31
+0.0
+ 73
+         1
+ 44
+1.0352941176
+  0
+LINE
+  5
+22E
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbLine
+ 10
+102.5
+ 20
+91.0575498575
+ 30
+0.0
+ 11
+102.5
+ 21
+2.5618233618
+ 31
+0.0
+  0
+LINE
+  5
+22F
+100
+AcDbEntity
+  8
 STANDARD
 370
          0
@@ -13523,21 +14917,151 @@ STANDARD
 100
 AcDbLine
  10
-165.105982906
+63.652991453
  20
-34.4
+17.2
  30
 0.0
  11
-165.105982906
+63.652991453
  21
-27.4
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+230
+100
+AcDbEntity
+  8
+STANDARD
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+40.552991453
+ 20
+17.2
+ 30
+0.0
+ 11
+102.5
+ 21
+17.2
+ 31
+0.0
+  0
+LINE
+  5
+231
+100
+AcDbEntity
+  8
+STANDARD
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+40.552991453
+ 20
+13.7
+ 30
+0.0
+ 11
+102.5
+ 21
+13.7
+ 31
+0.0
+  0
+LINE
+  5
+232
+100
+AcDbEntity
+  8
+STANDARD
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+40.552991453
+ 20
+6.0
+ 30
+0.0
+ 11
+102.5
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+233
+100
+AcDbEntity
+  8
+STANDARD
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+40.552991453
+ 20
+17.2
+ 30
+0.0
+ 11
+40.552991453
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+234
+100
+AcDbEntity
+  8
+STANDARD
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+82.552991453
+ 20
+17.2
+ 30
+0.0
+ 11
+82.552991453
+ 21
+13.7
  31
 0.0
   0
 TEXT
   5
-1F1
+235
 100
 AcDbEntity
   8
@@ -13547,13 +15071,13 @@ BESCHRIFTUNG
 100
 AcDbText
  10
-82.2010860399
+41.1005430199
  20
-29.1386
+14.5693
  30
 0.0
  40
-3.3
+1.65
   1
 Stellwerk HMM
  41
@@ -13563,9 +15087,9 @@ Stellwerk HMM
   7
 Arial
  11
-82.2010860399
+41.1005430199
  21
-32.4386
+16.2193
  31
 0.0
 100
@@ -13575,7 +15099,7 @@ AcDbText
   0
 TEXT
   5
-1F2
+236
 100
 AcDbEntity
   8
@@ -13585,25 +15109,25 @@ BESCHRIFTUNG
 100
 AcDbText
  10
-128.6210415954
+64.3105207977
  20
-21.6601111111
+10.8300555556
  30
 0.0
  40
-3.3
+1.65
   1
-Hebel JE mit Schloss
+Kloben
  41
-1.1301778077
+1.1301990728
  51
 15.0
   7
 Arial
  11
-128.6210415954
+64.3105207977
  21
-24.9601111111
+12.4800555556
  31
 0.0
 100
@@ -13613,7 +15137,7 @@ AcDbText
   0
 TEXT
   5
-1F3
+237
 100
 AcDbEntity
   8
@@ -13623,13 +15147,13 @@ BESCHRIFTUNG
 100
 AcDbText
  10
-82.2010860399
+41.1005430199
  20
-6.9230888889
+3.4615444444
  30
 0.0
  40
-3.3
+1.65
   1
 Dateiname
  41
@@ -13639,9 +15163,9 @@ Dateiname
   7
 Arial
  11
-82.2010860399
+41.1005430199
  21
-10.2230888889
+5.1115444444
  31
 0.0
 100
@@ -13651,7 +15175,7 @@ AcDbText
   0
 TEXT
   5
-1F4
+238
 100
 AcDbEntity
   8
@@ -13661,25 +15185,25 @@ BESCHRIFTUNG
 100
 AcDbText
  10
-82.4210415954
+41.2105207977
  20
-21.6601111111
+10.8300555556
  30
 0.0
  40
-3.3
+1.65
   1
-Bl. 3203-3204 Pv
+Bl. 3304 KPv
  41
-1.1437204726
+1.1437026121
  51
 15.0
   7
 Arial
  11
-82.4210415954
+41.2105207977
  21
-24.9601111111
+12.4800555556
  31
 0.0
 100
@@ -13689,7 +15213,7 @@ AcDbText
   0
 TEXT
   5
-1F5
+239
 100
 AcDbEntity
   8
@@ -13699,25 +15223,25 @@ BESCHRIFTUNG
 100
 AcDbText
  10
-166.2010860399
+83.1005430199
  20
-29.1386
+14.5693
  30
 0.0
  40
-3.3
+1.65
   1
-Maﬂstab 1:1
+Maﬂstab 2:1
  41
-1.1437192123
+1.1437191386
  51
 15.0
   7
 Arial
  11
-166.2010860399
+83.1005430199
  21
-32.4386
+16.2193
  31
 0.0
 100

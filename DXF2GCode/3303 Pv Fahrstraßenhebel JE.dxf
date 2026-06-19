@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-17A
+1A8
   9
 $SURFTAB1
  70
@@ -1763,7 +1763,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-       147
+       109
   0
 LAYER
   5
@@ -1981,57 +1981,13 @@ DASHDOT
 290
          1
 370
-        25
+        13
 390
 1D
   0
 LAYER
   5
 3C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-BESCHRIFTUNG00
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        25
-390
-1D
-  0
-LAYER
-  5
-3D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-BESCHRIFTUNG0
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        25
-390
-1D
-  0
-LAYER
-  5
-3E
 100
 AcDbSymbolTableRecord
 100
@@ -2053,7 +2009,7 @@ CONTINUOUS
   0
 LAYER
   5
-3F
+3D
 100
 AcDbSymbolTableRecord
 100
@@ -2075,7 +2031,7 @@ DASHED
   0
 LAYER
   5
-40
+3E
 100
 AcDbSymbolTableRecord
 100
@@ -2097,7 +2053,7 @@ DASHED
   0
 LAYER
   5
-41
+3F
 100
 AcDbSymbolTableRecord
 100
@@ -2119,2405 +2075,7 @@ CONTINUOUS
   0
 LAYER
   5
-42
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-SCHNITTVERLAUF
- 70
-        64
- 62
-        34
-  6
-DASHDOT
-290
-         1
-370
-        70
-390
-1D
-  0
-LAYER
-  5
-43
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-KENNZEICHNUNG
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-44
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-PFEILE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        70
-390
-1D
-  0
-LAYER
-  5
-45
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-SCHNITTDARSTELLUNG
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-46
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_3R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-47
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_3L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-48
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_1P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-49
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_2P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_6L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_7L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_9P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_8R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-4F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_8L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-50
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_9T
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-51
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_11P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-52
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_6R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-53
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201_7R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-54
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201___ EINZELHEBEL JE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-55
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_1P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-56
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_2P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-57
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_9P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-58
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_9T
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-59
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_11P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-5A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_20T
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-5B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202_20P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-5C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3202___ DOPPELHEBEL JE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-5D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203_13P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-5E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203_14P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-5F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203_11P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-60
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203_30P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-61
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203___ EINZELHEBEL JE MIT SCHLOSS
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-62
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3204_11P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-63
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3204_30P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-64
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3204___ DOPPELHEBEL JE MIT SCHLOSS
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-65
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-66
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_3P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-67
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_1L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-68
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-69
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_2L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_2R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_5P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206_5T
- 70
-        64
- 62
-        15
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3206___ EINZELHEBEL JE GRUPPENPFADE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-6E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-6F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_3P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-70
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_1L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-71
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-72
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_2L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-73
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_2R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-74
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_5P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-75
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207_5T
- 70
-        64
- 62
-        15
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-76
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3207___ DOPPELHEBEL JE GRUPPENPFADE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-77
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-78
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_3P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-79
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_1L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_2L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_2R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_5P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208_5T
- 70
-        64
- 62
-        15
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-7F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3208___ EINZELHEBEL JE MIT SCHLOSS GRUPPENPFADE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-80
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-81
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_3P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-82
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_1L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-83
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_4P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-84
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_2L
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-85
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_2R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-86
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_5P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-87
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209_5T
- 70
-        64
- 62
-        15
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-88
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
- 70
-        64
- 62
-         6
-  6
-DASHDOT
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-89
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-1088_1P
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-8A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-1088_1R
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-8B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-1088___ VORLAGEN
- 70
-        64
- 62
-       230
-  6
-CONTINUOUS
-290
-         1
-370
-        13
-390
-1D
-  0
-LAYER
-  5
-8C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-FRƒSPFADE
- 70
-        64
- 62
-        30
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-8D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELSCHILDCHEN UMGELEGT
- 70
-        64
- 62
-        16
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-8E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELSCHILDCHEN
- 70
-        64
- 62
-        16
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-8F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELBOCK
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-90
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELEISEN UMGELEGT
- 70
-        64
- 62
-         5
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-91
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELEISEN
- 70
-        64
- 62
-         5
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-92
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELROLLE UMGELEGT
- 70
-        64
- 62
-       134
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-93
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELROLLE
- 70
-        64
- 62
-       134
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-94
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201-3204 WINKELHEBEL UMGELEGT
- 70
-        64
- 62
-       190
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-95
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201-3204 WINKELHEBEL
- 70
-        64
- 62
-       190
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-96
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HANDFALLE ANGEZOGEN
- 70
-        64
- 62
-        30
-  6
-HIDDEN
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-97
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HANDFALLE UMGELEGT
- 70
-        64
- 62
-        30
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-98
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HANDFALLE
- 70
-        64
- 62
-       114
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-99
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELKLINKE UMGELEGT
- 70
-        64
- 62
-       171
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9A
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 HEBELKLINKE
- 70
-        64
- 62
-       171
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9B
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201 SEILZUG
- 70
-        64
- 62
-        94
-  6
-DASHDOT
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9C
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203 SCHLOSSRIEGELPLATTE AUFGESPERRT
- 70
-        64
- 62
-       172
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9D
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3203 SCHLOSSRIEGELPLATTE
- 70
-        64
- 62
-       172
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-9E
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3201-3204 HEBEL JE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-9F
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2001 BODEN
- 70
-        64
- 62
-        14
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A0
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2001 GEBƒUDE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-A1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2101 TRƒGER
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2101 HEBELBANK
- 70
-        64
- 62
-         9
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A3
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 RIEGEL UMGESPERRT
- 70
-        64
- 62
-       230
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A4
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 RIEGEL
- 70
-        64
- 62
-       230
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A5
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 ZUHALTUNG ANGEHOBEN
- 70
-        64
- 62
-        94
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A6
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 ZUHALTUNG
- 70
-        64
- 62
-        94
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A7
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 GEHƒUSE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A8
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 BESATZUNG
- 70
-        64
- 62
-         8
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A9
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2052 SCHLOSS MIT DORN
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-AA
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2053 SCHILD
- 70
-        64
- 62
-        54
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-AB
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2053 SCHL‹SSEL
- 70
-        64
- 62
-       190
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-AC
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2053 SCHL‹SSEL MIT DORN
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-AD
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBERANTRIEB VERDREHT
- 70
-        64
- 62
-       171
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-AE
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBERANTRIEB
- 70
-        64
- 62
-       171
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-AF
+40
 100
 AcDbSymbolTableRecord
 100
@@ -4539,73 +2097,7 @@ CONTINUOUS
   0
 LAYER
   5
-B0
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 HEBELANLENKUNG
- 70
-        64
- 62
-       230
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBER VERSCHOBEN
- 70
-        64
- 62
-       172
-  6
-DASHED
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBER
- 70
-        64
- 62
-       172
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B3
+41
 100
 AcDbSymbolTableRecord
 100
@@ -4627,7 +2119,7 @@ DASHED
   0
 LAYER
   5
-B4
+42
 100
 AcDbSymbolTableRecord
 100
@@ -4649,73 +2141,7 @@ CONTINUOUS
   0
 LAYER
   5
-B5
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 ANLENKUNGSLAGER
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B6
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 RAHMEN QUER
- 70
-        64
- 62
-         8
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B7
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3301 FAHRSTRAﬂENSCHIEBERRECHEN
- 70
-        64
- 62
-        34
-  6
-BORDER
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-B8
+43
 100
 AcDbSymbolTableRecord
 100
@@ -4737,7 +2163,7 @@ DASHED
   0
 LAYER
   5
-B9
+44
 100
 AcDbSymbolTableRecord
 100
@@ -4759,7 +2185,205 @@ CONTINUOUS
   0
 LAYER
   5
-BA
+45
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 FAHRSTRAﬂENSCHIEBER VERSCHOBEN
+ 70
+        64
+ 62
+       172
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+46
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 FAHRSTRAﬂENSCHIEBER
+ 70
+        64
+ 62
+       172
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+47
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 VERSCHLUSSST‹CKE VERSCHOBEN
+ 70
+        64
+ 62
+       190
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+48
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 VERSCHLUSSST‹CKE
+ 70
+        64
+ 62
+       190
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+49
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 HEBELANLENKUNG
+ 70
+        64
+ 62
+       230
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 RAHMEN QUER
+ 70
+        64
+ 62
+         8
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 ANLENKUNGSLAGER
+ 70
+        64
+ 62
+       252
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 FAHRSTRAﬂENSCHIEBERANTRIEB VERDREHT
+ 70
+        64
+ 62
+       171
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 FAHRSTRAﬂENSCHIEBERANTRIEB
+ 70
+        64
+ 62
+       171
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+4E
 100
 AcDbSymbolTableRecord
 100
@@ -4781,95 +2405,7 @@ CONTINUOUS
   0
 LAYER
   5
-BB
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3304 KLOBEN
- 70
-        64
- 62
-       190
-  6
-CONTINUOUS
-290
-         1
-370
-         0
-390
-1D
-  0
-LAYER
-  5
-BC
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3211 TRƒGER JE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-BD
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3211 STƒNDER JE
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-BE
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-3211 HEBELBANK JE
- 70
-        64
- 62
-         9
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-BF
+4F
 100
 AcDbSymbolTableRecord
 100
@@ -4891,7 +2427,117 @@ CONTINUOUS
   0
 LAYER
   5
-C0
+50
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HANDFALLE UMGELEGT
+ 70
+        64
+ 62
+       134
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+51
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HANDFALLE ANGEZOGEN
+ 70
+        64
+ 62
+       134
+  6
+DIVIDE
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+52
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HANDFALLE
+ 70
+        64
+ 62
+       134
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+53
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HEBELEISEN UMGELEGT
+ 70
+        64
+ 62
+         5
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+54
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302 HEBELEISEN
+ 70
+        64
+ 62
+         5
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+55
 100
 AcDbSymbolTableRecord
 100
@@ -4913,7 +2559,975 @@ CONTINUOUS
   0
 LAYER
   5
-C1
+56
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 GEHƒUSE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+57
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 RIEGEL UMGESPERRT
+ 70
+        64
+ 62
+       230
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+58
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 RIEGEL
+ 70
+        64
+ 62
+       230
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+59
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 ZUHALTUNG
+ 70
+        64
+ 62
+        94
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+5A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 BESATZUNG
+ 70
+        64
+ 62
+         8
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+5B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2052 SCHLOSS MIT DORN
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+5C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2053 SCHILD
+ 70
+        64
+ 62
+        54
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+5D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2053 SCHL‹SSEL
+ 70
+        64
+ 62
+       190
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+5E
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2053 SCHL‹SSEL MIT DORN
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+5F
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2001 BODEN
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+60
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2001 GEBƒUDE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+61
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3304 KLOBEN
+ 70
+        64
+ 62
+       190
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+62
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201-3204 WINKELHEBEL UMGELEGT
+ 70
+        64
+ 62
+       190
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+63
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201-3204 WINKELHEBEL
+ 70
+        64
+ 62
+       190
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+64
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELBOCK
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+65
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 SEILZUG
+ 70
+        64
+ 62
+        94
+  6
+DASHDOT
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+66
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELKLINKE UMGELEGT
+ 70
+        64
+ 62
+       171
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+67
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELKLINKE
+ 70
+        64
+ 62
+       171
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+68
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HANDFALLE UMGELEGT
+ 70
+        64
+ 62
+        30
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+69
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HANDFALLE ANGEZOGEN
+ 70
+        64
+ 62
+        30
+  6
+HIDDEN
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HANDFALLE
+ 70
+        64
+ 62
+       114
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELEISEN UMGELEGT
+ 70
+        64
+ 62
+         5
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELEISEN
+ 70
+        64
+ 62
+         5
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELSCHILDCHEN UMGELEGT
+ 70
+        64
+ 62
+        16
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6E
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELSCHILDCHEN
+ 70
+        64
+ 62
+        16
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+6F
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201 HEBELROLLE
+ 70
+        64
+ 62
+       134
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+70
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3201-3204 HEBEL JE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+71
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3211 STƒNDER JE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+72
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3211 TRƒGER JE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+73
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3211 HEBELBANK JE
+ 70
+        64
+ 62
+         9
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+74
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2501 ABTRIEBRAHMEN
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+75
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2501 ROLLEN
+ 70
+        64
+ 62
+       134
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+76
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2501 ABTRIEB
+ 70
+        64
+ 62
+         9
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+77
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBELBOCK
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+78
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBEL NACH OBEN UMGELEGT
+ 70
+        64
+ 62
+         5
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+79
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBEL NACH UNTEN UMGELEGT
+ 70
+        64
+ 62
+         5
+  6
+DASHED
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBEL
+ 70
+        64
+ 62
+         5
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HANDFALLE ANGEZOGEN
+ 70
+        64
+ 62
+        30
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HANDFALLE NACH OBEN UMGELEGT
+ 70
+        64
+ 62
+        30
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HANDFALLE NACH UNTEN UMGELEGT
+ 70
+        64
+ 62
+        30
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7E
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HANDFALLE
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+7F
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 HEBELSCHILD
+ 70
+        64
+ 62
+       171
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+80
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303 FAHRSTRAﬂENHEBEL JE
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+81
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+2101 HEBELBANK
+ 70
+        64
+ 62
+         9
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+82
 100
 AcDbSymbolTableRecord
 100
@@ -4935,7 +3549,7 @@ CONTINUOUS
   0
 LAYER
   5
-C2
+83
 100
 AcDbSymbolTableRecord
 100
@@ -4957,7 +3571,7 @@ CONTINUOUS
   0
 LAYER
   5
-C3
+84
 100
 AcDbSymbolTableRecord
 100
@@ -4973,13 +3587,563 @@ CONTINUOUS
 290
          1
 370
+        18
+390
+1D
+  0
+LAYER
+  5
+85
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+SCHNITTDARSTELLUNG
+ 70
+        64
+ 62
+         7
+  6
+CONTINUOUS
+290
+         1
+370
          0
 390
 1D
   0
 LAYER
   5
-C4
+86
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_2L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+87
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_2R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+88
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_1P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+89
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_6P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_7R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_7L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_8R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303_8L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8E
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3303___ FAHRSTRAﬂENHEBEL JE
+ 70
+        64
+ 62
+         6
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+8F
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3304_1P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+90
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3304___ KLOBEN
+ 70
+        64
+ 62
+         6
+  6
+DASHDOT
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+91
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+1088_1P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+92
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+1088_1R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+93
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+1088___ VORLAGEN
+ 70
+        64
+ 62
+       230
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+94
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_2L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+95
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_2R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+96
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_1P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+97
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_4P
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+98
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_5R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+99
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_5L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+9A
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_6R
+ 70
+        64
+ 62
+        14
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+9B
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302_6L
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+9C
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3302___ HEBELERSATZSCHLOSS JE
+ 70
+        64
+ 62
+         6
+  6
+DASHDOT
+290
+         1
+370
+        13
+390
+1D
+  0
+LAYER
+  5
+9D
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+FRƒSPFADE
+ 70
+        64
+ 62
+        30
+  6
+CONTINUOUS
+290
+         1
+370
+         0
+390
+1D
+  0
+LAYER
+  5
+9E
 100
 AcDbSymbolTableRecord
 100
@@ -5425,7 +4589,7 @@ BLOCK_RECORD
 100
 AcDbSymbolTable
  70
-         5
+         0
   0
 BLOCK_RECORD
   5
@@ -5450,96 +4614,6 @@ AcDbBlockTableRecord
 *PAPER_SPACE
 340
 21
-  0
-BLOCK_RECORD
-  5
-C5
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378385408
-340
-0
-102
-{BLKREFS
-331
-F4
-102
-}
-  0
-BLOCK_RECORD
-  5
-CE
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378385152
-340
-0
-102
-{BLKREFS
-331
-F5
-102
-}
-  0
-BLOCK_RECORD
-  5
-D7
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378384896
-340
-0
-102
-{BLKREFS
-331
-F6
-102
-}
-  0
-BLOCK_RECORD
-  5
-E0
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378384640
-340
-0
-102
-{BLKREFS
-331
-F7
-102
-}
-  0
-BLOCK_RECORD
-  5
-E9
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-D378384384
-340
-0
-102
-{BLKREFS
-331
-F8
-102
-}
   0
 ENDTAB
   0
@@ -5629,1156 +4703,6 @@ AcDbEntity
 100
 AcDbBlockEnd
   0
-BLOCK
-  5
-C6
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378385408
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378385408
-  1
-
-  0
-LINE
-  5
-C7
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-47.0450111397
- 20
-261.3238189382
- 30
-0.0
- 11
-47.0450111397
- 21
-227.3238189382
- 31
-0.0
-  0
-LINE
-  5
-C8
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-33.8396964822
- 20
-261.3238189382
- 30
-0.0
- 11
-49.0450111397
- 21
-261.3238189382
- 31
-0.0
-  0
-LINE
-  5
-C9
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-33.839696482
- 20
-227.3238189382
- 30
-0.0
- 11
-49.0450111397
- 21
-227.3238189382
- 31
-0.0
-  0
-SOLID
-  5
-CA
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-47.0450111397
- 20
-261.3238189382
- 30
-0.0
- 11
-47.4365897164
- 21
-258.3494843541
- 31
-0.0
- 12
-46.6534325631
- 22
-258.3494843541
- 32
-0.0
- 13
-46.6534325631
- 23
-258.3494843541
- 33
-0.0
-  0
-SOLID
-  5
-CB
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-47.0450111397
- 20
-227.3238189382
- 30
-0.0
- 11
-46.6534325631
- 21
-230.2981535224
- 31
-0.0
- 12
-47.4365897164
- 22
-230.2981535224
- 32
-0.0
- 13
-47.4365897164
- 23
-230.2981535224
- 33
-0.0
-  0
-MTEXT
-  5
-CC
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-44.5890111397
- 20
-244.3238189382
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135146;\A1;34
-  7
-Arial
- 11
-0.0
- 21
-1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-CD
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-CF
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378385152
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378385152
-  1
-
-  0
-LINE
-  5
-D0
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-127.9049512446
- 20
-261.3238189382
- 30
-0.0
- 11
-127.9049512446
- 21
-118.3224182558
- 31
-0.0
-  0
-LINE
-  5
-D1
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-116.3236867978
- 20
-261.3238189382
- 30
-0.0
- 11
-129.9049512446
- 21
-261.3238189382
- 31
-0.0
-  0
-LINE
-  5
-D2
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-116.3236867975
- 20
-118.3224182558
- 30
-0.0
- 11
-129.9049512446
- 21
-118.3224182558
- 31
-0.0
-  0
-SOLID
-  5
-D3
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-127.9049512446
- 20
-261.3238189382
- 30
-0.0
- 11
-128.2965298213
- 21
-258.3494843541
- 31
-0.0
- 12
-127.513372668
- 22
-258.3494843541
- 32
-0.0
- 13
-127.513372668
- 23
-258.3494843541
- 33
-0.0
-  0
-SOLID
-  5
-D4
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-127.9049512446
- 20
-118.3224182558
- 30
-0.0
- 11
-127.513372668
- 21
-121.29675284
- 31
-0.0
- 12
-128.2965298213
- 22
-121.29675284
- 32
-0.0
- 13
-128.2965298213
- 23
-121.29675284
- 33
-0.0
-  0
-MTEXT
-  5
-D5
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-125.4489512446
- 20
-189.823118597
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;143
-  7
-Arial
- 11
-0.0
- 21
-1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-D6
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-D8
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378384896
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378384896
-  1
-
-  0
-LINE
-  5
-D9
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-202.3488412921
- 20
-261.3238189382
- 30
-0.0
- 11
-202.3488412921
- 21
-133.3279834342
- 31
-0.0
-  0
-LINE
-  5
-DA
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-191.3569580965
- 20
-261.3238189382
- 30
-0.0
- 11
-204.3488412921
- 21
-261.3238189382
- 31
-0.0
-  0
-LINE
-  5
-DB
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-191.3582675029
- 20
-133.3279834342
- 30
-0.0
- 11
-204.3488412921
- 21
-133.3279834342
- 31
-0.0
-  0
-SOLID
-  5
-DC
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-202.3488412921
- 20
-261.3238189382
- 30
-0.0
- 11
-202.7404198688
- 21
-258.3494843541
- 31
-0.0
- 12
-201.9572627155
- 22
-258.3494843541
- 32
-0.0
- 13
-201.9572627155
- 23
-258.3494843541
- 33
-0.0
-  0
-SOLID
-  5
-DD
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-202.3488412921
- 20
-133.3279834342
- 30
-0.0
- 11
-201.9572627155
- 21
-136.3023180184
- 31
-0.0
- 12
-202.7404198688
- 22
-136.3023180184
- 32
-0.0
- 13
-202.7404198688
- 23
-136.3023180184
- 33
-0.0
-  0
-MTEXT
-  5
-DE
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-199.8928412921
- 20
-197.3259011862
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;128
-  7
-Arial
- 11
-0.0
- 21
-1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-DF
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-E1
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378384640
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378384640
-  1
-
-  0
-LINE
-  5
-E2
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-166.7463807889
- 20
-279.0952949438
- 30
-0.0
- 11
-166.7463807889
- 21
-25.0954405391
- 31
-0.0
-  0
-LINE
-  5
-E3
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-155.083081692
- 20
-279.0952949438
- 30
-0.0
- 11
-168.7463807889
- 21
-279.0952949438
- 31
-0.0
-  0
-LINE
-  5
-E4
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-155.0830816922
- 20
-25.0954405391
- 30
-0.0
- 11
-168.7463807889
- 21
-25.0954405391
- 31
-0.0
-  0
-SOLID
-  5
-E5
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-166.7463807889
- 20
-279.0952949438
- 30
-0.0
- 11
-167.1379593656
- 21
-276.1209603597
- 31
-0.0
- 12
-166.3548022123
- 22
-276.1209603597
- 32
-0.0
- 13
-166.3548022123
- 23
-276.1209603597
- 33
-0.0
-  0
-SOLID
-  5
-E6
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-166.7463807889
- 20
-25.0954405391
- 30
-0.0
- 11
-166.3548022123
- 21
-28.0697751232
- 31
-0.0
- 12
-167.1379593656
- 22
-28.0697751232
- 32
-0.0
- 13
-167.1379593656
- 23
-28.0697751232
- 33
-0.0
-  0
-MTEXT
-  5
-E7
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-164.2903807889
- 20
-152.0953677415
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;254
-  7
-Arial
- 11
-0.0
- 21
-1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-E8
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-EA
-100
-AcDbEntity
-  8
-BEMASSUNG
-390
-0
-100
-AcDbBlockBegin
-  2
-D378384384
- 70
-         0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-D378384384
-  1
-
-  0
-LINE
-  5
-EB
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-77.4795268562
- 20
-144.7457865169
- 30
-0.0
- 11
-77.4795268562
- 21
-31.7457865169
- 31
-0.0
-  0
-LINE
-  5
-EC
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-65.8501481871
- 20
-144.7457865169
- 30
-0.0
- 11
-79.4795268562
- 21
-144.7457865169
- 31
-0.0
-  0
-LINE
-  5
-ED
-100
-AcDbEntity
-  8
-MASSLINIEN
-390
-0
- 62
-       172
-100
-AcDbLine
- 10
-65.8501481871
- 20
-31.7457865169
- 30
-0.0
- 11
-79.4795268562
- 21
-31.7457865169
- 31
-0.0
-  0
-SOLID
-  5
-EE
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-77.4795268562
- 20
-144.7457865169
- 30
-0.0
- 11
-77.8711054328
- 21
-141.7714519327
- 31
-0.0
- 12
-77.0879482795
- 22
-141.7714519327
- 32
-0.0
- 13
-77.0879482795
- 23
-141.7714519327
- 33
-0.0
-  0
-SOLID
-  5
-EF
-100
-AcDbEntity
-  8
-MASSGRENZEN
-390
-0
-100
-AcDbTrace
- 10
-77.4795268562
- 20
-31.7457865169
- 30
-0.0
- 11
-77.0879482795
- 21
-34.720121101
- 31
-0.0
- 12
-77.8711054328
- 22
-34.720121101
- 32
-0.0
- 13
-77.8711054328
- 23
-34.720121101
- 33
-0.0
-  0
-MTEXT
-  5
-F0
-100
-AcDbEntity
-  8
-MASSTEXTE
-390
-0
- 62
-       212
-100
-AcDbMText
- 10
-75.0235268562
- 20
-88.2457865169
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;\A1;113
-  7
-Arial
- 11
-0.0
- 21
-1.0
- 31
-0.0
- 73
-         0
- 44
-0.0
-  0
-ENDBLK
-  5
-F1
-100
-AcDbEntity
-  8
-0
-390
-0
-100
-AcDbBlockEnd
-  0
 ENDSEC
   0
 SECTION
@@ -6787,31 +4711,31 @@ ENTITIES
   0
 TEXT
   5
-F2
+9F
 100
 AcDbEntity
   8
-BESCHRIFTUNG0
+BESCHRIFTUNG
 390
 0
 100
 AcDbText
  10
-16.0951031339
+129.6929117117
  20
-7.2230888889
+6.9230888889
  30
 0.0
  40
-3.0
+3.3
   1
-2026-05-27
+3303 Pv Fahrstraﬂenhebel JE
  41
-1.1351373373
+1.1437144489
   7
 Arial
  11
-16.0951031339
+129.6929117117
  21
 10.2230888889
  31
@@ -6823,33 +4747,33 @@ AcDbText
   0
 TEXT
   5
-F3
+A0
 100
 AcDbEntity
   8
-BESCHRIFTUNG0
+BESCHRIFTUNG
 390
 0
 100
 AcDbText
  10
-128.4049046008
+129.6929117117
  20
-6.8484679633
+29.3230888889
  30
 0.0
  40
-3.0
+3.3
   1
-3209 Pv Doppelhebel JE mit Schl. Gr.pfade
+2026-06-17
  41
-0.9459723056
+1.0318366867
   7
 Arial
  11
-128.4049046008
+129.6929117117
  21
-9.8484679633
+32.6230888889
  31
 0.0
 100
@@ -6857,133 +4781,2215 @@ AcDbText
  73
          3
   0
-INSERT
+TEXT
+  5
+A1
+100
+AcDbEntity
+  8
+BESCHRIFTUNG
+390
+0
+100
+AcDbText
+ 10
+131.2114796496
+ 20
+276.1341334885
+ 30
+0.0
+ 40
+2.5
+  1
+3303.6P
+ 41
+1.1350985595
+  7
+Arial
+ 72
+         1
+ 11
+140.0869843438
+ 21
+277.3841334885
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+ARC
+  5
+A2
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbCircle
+ 10
+113.0393838561
+ 20
+259.251996509
+ 30
+0.0
+ 40
+2.5
+100
+AcDbArc
+ 50
+360.0
+ 51
+540.0
+  0
+ARC
+  5
+A3
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+174.0393838561
+ 20
+256.7519979528
+ 30
+0.0
+ 40
+14.0
+100
+AcDbArc
+ 50
+194.4942699822
+ 51
+212.9962659093
+  0
+CIRCLE
+  5
+A4
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbCircle
+ 10
+174.0393838561
+ 20
+256.7519979528
+ 30
+0.0
+ 40
+1.25
+  0
+ARC
+  5
+A5
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbCircle
+ 10
+113.2893838561
+ 20
+227.7519979528
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+0.0
+ 51
+63.2563160496
+  0
+ARC
+  5
+A6
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+174.0393838561
+ 20
+256.7519979528
+ 30
+0.0
+ 40
+14.0
+100
+AcDbArc
+ 50
+221.3742699822
+ 51
+239.8762659093
+  0
+CIRCLE
+  5
+A7
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+100
+AcDbCircle
+ 10
+113.0393838561
+ 20
+227.7519979528
+ 30
+0.0
+ 40
+1.25
+  0
+ARC
+  5
+A8
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbCircle
+ 10
+112.7893838561
+ 20
+227.7519979528
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+116.7436839504
+ 51
+180.0
+  0
+ARC
+  5
+A9
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbCircle
+ 10
+70.3801147218
+ 20
+168.6588966361
+ 30
+0.0
+ 40
+3.0
+100
+AcDbArc
+ 50
+322.1591586743
+ 51
+417.4428066186
+  0
+LINE
+  5
+AA
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+60.2018887042
+ 20
+100.5971488589
+ 30
+0.0
+ 11
+70.808490422
+ 21
+111.2037505767
+ 31
+0.0
+  0
+LINE
+  5
+AB
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+70.808490422
+ 20
+100.5971488589
+ 30
+0.0
+ 11
+60.2018887042
+ 21
+111.2037505767
+ 31
+0.0
+  0
+MTEXT
+  5
+AC
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+100
+AcDbMText
+ 10
+128.2663550385
+ 20
+142.2764837566
+ 30
+0.0
+ 40
+3.0
+ 41
+0.0
+ 71
+         1
+ 72
+         1
+  1
+\W0.972828;0\P0\P0\P0\P0\P0\P0\P0
+  7
+Arial
+ 73
+         1
+ 44
+0.75
+  0
+MTEXT
+  5
+AD
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+100
+AcDbMText
+ 10
+134.3074487885
+ 20
+142.2764837566
+ 30
+0.0
+ 40
+3.0
+ 41
+0.0
+ 71
+         1
+ 72
+         1
+  3
+\W0.972824;Fahrstraﬂenhebel\PFahrstraﬂenhebelfalle\PFahrstraﬂenhebelfallenfeder\PFahrstraﬂenhebelkloben\PFahrstraﬂenwellenantriebsstange\PFahrstraﬂenhebelbock\PFahrstraﬂenhebelwinkel\PFahrstraﬂenhebelschild\P\PM3x8 Handfallenlager\PM3x16 Hebelachse\
+  1
+PM3x12 Klobenachse\PM3x5 (2) Bockbefestigung\PM3x5 (2) Winkelbefestigung\P
+  7
+Arial
+ 73
+         1
+ 44
+0.75
+  0
+CIRCLE
+  5
+AE
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+100
+AcDbCircle
+ 10
+113.0393838561
+ 20
+196.2402482718
+ 30
+0.0
+ 40
+1.25
+  0
+ARC
+  5
+AF
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+165.342338222
+ 20
+256.3304013289
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+292.3877680125
+ 51
+472.3877680125
+  0
+ARC
+  5
+B0
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+166.4726206902
+ 20
+252.4438148479
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+319.2677680125
+ 51
+499.2677680125
+  0
+ARC
+  5
+B1
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+169.2379988852
+ 20
+249.4881801663
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+346.1477680125
+ 51
+526.1477680125
+  0
+ARC
+  5
+B2
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+164.0745050338
+ 20
+259.7519979528
+ 30
+0.0
+ 40
+4.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+180.0
+  0
+ARC
+  5
+B3
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+174.5393836726
+ 20
+259.7519979528
+ 30
+0.0
+ 40
+4.0
+100
+AcDbArc
+ 50
+0.0
+ 51
+90.0
+  0
+ARC
+  5
+B4
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbCircle
+ 10
+65.5051895631
+ 20
+105.9004497178
+ 30
+0.0
+ 40
+4.8750748414
+100
+AcDbArc
+ 50
+317.3925695579
+ 51
+402.6074304421
+  0
+ARC
+  5
+B5
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+144.9506535546
+ 20
+209.3571542564
+ 30
+0.0
+ 40
+4.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+170.8395336576
+  0
+ARC
+  5
+B6
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbCircle
+ 10
+160.5750253549
+ 20
+214.3571542564
+ 30
+0.0
+ 40
+1.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+346.1477680125
+  0
+LINE
+  5
+B7
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbLine
+ 10
+108.0393838561
+ 20
+195.2402482718
+ 30
+0.0
+ 11
+107.7893838561
+ 21
+195.2402482718
+ 31
+0.0
+  0
+LINE
+  5
+B8
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+58.1301147217
+ 20
+93.3989246218
+ 30
+0.0
+ 11
+58.1301147217
+ 21
+118.4019748138
+ 31
+0.0
+  0
+LINE
+  5
+B9
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+48.3799650389
+ 20
+118.4019748138
+ 30
+0.0
+ 11
+48.3799650389
+ 21
+93.3989246218
+ 31
+0.0
+  0
+LINE
+  5
+BA
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+118.4019748138
+ 30
+0.0
+ 11
+48.3799650389
+ 21
+118.4019748138
+ 31
+0.0
+  0
+LINE
+  5
+BB
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+93.3989246218
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+118.4019748138
+ 31
+0.0
+  0
+LINE
+  5
+BC
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+48.3799650389
+ 20
+93.3989246218
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+93.3989246218
+ 31
+0.0
+  0
+LINE
+  5
+BD
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+51.3801147217
+ 20
+195.6816486668
+ 30
+0.0
+ 11
+46.3801147217
+ 21
+195.6816486668
+ 31
+0.0
+  0
+LINE
+  5
+BE
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+51.3801147217
+ 20
+194.6816486668
+ 30
+0.0
+ 11
+46.3801147217
+ 21
+194.6816486668
+ 31
+0.0
+  0
+LINE
+  5
+BF
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+51.3801147217
+ 20
+195.6816486668
+ 30
+0.0
+ 11
+51.3801147217
+ 21
+190.6889747191
+ 31
+0.0
+  0
+LINE
+  5
+C0
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbLine
+ 10
+118.2893838561
+ 20
+193.2502482718
+ 30
+0.0
+ 11
+107.7893838561
+ 21
+193.2502482718
+ 31
+0.0
+  0
+LINE
+  5
+C1
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+60.3801147218
+ 20
+150.8957185473
+ 30
+0.0
+ 11
+72.7492684877
+ 21
+166.818486238
+ 31
+0.0
+  0
+LINE
+  5
+C2
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+164.9614652343
+ 20
+257.2550286955
+ 30
+0.0
+ 11
+160.0745050338
+ 21
+255.2419894976
+ 31
+0.0
+  0
+LINE
+  5
+C3
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+165.7232112098
+ 20
+255.4057739622
+ 30
+0.0
+ 11
+160.4849663997
+ 21
+253.2480334244
+ 31
+0.0
+  0
+LINE
+  5
+C4
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+165.7148533147
+ 20
+253.0963396402
+ 30
+0.0
+ 11
+162.2974989954
+ 21
+249.1278166906
+ 31
+0.0
+  0
+LINE
+  5
+C5
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+167.2303880657
+ 20
+251.7912900555
+ 30
+0.0
+ 11
+163.5336722532
+ 21
+247.498348742
+ 31
+0.0
+  0
+LINE
+  5
+C6
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+168.2670824607
+ 20
+249.7275988302
+ 30
+0.0
+ 11
+167.0132168378
+ 21
+244.6427875314
+ 31
+0.0
+  0
+LINE
+  5
+C7
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+170.2089153097
+ 20
+249.2487615024
+ 30
+0.0
+ 11
+161.5459417794
+ 21
+214.1177355925
+ 31
+0.0
+  0
+LINE
+  5
+C8
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+174.5393836726
+ 20
+263.7519979528
+ 30
+0.0
+ 11
+164.0745050338
+ 21
+263.7519979528
+ 31
+0.0
+  0
+LINE
+  5
+C9
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+178.5393836726
+ 20
+259.7519979528
+ 30
+0.0
+ 11
+178.5393836726
+ 21
+192.7532696752
+ 31
+0.0
+  0
+LINE
+  5
+CA
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+60.6301147217
+ 20
+93.3989246218
+ 30
+0.0
+ 11
+60.6301147217
+ 21
+118.4019748138
+ 31
+0.0
+  0
+LINE
+  5
+CB
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+118.4019748138
+ 30
+0.0
+ 11
+60.6301147217
+ 21
+118.4019748138
+ 31
+0.0
+  0
+LINE
+  5
+CC
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+93.3989246218
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+118.4019748138
+ 31
+0.0
+  0
+LINE
+  5
+CD
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+60.6301147217
+ 20
+118.4019748138
+ 30
+0.0
+ 11
+69.0932899837
+ 21
+109.2007360813
+ 31
+0.0
+  0
+LINE
+  5
+CE
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+60.6301147217
+ 20
+93.3989246218
+ 30
+0.0
+ 11
+69.0932899837
+ 21
+102.6001633542
+ 31
+0.0
+  0
+LINE
+  5
+CF
+100
+AcDbEntity
+  8
+3303 HEBELSCHILD
+390
+0
+100
+AcDbLine
+ 10
+60.6301147217
+ 20
+93.3989246218
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+93.3989246218
+ 31
+0.0
+  0
+LINE
+  5
+D0
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+141.001668167
+ 20
+209.9939543887
+ 30
+0.0
+ 11
+138.5440064921
+ 21
+194.7532696752
+ 31
+0.0
+  0
+LINE
+  5
+D1
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+160.5750253549
+ 20
+213.3571542564
+ 30
+0.0
+ 11
+144.9506535546
+ 21
+213.3571542564
+ 31
+0.0
+  0
+LINE
+  5
+D2
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+138.5440064921
+ 20
+192.7532696752
+ 30
+0.0
+ 11
+178.5393836726
+ 21
+192.7532696752
+ 31
+0.0
+  0
+LINE
+  5
+D3
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+60.3801147218
+ 20
+178.6029740463
+ 30
+0.0
+ 11
+60.3801147218
+ 21
+150.8957185473
+ 31
+0.0
+  0
+LINE
+  5
+D4
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+59.3801147218
+ 20
+179.2414485465
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+138.3083756296
+ 31
+0.0
+  0
+LINE
+  5
+D5
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+71.9945383958
+ 20
+171.1874606952
+ 30
+0.0
+ 11
+59.3801147218
+ 21
+179.2414485465
+ 31
+0.0
+  0
+LINE
+  5
+D6
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbLine
+ 10
+110.5393838561
+ 20
+232.2171407277
+ 30
+0.0
+ 11
+110.5393838561
+ 21
+259.251996509
+ 31
+0.0
+  0
+LINE
+  5
+D7
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbLine
+ 10
+115.5393838561
+ 20
+232.2171407277
+ 30
+0.0
+ 11
+115.5393838561
+ 21
+259.251996509
+ 31
+0.0
+  0
+LINE
+  5
+D8
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbLine
+ 10
+118.2893838561
+ 20
+227.7519979528
+ 30
+0.0
+ 11
+118.2893838561
+ 21
+193.2502482718
+ 31
+0.0
+  0
+LINE
+  5
+D9
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbLine
+ 10
+107.7893838561
+ 20
+227.7519979528
+ 30
+0.0
+ 11
+107.7893838561
+ 21
+193.2502482718
+ 31
+0.0
+  0
+LINE
+  5
+DA
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+62.6990551402
+ 20
+177.0851249563
+ 30
+0.0
+ 11
+59.3801147218
+ 21
+172.7323091351
+ 31
+0.0
+  0
+LINE
+  5
+DB
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+63.4942658167
+ 20
+176.4787917311
+ 30
+0.0
+ 11
+60.3801147218
+ 21
+172.3945586787
+ 31
+0.0
+  0
+LINE
+  5
+DC
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+63.4942658167
+ 20
+176.4787917311
+ 30
+0.0
+ 11
+62.6990551402
+ 21
+177.0851249563
+ 31
+0.0
+  0
+LINE
+  5
+DD
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+189.6889747191
+ 30
+0.0
+ 11
+46.3801147217
+ 21
+189.6889747191
+ 31
+0.0
+  0
+LINE
+  5
+DE
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+205.9316486668
+ 30
+0.0
+ 11
+58.3801147217
+ 21
+205.9316486668
+ 31
+0.0
+  0
+LINE
+  5
+DF
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+58.3801147217
+ 20
+190.6889747191
+ 30
+0.0
+ 11
+51.3801147217
+ 21
+190.6889747191
+ 31
+0.0
+  0
+LINE
+  5
+E0
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+205.9316486668
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+189.6889747191
+ 31
+0.0
+  0
+LINE
+  5
+E1
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+58.3801147217
+ 20
+205.9316486668
+ 30
+0.0
+ 11
+58.3801147217
+ 21
+190.6889747191
+ 31
+0.0
+  0
+LINE
+  5
+E2
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+46.3801147217
+ 20
+195.6816486668
+ 30
+0.0
+ 11
+46.3801147217
+ 21
+189.6889747191
+ 31
+0.0
+  0
+LINE
+  5
+E3
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+160.0745050338
+ 20
+255.2419894976
+ 30
+0.0
+ 11
+160.0745050338
+ 21
+259.7519979528
+ 31
+0.0
+  0
+LINE
+  5
+E4
+100
+AcDbEntity
+  8
+3303 HEBEL
+390
+0
+100
+AcDbLine
+ 10
+118.2893838561
+ 20
+195.2402482718
+ 30
+0.0
+ 11
+118.0393838561
+ 21
+195.2402482718
+ 31
+0.0
+  0
+LINE
+  5
+E5
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+44.3801147217
+ 20
+223.4173615835
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+223.4173615835
+ 31
+0.0
+  0
+LINE
+  5
+E6
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+44.3801147217
+ 20
+255.412738764
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+255.412738764
+ 31
+0.0
+  0
+LINE
+  5
+E7
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+370
+        18
+390
+0
+100
+AcDbLine
+ 10
+44.3801147217
+ 20
+223.4173615835
+ 30
+0.0
+ 11
+44.3801147217
+ 21
+255.412738764
+ 31
+0.0
+  0
+LINE
+  5
+E8
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+57.3801147217
+ 20
+223.4173615835
+ 30
+0.0
+ 11
+57.3801147217
+ 21
+255.412738764
+ 31
+0.0
+  0
+LINE
+  5
+E9
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+106.7893838561
+ 20
+269.0
+ 30
+0.0
+ 11
+106.7893838561
+ 21
+183.0
+ 31
+0.0
+  0
+LINE
+  5
+EA
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+119.2893838561
+ 20
+269.0
+ 30
+0.0
+ 11
+119.2893838561
+ 21
+179.0
+ 31
+0.0
+  0
+CIRCLE
+  5
+EB
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+106.7893838561
+ 20
+263.251996509
+ 30
+0.0
+ 40
+0.5
+  0
+CIRCLE
+  5
+EC
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+106.7893838561
+ 20
+192.2502482718
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  5
+ED
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+100
+AcDbCircle
+ 10
+113.0393838561
+ 20
+209.7519979528
+ 30
+0.0
+ 40
+1.25
+  0
+LINE
+  5
+EE
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+106.7893838561
+ 20
+263.251996509
+ 30
+0.0
+ 11
+113.0393838561
+ 21
+227.7519979528
+ 31
+0.0
+  0
+ARC
+  5
+EF
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+93.378605391
+ 20
+218.7519979528
+ 30
+0.0
+ 40
+21.6228168807
+100
+AcDbArc
+ 50
+335.4033902772
+ 51
+384.5966097228
+  0
+LINE
+  5
+F0
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+113.0393838561
+ 20
+209.7519979528
+ 30
+0.0
+ 11
+113.0393838561
+ 21
+196.2402482718
+ 31
+0.0
+  0
+LINE
+  5
+F1
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+113.0393838561
+ 20
+196.2402482718
+ 30
+0.0
+ 11
+106.7893838561
+ 21
+192.7502482718
+ 31
+0.0
+  0
+LINE
+  5
+F2
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+100
+AcDbLine
+ 10
+106.7893838561
+ 20
+227.7519979528
+ 30
+0.0
+ 11
+106.7893838561
+ 21
+192.7502482718
+ 31
+0.0
+  0
+ARC
+  5
+F3
+100
+AcDbEntity
+  8
+3303_1P
+390
+0
+100
+AcDbCircle
+ 10
+112.7893838561
+ 20
+227.7519979528
+ 30
+0.0
+ 40
+6.0
+100
+AcDbArc
+ 50
+122.7971682958
+ 51
+180.0
+  0
+LINE
   5
 F4
 100
 AcDbEntity
   8
-BEMASSUNG
+3303_1P
 390
 0
 100
-AcDbBlockReference
-  2
-D378385408
+AcDbLine
  10
-0.0
+109.5393838561
  20
-0.0
+232.7955582033
  30
 0.0
+ 11
+109.5393838561
+ 21
+259.251996509
+ 31
+0.0
   0
-INSERT
+LINE
   5
 F5
 100
 AcDbEntity
   8
-BEMASSUNG
+3303_1P
 390
 0
 100
-AcDbBlockReference
-  2
-D378385152
+AcDbLine
  10
-0.0
+116.5393838561
  20
-0.0
+232.7955582033
  30
 0.0
+ 11
+116.5393838561
+ 21
+259.251996509
+ 31
+0.0
   0
-INSERT
+ARC
   5
 F6
 100
 AcDbEntity
   8
-BEMASSUNG
+3303_1P
 390
 0
 100
-AcDbBlockReference
-  2
-D378384896
+AcDbCircle
  10
-0.0
+113.2893838561
  20
-0.0
+227.7519979528
  30
 0.0
+ 40
+6.0
+100
+AcDbArc
+ 50
+0.0
+ 51
+57.2028317042
   0
-INSERT
+LINE
   5
 F7
 100
 AcDbEntity
   8
-BEMASSUNG
+3303_1P
 390
 0
 100
-AcDbBlockReference
-  2
-D378384640
+AcDbLine
  10
-0.0
+119.2893838561
  20
-0.0
+227.7519979528
  30
 0.0
+ 11
+119.2893838561
+ 21
+192.2502482718
+ 31
+0.0
   0
-INSERT
+ARC
   5
 F8
 100
 AcDbEntity
   8
-BEMASSUNG
+3303_1P
 390
 0
+  6
+DIVIDE
 100
-AcDbBlockReference
-  2
-D378384384
+AcDbCircle
  10
-0.0
+113.0393838561
  20
-0.0
+259.251996509
  30
 0.0
+ 40
+3.5
+100
+AcDbArc
+ 50
+0.0
+ 51
+180.0
   0
-ARC
+LINE
   5
 F9
 100
 AcDbEntity
   8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
+3303_1P
 390
 0
   6
-DASHDOT
+DIVIDE
 100
-AcDbCircle
+AcDbLine
  10
-47.9692616075
+119.2893838561
  20
-244.3238189382
+192.2502482718
  30
 0.0
- 40
-22.1053072956
-100
-AcDbArc
- 50
-129.7316949036
- 51
-230.2683050958
+ 11
+106.7893838561
+ 21
+192.2502482718
+ 31
+0.0
   0
 ARC
   5
@@ -6991,7 +6997,7 @@ FA
 100
 AcDbEntity
   8
-3209_1L
+3303___ FAHRSTRAﬂENHEBEL JE
 390
 0
   6
@@ -6999,1009 +7005,35 @@ DASHDOT
 100
 AcDbCircle
  10
-164.2725114296
+201.77196302
  20
-244.3238189376
+227.7511223904
  30
 0.0
  40
-131.5359996926
+101.4002091113
 100
 AcDbArc
  50
-172.5741967101
+159.5061696428
  51
-187.4258032893
+200.4938303572
   0
-ARC
+MTEXT
   5
 FB
 100
 AcDbEntity
   8
-3209_2L
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-177.2574647832
- 20
-241.3259956734
- 30
-0.0
- 40
-86.1378475946
-100
-AcDbArc
- 50
-166.5756851762
- 51
-193.4243148238
-  0
-ARC
-  5
-FC
-100
-AcDbEntity
-  8
-3209_2L
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-460.4954146321
- 20
-176.3268204282
- 30
-0.0
- 40
-369.7708532398
-100
-AcDbArc
- 50
-173.0097380931
- 51
-186.9902619069
-  0
-ARC
-  5
-FD
-100
-AcDbEntity
-  8
-3209_2L
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-110.0156752072
- 20
-124.8239433515
- 30
-0.0
- 40
-17.7743030037
-100
-AcDbArc
- 50
-158.5442664592
- 51
-201.4557335388
-  0
-ARC
-  5
-FE
-100
-AcDbEntity
-  8
-3209_4P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-744.9200399069
- 20
-197.3315641687
- 30
-0.0
- 40
-557.2495798239
-100
-AcDbArc
- 50
-173.4058401274
- 51
-186.5953321523
-  0
-ARC
-  5
-FF
-100
-AcDbEntity
-  8
-3209_5P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-308.6822513473
- 20
-113.2457865169
- 30
-0.0
- 40
-275.0601267809
-100
-AcDbArc
- 50
-173.4240358702
- 51
-186.5759641298
-  0
-ARC
-  5
-100
-100
-AcDbEntity
-  8
-3209_1R
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-164.2725114296
- 20
-193.9327129532
- 30
-0.0
- 40
-131.5359996926
-100
-AcDbArc
- 50
-172.5741967101
- 51
-187.4258032893
-  0
-ARC
-  5
-101
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
- 62
-       134
-100
-AcDbCircle
- 10
-47.9692616075
- 20
-193.9327129538
- 30
-0.0
- 40
-22.1053072956
-100
-AcDbArc
- 50
-129.7316949036
- 51
-230.2683050958
-  0
-CIRCLE
-  5
-102
-100
-AcDbEntity
-  8
-3209_1L
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-33.8396964822
- 20
-261.3238189382
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-103
-100
-AcDbEntity
-  8
-3209_1L
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-33.839696482
- 20
-227.3238189382
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  5
-104
-100
-AcDbEntity
-  8
-3209_1R
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-33.8396964822
- 20
-210.9327129539
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-105
-100
-AcDbEntity
-  8
-3209_1R
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-33.839696482
- 20
-176.9327129539
- 30
-0.0
- 40
-1.0
-  0
-ARC
-  5
-106
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-267.0807313549
- 20
-189.8231185968
- 30
-0.0
- 40
-187.7550310173
-100
-AcDbArc
- 50
-157.6155717002
- 51
-202.3844282996
-  0
-ARC
-  5
-107
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-522.0731187786
- 20
-152.0953677417
- 30
-0.0
- 40
-388.3434933537
-100
-AcDbArc
- 50
-160.9113997169
- 51
-199.0886002832
-  0
-ARC
-  5
-108
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-343.2201927418
- 20
-197.3274547511
- 30
-0.0
- 40
-164.796773834
-100
-AcDbArc
- 50
-157.1490587558
- 51
-202.8521135238
-  0
-ARC
-  5
-109
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-117.2647756824
- 20
-88.2457865169
- 30
-0.0
- 40
-99.4428989754
-100
-AcDbArc
- 50
-145.3776177856
- 51
-214.6223822144
-  0
-CIRCLE
-  5
-10A
-100
-AcDbEntity
-  8
-3209_2L
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-93.4731234485
- 20
-261.3238189382
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-10B
-100
-AcDbEntity
-  8
-3209_2L
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-93.4731234482
- 20
-118.3224182558
- 30
-0.0
- 40
-1.0
-  0
-ARC
-  5
-10C
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-200.1080281325
- 20
-241.3259956734
- 30
-0.0
- 40
-86.1378475946
-100
-AcDbArc
- 50
-166.5756851762
- 51
-193.4243148238
-  0
-ARC
-  5
-10D
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-483.3459779813
- 20
-176.3268204282
- 30
-0.0
- 40
-369.7708532398
-100
-AcDbArc
- 50
-173.0097380931
- 51
-186.9902619069
-  0
-ARC
-  5
-10E
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-132.8662385565
- 20
-124.8239433515
- 30
-0.0
- 40
-17.7743030037
-100
-AcDbArc
- 50
-158.5442664592
- 51
-201.4557335388
-  0
-ARC
-  5
-10F
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
- 62
-       134
-100
-AcDbCircle
- 10
-289.9312947042
- 20
-189.8231185968
- 30
-0.0
- 40
-187.7550310173
-100
-AcDbArc
- 50
-157.6155717002
- 51
-202.3844282996
-  0
-CIRCLE
-  5
-110
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-116.3236867978
- 20
-261.3238189382
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-111
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-116.3236867975
- 20
-118.3224182558
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  5
-112
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-155.083081692
- 20
-279.0952949438
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-113
-100
-AcDbEntity
-  8
-3209_4P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-191.3569580965
- 20
-261.3238189382
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-114
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-155.0830816922
- 20
-25.0954405391
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  5
-115
-100
-AcDbEntity
-  8
-3209_4P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-191.3582675029
- 20
-133.3279834342
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  5
-116
-100
-AcDbEntity
-  8
-3209_5P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-35.4317740472
- 20
-144.7457865169
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-117
-100
-AcDbEntity
-  8
-3209_5P
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-35.4317740472
- 20
-31.7457865169
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  5
-118
-100
-AcDbEntity
-  8
-3209_5T
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-65.8501481871
- 20
-144.7457865169
- 30
-0.0
- 40
-0.5
-  0
-CIRCLE
-  5
-119
-100
-AcDbEntity
-  8
-3209_5T
-390
-0
-  6
-PHANTOM
-100
-AcDbCircle
- 10
-65.8501481871
- 20
-31.7457865169
- 30
-0.0
- 40
-1.0
-  0
-ARC
-  5
-11A
-100
-AcDbEntity
-  8
-3209_5T
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-339.1006254872
- 20
-113.2457865169
- 30
-0.0
- 40
-275.0601267809
-100
-AcDbArc
- 50
-173.4240358702
- 51
-186.5759641298
-  0
-ARC
-  5
-11B
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHDOT
- 62
-       134
-100
-AcDbCircle
- 10
-147.6831498224
- 20
-88.2457865169
- 30
-0.0
- 40
-99.4428989754
-100
-AcDbArc
- 50
-145.3776177856
- 51
-214.6223822144
-  0
-ARC
-  5
-11C
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-299.8013331265
- 20
-70.0930361496
- 30
-0.0
- 40
-151.5524856573
-100
-AcDbArc
- 50
-162.7278370275
- 51
-197.2721629725
-  0
-ARC
-  5
-11D
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-424.8772400369
- 20
-220.0929633517
- 30
-0.0
- 40
-276.17053248
-100
-AcDbArc
- 50
-167.6639812981
- 51
-192.3360187019
-  0
-ARC
-  5
-11E
-100
-AcDbEntity
-  8
-3209_5P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-140.7377853917
- 20
-56.7457865169
- 30
-0.0
- 40
-108.2328786705
-100
-AcDbArc
- 50
-166.6450235592
- 51
-193.3549764408
-  0
-ARC
-  5
-11F
-100
-AcDbEntity
-  8
-3209_5T
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-171.1561595317
- 20
-56.7457865169
- 30
-0.0
- 40
-108.2328786705
-100
-AcDbArc
- 50
-166.6450235592
- 51
-193.3549764408
-  0
-ARC
-  5
-120
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-  6
-DASHDOT
-100
-AcDbCircle
- 10
-275.6550461217
- 20
-138.0906317602
- 30
-0.0
- 40
-122.7460736904
-100
-AcDbArc
- 50
-169.2001523724
- 51
-190.799847628
-  0
-MTEXT
-  5
-121
-100
-AcDbEntity
-  8
-3209_5T
+3303_1P
 390
 0
 100
 AcDbMText
  10
-56.7243010684
+98.1491840654
  20
-141.7758614999
+260.2583204263
  30
 0.0
  40
@@ -8013,7 +7045,7 @@ AcDbMText
  72
          1
   1
-\W1.135081;M50x5\PT5 O6 F150\PB-0.3    D1.6\PI1.2 P4 U20
+\W1.135102;M12,5+x5\PT5 O2 F150\PB-0.3    D1.6\PI1.4 P4 U20
   7
 Arial
  73
@@ -8023,19 +7055,2705 @@ Arial
   0
 MTEXT
   5
-122
+FC
 100
 AcDbEntity
   8
-3209_1L
+3303___ FAHRSTRAﬂENHEBEL JE
 390
 0
 100
 AcDbMText
  10
-24.5991810137
+94.8821169573
  20
-257.8672203453
+231.3615386188
+ 30
+0.0
+ 40
+2.0
+ 41
+0.0
+ 71
+         7
+ 72
+         1
+  1
+\W1.135110;>3303.1P\PM12,5+x5\PT5 O2
+  7
+Arial
+ 11
+1.0
+ 21
+0.0
+ 31
+0.0
+ 73
+         1
+ 44
+0.66
+  0
+LINE
+  5
+FD
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+138.5440064921
+ 20
+194.7532696752
+ 30
+0.0
+ 11
+138.5440064921
+ 21
+192.7532696752
+ 31
+0.0
+  0
+LINE
+  5
+FE
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+179.5393836726
+ 20
+273.0
+ 30
+0.0
+ 11
+179.5393836726
+ 21
+182.0
+ 31
+0.0
+  0
+LINE
+  5
+FF
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+137.5440064921
+ 20
+273.0
+ 30
+0.0
+ 11
+137.5440064921
+ 21
+182.0
+ 31
+0.0
+  0
+LINE
+  5
+100
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+137.544006492
+ 20
+264.7519979528
+ 30
+0.0
+ 11
+179.5393836725
+ 21
+264.7519979528
+ 31
+0.0
+  0
+LINE
+  5
+101
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+137.544006492
+ 20
+191.7532696752
+ 30
+0.0
+ 11
+179.5393836726
+ 21
+191.7532696752
+ 31
+0.0
+  0
+LINE
+  5
+102
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbLine
+ 10
+165.342338222
+ 20
+256.3304013289
+ 30
+0.0
+ 11
+159.0745050338
+ 21
+253.7485522086
+ 31
+0.0
+  0
+LINE
+  5
+103
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbLine
+ 10
+166.4726206902
+ 20
+252.4438148479
+ 30
+0.0
+ 11
+162.2244138246
+ 21
+247.5104351437
+ 31
+0.0
+  0
+LINE
+  5
+104
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+ 62
+         5
+100
+AcDbLine
+ 10
+169.2379988852
+ 20
+249.4881801663
+ 30
+0.0
+ 11
+167.6792841456
+ 21
+243.1671118042
+ 31
+0.0
+  0
+ARC
+  5
+105
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbCircle
+ 10
+174.5393836726
+ 20
+259.7519979528
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+0.0
+ 51
+90.0
+  0
+LINE
+  5
+106
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbLine
+ 10
+159.0745050338
+ 20
+253.7485522086
+ 30
+0.0
+ 11
+159.0745050338
+ 21
+259.7519979528
+ 31
+0.0
+  0
+ARC
+  5
+107
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbCircle
+ 10
+164.0745050338
+ 20
+259.7519979528
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+180.0
+  0
+ARC
+  5
+108
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbCircle
+ 10
+174.0393838561
+ 20
+256.7519979528
+ 30
+0.0
+ 40
+15.0
+100
+AcDbArc
+ 50
+194.4942699822
+ 51
+218.0321963842
+  0
+ARC
+  5
+109
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbCircle
+ 10
+174.0393838561
+ 20
+256.7519979528
+ 30
+0.0
+ 40
+15.0
+100
+AcDbArc
+ 50
+221.3742699822
+ 51
+244.9121963842
+  0
+LINE
+  5
+10A
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbLine
+ 10
+169.2379988852
+ 20
+249.4881801663
+ 30
+0.0
+ 11
+160.5750253549
+ 21
+214.3571542564
+ 31
+0.0
+  0
+LINE
+  5
+10B
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbLine
+ 10
+160.5750253549
+ 20
+214.3571542564
+ 30
+0.0
+ 11
+144.9506535546
+ 21
+214.3571542564
+ 31
+0.0
+  0
+ARC
+  5
+10C
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbCircle
+ 10
+144.9506535546
+ 20
+209.3571542564
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+170.8395336576
+  0
+LINE
+  5
+10D
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbLine
+ 10
+140.0144218201
+ 20
+210.1531544218
+ 30
+0.0
+ 11
+137.5440064921
+ 21
+194.8333805449
+ 31
+0.0
+  0
+LINE
+  5
+10E
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbLine
+ 10
+137.5440064921
+ 20
+194.8333805449
+ 30
+0.0
+ 11
+137.5440064921
+ 21
+192.7532696752
+ 31
+0.0
+  0
+LINE
+  5
+10F
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbLine
+ 10
+179.5393836726
+ 20
+259.7519979528
+ 30
+0.0
+ 11
+179.5393836726
+ 21
+191.7532696752
+ 31
+0.0
+  0
+CIRCLE
+  5
+110
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbCircle
+ 10
+149.0440064921
+ 20
+201.7532696752
+ 30
+0.0
+ 40
+1.5
+  0
+CIRCLE
+  5
+111
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbCircle
+ 10
+168.0393836726
+ 20
+201.7532696752
+ 30
+0.0
+ 40
+1.5
+  0
+ARC
+  5
+112
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+163.6929740186
+ 20
+250.2558566395
+ 30
+0.0
+ 40
+3.5374562528
+100
+AcDbArc
+ 50
+255.0980938251
+ 51
+398.2075348271
+  0
+ARC
+  5
+113
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+161.7569712404
+ 20
+255.8397855874
+ 30
+0.0
+ 40
+3.618778827
+100
+AcDbArc
+ 50
+231.7537611589
+ 51
+367.7918674932
+  0
+LINE
+  5
+114
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+179.5393836725
+ 20
+264.7519979528
+ 30
+0.0
+ 11
+174.0393838561
+ 21
+256.7519979528
+ 31
+0.0
+  0
+LINE
+  5
+115
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+174.0393838561
+ 20
+256.7519979528
+ 30
+0.0
+ 11
+168.0393836726
+ 21
+201.7532696752
+ 31
+0.0
+  0
+LINE
+  5
+116
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+168.0393836726
+ 20
+201.7532696752
+ 30
+0.0
+ 11
+149.0440064921
+ 21
+201.7532696752
+ 31
+0.0
+  0
+LINE
+  5
+117
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+149.0440064921
+ 20
+201.7532696752
+ 30
+0.0
+ 11
+137.5440064921
+ 21
+192.7532696752
+ 31
+0.0
+  0
+CIRCLE
+  5
+118
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+137.544006492
+ 20
+264.7519979528
+ 30
+0.0
+ 40
+0.5
+  0
+CIRCLE
+  5
+119
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+137.544006492
+ 20
+191.7532696752
+ 30
+0.0
+ 40
+1.0
+  0
+ARC
+  5
+11A
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+235.1980454366
+ 20
+228.252633814
+ 30
+0.0
+ 40
+104.2521697843
+100
+AcDbArc
+ 50
+159.5061696428
+ 51
+200.4938303572
+  0
+MTEXT
+  5
+11B
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+100
+AcDbMText
+ 10
+129.6584293373
+ 20
+260.2600715511
+ 30
+0.0
+ 40
+2.0
+ 41
+0.0
+ 71
+         7
+ 72
+         1
+  1
+\W1.135096;M50+x2 \PT2 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+MTEXT
+  5
+11C
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+100
+AcDbMText
+ 10
+126.6367395932
+ 20
+233.8632882998
+ 30
+0.0
+ 40
+2.0
+ 41
+0.0
+ 71
+         7
+ 72
+         1
+  1
+\W1.135110;>3303.6P\PM50+x2\PT2 O2
+  7
+Arial
+ 11
+1.0
+ 21
+0.0
+ 31
+0.0
+ 73
+         1
+ 44
+0.66
+  0
+LINE
+  5
+11D
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+44.3801147217
+ 20
+271.788005618
+ 30
+0.0
+ 11
+44.3801147217
+ 21
+88.0
+ 31
+0.0
+  0
+LINE
+  5
+11E
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+74.3801147217
+ 20
+271.788005618
+ 30
+0.0
+ 11
+74.3801147217
+ 21
+89.0524719101
+ 31
+0.0
+  0
+LINE
+  5
+11F
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+370
+        18
+390
+0
+100
+AcDbLine
+ 10
+74.3801147217
+ 20
+223.4173615835
+ 30
+0.0
+ 11
+74.3801147217
+ 21
+255.412738764
+ 31
+0.0
+  0
+LINE
+  5
+120
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+61.3801147217
+ 20
+223.4173615835
+ 30
+0.0
+ 11
+61.3801147217
+ 21
+255.412738764
+ 31
+0.0
+  0
+LINE
+  5
+121
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+74.3801147217
+ 20
+223.4173615835
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+223.4173615835
+ 31
+0.0
+  0
+LINE
+  5
+122
+100
+AcDbEntity
+  8
+3303 HEBELBOCK
+390
+0
+100
+AcDbLine
+ 10
+74.3801147217
+ 20
+255.412738764
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+255.412738764
+ 31
+0.0
+  0
+TEXT
+  5
+123
+100
+AcDbEntity
+  8
+BESCHRIFTUNG
+390
+0
+100
+AcDbText
+ 10
+79.5737451473
+ 20
+268.1341334885
+ 30
+0.0
+ 40
+2.5
+  1
+3303.1P
+ 41
+1.1350985595
+  7
+Arial
+ 72
+         1
+ 11
+88.0869843438
+ 21
+269.3841334885
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+124
+100
+AcDbEntity
+  8
+BESCHRIFTUNG
+390
+0
+100
+AcDbText
+ 10
+21.9648021971
+ 20
+270.1341334885
+ 30
+0.0
+ 40
+2.5
+  1
+3303.7L,R
+ 41
+1.1351033631
+  7
+Arial
+ 72
+         1
+ 11
+33.0869843438
+ 21
+271.3841334885
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+125
+100
+AcDbEntity
+  8
+BESCHRIFTUNG
+390
+0
+100
+AcDbText
+ 10
+22.9648025421
+ 20
+196.1341334885
+ 30
+0.0
+ 40
+2.5
+  1
+3303.2L,R
+ 41
+1.1351033279
+  7
+Arial
+ 72
+         1
+ 11
+34.0869843438
+ 21
+197.3841334885
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+TEXT
+  5
+126
+100
+AcDbEntity
+  8
+BESCHRIFTUNG
+390
+0
+100
+AcDbText
+ 10
+22.9648018521
+ 20
+132.1341334885
+ 30
+0.0
+ 40
+2.5
+  1
+3303.8L,R
+ 41
+1.1351033983
+  7
+Arial
+ 72
+         1
+ 11
+34.0869843438
+ 21
+133.3841334885
+ 31
+0.0
+100
+AcDbText
+ 73
+         2
+  0
+CIRCLE
+  5
+127
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+100
+AcDbCircle
+ 10
+50.3801147217
+ 20
+248.912738764
+ 30
+0.0
+ 40
+1.25
+  0
+CIRCLE
+  5
+128
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+100
+AcDbCircle
+ 10
+50.3801147217
+ 20
+229.9173615835
+ 30
+0.0
+ 40
+1.25
+  0
+CIRCLE
+  5
+129
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+100
+AcDbCircle
+ 10
+65.8801147217
+ 20
+250.412738764
+ 30
+0.0
+ 40
+1.25
+  0
+CIRCLE
+  5
+12A
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+100
+AcDbCircle
+ 10
+65.8801147217
+ 20
+228.4173615835
+ 30
+0.0
+ 40
+1.25
+  0
+LINE
+  5
+12B
+100
+AcDbEntity
+  8
+MITTELLINIEN
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+271.788005618
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+89.0524719101
+ 31
+0.0
+  0
+CIRCLE
+  5
+12C
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+100
+AcDbCircle
+ 10
+65.5051895631
+ 20
+105.9004497178
+ 30
+0.0
+ 40
+1.5
+  0
+CIRCLE
+  5
+12D
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+44.3801147218
+ 20
+256.412738764
+ 30
+0.0
+ 40
+0.5
+  0
+CIRCLE
+  5
+12E
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+44.3801147218
+ 20
+222.4173615835
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  5
+12F
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+59.3801147218
+ 20
+256.412738764
+ 30
+0.0
+ 40
+0.5
+  0
+CIRCLE
+  5
+130
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+59.3801147218
+ 20
+222.4173615835
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  5
+131
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+44.3801147217
+ 20
+180.2414485465
+ 30
+0.0
+ 40
+0.5
+  0
+CIRCLE
+  5
+132
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+44.3801147217
+ 20
+137.3083756296
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  5
+133
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+59.3801147217
+ 20
+180.2414485465
+ 30
+0.0
+ 40
+0.5
+  0
+CIRCLE
+  5
+134
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+59.3801147217
+ 20
+137.3083756296
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  5
+135
+100
+AcDbEntity
+  8
+3303_8L
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+44.3801147218
+ 20
+119.4019748138
+ 30
+0.0
+ 40
+0.5
+  0
+CIRCLE
+  5
+136
+100
+AcDbEntity
+  8
+3303_8L
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+44.3801147218
+ 20
+92.3989246218
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  5
+137
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+59.3801147218
+ 20
+119.4019748138
+ 30
+0.0
+ 40
+0.5
+  0
+CIRCLE
+  5
+138
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+  6
+PHANTOM
+100
+AcDbCircle
+ 10
+59.3801147218
+ 20
+92.3989246218
+ 30
+0.0
+ 40
+1.0
+  0
+ARC
+  5
+139
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+100
+AcDbCircle
+ 10
+65.5051895631
+ 20
+105.9004497178
+ 30
+0.0
+ 40
+5.8750748414
+100
+AcDbArc
+ 50
+317.3925695579
+ 51
+402.6074304421
+  0
+LINE
+  5
+13A
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+100
+AcDbLine
+ 10
+61.0690066961
+ 20
+92.3989246218
+ 30
+0.0
+ 11
+69.8292992835
+ 21
+101.923191929
+ 31
+0.0
+  0
+LINE
+  5
+13B
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+100
+AcDbLine
+ 10
+61.3661240215
+ 20
+119.078946239
+ 30
+0.0
+ 11
+69.8292992835
+ 21
+109.8777075066
+ 31
+0.0
+  0
+LINE
+  5
+13C
+100
+AcDbEntity
+  8
+3303_8L
+390
+0
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+119.4019748138
+ 30
+0.0
+ 11
+48.3799650389
+ 21
+119.4019748138
+ 31
+0.0
+  0
+LINE
+  5
+13D
+100
+AcDbEntity
+  8
+3303_8L
+390
+0
+100
+AcDbLine
+ 10
+48.3799650389
+ 20
+92.3989246218
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+92.3989246218
+ 31
+0.0
+  0
+LINE
+  5
+13E
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+44.3801147217
+ 20
+256.412738764
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+256.412738764
+ 31
+0.0
+  0
+LINE
+  5
+13F
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+44.3801147217
+ 20
+222.4173615835
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+222.4173615835
+ 31
+0.0
+  0
+LINE
+  5
+140
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+74.3801147217
+ 20
+256.412738764
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+256.412738764
+ 31
+0.0
+  0
+LINE
+  5
+141
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+74.3801147217
+ 20
+222.4173615835
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+222.4173615835
+ 31
+0.0
+  0
+LINE
+  5
+142
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+74.3801147217
+ 20
+256.412738764
+ 30
+0.0
+ 11
+65.8801147217
+ 21
+250.412738764
+ 31
+0.0
+  0
+LINE
+  5
+143
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+65.8801147217
+ 20
+250.412738764
+ 30
+0.0
+ 11
+65.8801147217
+ 21
+228.4173615835
+ 31
+0.0
+  0
+LINE
+  5
+144
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+65.8801147217
+ 20
+228.4173615835
+ 30
+0.0
+ 11
+74.3801147217
+ 21
+222.4173615835
+ 31
+0.0
+  0
+LINE
+  5
+145
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+59.3801147217
+ 20
+256.412738764
+ 30
+0.0
+ 11
+50.3801147217
+ 21
+248.912738764
+ 31
+0.0
+  0
+LINE
+  5
+146
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+50.3801147217
+ 20
+248.912738764
+ 30
+0.0
+ 11
+50.3801147217
+ 21
+229.9173615835
+ 31
+0.0
+  0
+LINE
+  5
+147
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+50.3801147217
+ 20
+229.9173615835
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+222.4173615835
+ 31
+0.0
+  0
+ARC
+  5
+148
+100
+AcDbEntity
+  8
+3303_8L
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+46.3800398804
+ 20
+116.6782467488
+ 30
+0.0
+ 40
+3.3791116009
+100
+AcDbArc
+ 50
+53.7116429569
+ 51
+126.2883570431
+  0
+ARC
+  5
+149
+100
+AcDbEntity
+  8
+3303_8L
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+46.3800398804
+ 20
+93.0774030051
+ 30
+0.0
+ 40
+2.1118791529
+100
+AcDbArc
+ 50
+198.739602332
+ 51
+341.260397668
+  0
+ARC
+  5
+14A
+100
+AcDbEntity
+  8
+3303_8L
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+83.4108665147
+ 20
+105.9004497177
+ 30
+0.0
+ 40
+27.56389326
+100
+AcDbArc
+ 50
+150.6708220713
+ 51
+209.3291779283
+  0
+LINE
+  5
+14B
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+59.3801147218
+ 20
+119.4019748138
+ 30
+0.0
+ 11
+65.5051895631
+ 21
+105.9004497178
+ 31
+0.0
+  0
+LINE
+  5
+14C
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+65.5051895631
+ 20
+105.9004497178
+ 30
+0.0
+ 11
+61.3661240215
+ 21
+119.078946239
+ 31
+0.0
+  0
+LINE
+  5
+14D
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+100
+AcDbLine
+ 10
+59.3801147218
+ 20
+92.3989246218
+ 30
+0.0
+ 11
+61.0690066961
+ 21
+92.3989246218
+ 31
+0.0
+  0
+LINE
+  5
+14E
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+51.3801147218
+ 20
+178.6029740463
+ 30
+0.0
+ 11
+46.3801147217
+ 21
+178.6029740463
+ 31
+0.0
+  0
+LINE
+  5
+14F
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+46.3801147217
+ 20
+178.6029740463
+ 30
+0.0
+ 11
+46.3801147217
+ 21
+163.0
+ 31
+0.0
+  0
+LINE
+  5
+150
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+54.3801147218
+ 20
+150.8957185473
+ 30
+0.0
+ 11
+54.3801147217
+ 21
+140.8083756296
+ 31
+0.0
+  0
+ARC
+  5
+151
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbCircle
+ 10
+56.8801147217
+ 20
+140.8083756296
+ 30
+0.0
+ 40
+2.5
+100
+AcDbArc
+ 50
+179.9999999998
+ 51
+359.9999999998
+  0
+LINE
+  5
+152
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+46.3801147217
+ 20
+163.0
+ 30
+0.0
+ 11
+54.3801147218
+ 21
+150.8957185473
+ 31
+0.0
+  0
+LINE
+  5
+153
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+59.3801147218
+ 20
+172.7323091351
+ 30
+0.0
+ 11
+51.3801147218
+ 21
+172.7323091351
+ 31
+0.0
+  0
+LINE
+  5
+154
+100
+AcDbEntity
+  8
+3303 HANDFALLE
+390
+0
+100
+AcDbLine
+ 10
+51.3801147218
+ 20
+178.6029740463
+ 30
+0.0
+ 11
+51.3801147218
+ 21
+172.7323091351
+ 31
+0.0
+  0
+CIRCLE
+  5
+155
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+100
+AcDbCircle
+ 10
+70.3801147218
+ 20
+168.6588966361
+ 30
+0.0
+ 40
+1.25
+  0
+LINE
+  5
+156
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+100
+AcDbLine
+ 10
+59.3801147218
+ 20
+173.7323091351
+ 30
+0.0
+ 11
+52.3801147218
+ 21
+173.7323091351
+ 31
+0.0
+  0
+LINE
+  5
+157
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+100
+AcDbLine
+ 10
+52.3801147218
+ 20
+179.6029740463
+ 30
+0.0
+ 11
+52.3801147218
+ 21
+173.7323091351
+ 31
+0.0
+  0
+LINE
+  5
+158
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+100
+AcDbLine
+ 10
+45.3801147217
+ 20
+178.6029740463
+ 30
+0.0
+ 11
+45.3801147217
+ 21
+162.6993992036
+ 31
+0.0
+  0
+LINE
+  5
+159
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+100
+AcDbLine
+ 10
+45.3801147217
+ 20
+162.6993992036
+ 30
+0.0
+ 11
+53.3801147218
+ 21
+150.5951177509
+ 31
+0.0
+  0
+LINE
+  5
+15A
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+100
+AcDbLine
+ 10
+53.3801147218
+ 20
+150.5951177509
+ 30
+0.0
+ 11
+53.3801147217
+ 21
+140.8083756296
+ 31
+0.0
+  0
+LINE
+  5
+15B
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+  6
+DIVIDE
+100
+AcDbLine
+ 10
+52.3801147218
+ 20
+179.6029740463
+ 30
+0.0
+ 11
+46.3801147217
+ 21
+179.6029740463
+ 31
+0.0
+  0
+ARC
+  5
+15C
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+  6
+DIVIDE
+100
+AcDbCircle
+ 10
+56.8801147217
+ 20
+140.8083756296
+ 30
+0.0
+ 40
+3.5
+100
+AcDbArc
+ 50
+179.9999999998
+ 51
+359.9999999998
+  0
+ARC
+  5
+15D
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+93.0140943331
+ 20
+158.2767221213
+ 30
+0.0
+ 40
+37.0151287237
+100
+AcDbArc
+ 50
+155.3201311582
+ 51
+208.1592933388
+  0
+LINE
+  5
+15E
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+  6
+DASHED
+100
+AcDbLine
+ 10
+44.3801147217
+ 20
+180.2414485465
+ 30
+0.0
+ 11
+46.3801147217
+ 21
+179.6029740463
+ 31
+0.0
+  0
+ARC
+  5
+15F
+100
+AcDbEntity
+  8
+3303_2L
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+9.102937253
+ 20
+158.8220636355
+ 30
+0.0
+ 40
+41.3197050059
+100
+AcDbArc
+ 50
+328.6231898364
+ 51
+388.6023754564
+  0
+LINE
+  5
+160
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+100
+AcDbLine
+ 10
+72.5326796205
+ 20
+172.0303153815
+ 30
+0.0
+ 11
+60.7249690997
+ 21
+179.5692374556
+ 31
+0.0
+  0
+ARC
+  5
+161
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+100
+AcDbCircle
+ 10
+70.3801147218
+ 20
+168.6588966361
+ 30
+0.0
+ 40
+4.0
+100
+AcDbArc
+ 50
+322.1591586743
+ 51
+417.4428066186
+  0
+LINE
+  5
+162
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+100
+AcDbLine
+ 10
+60.3801147217
+ 20
+149.2656473398
+ 30
+0.0
+ 11
+73.5389864096
+ 21
+166.2050161052
+ 31
+0.0
+  0
+LINE
+  5
+163
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+100
+AcDbLine
+ 10
+60.3801147217
+ 20
+149.2656473398
+ 30
+0.0
+ 11
+60.3801147217
+ 21
+138.3083756296
+ 31
+0.0
+  0
+LINE
+  5
+164
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+100
+AcDbLine
+ 10
+60.3801147217
+ 20
+138.3083756296
+ 30
+0.0
+ 11
+59.3801147217
+ 21
+137.3083756296
+ 31
+0.0
+  0
+ARC
+  5
+165
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+89.857425977
+ 20
+239.4150501738
+ 30
+0.0
+ 40
+48.5500489848
+100
+AcDbArc
+ 50
+159.5061696428
+ 51
+200.4938303572
+  0
+MTEXT
+  5
+166
+100
+AcDbEntity
+  8
+3303_7L
+390
+0
+100
+AcDbMText
+ 10
+33.950531075
+ 20
+253.1688144095
  30
 0.0
  40
@@ -8057,389 +9775,19 @@ Arial
   0
 MTEXT
   5
-123
+167
 100
 AcDbEntity
   8
-3209_5P
+3303___ FAHRSTRAﬂENHEBEL JE
 390
 0
 100
 AcDbMText
  10
-33.0581146632
+33.4728478229
  20
-102.443397053
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3202.9P\PM50+x5\PT5 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-124
-100
-AcDbEntity
-  8
-3209_4P
-390
-0
-100
-AcDbMText
- 10
-189.5300423839
- 20
-186.5234088288
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3201.4P\PM20+x5\PT5 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-125
-100
-AcDbEntity
-  8
-3209_2L
-390
-0
-100
-AcDbMText
- 10
-92.2364809654
- 20
-124.823943352
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;>3201.8L\PM15x15x1\PT1 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-126
-100
-AcDbEntity
-  8
-3209_2L
-390
-0
-100
-AcDbMText
- 10
-91.0958484596
- 20
-165.5244309644
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;>3201.7L\PM15x15x1\PT1 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-127
-100
-AcDbEntity
-  8
-3209_2L
-390
-0
-100
-AcDbMText
- 10
-92.5042324489
- 20
-230.5236062096
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;>3201.6L\PM15x15x1\PT1 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-128
-100
-AcDbEntity
-  8
-3209_1L
-390
-0
-100
-AcDbMText
- 10
-33.2866455324
- 20
-239.3368748886
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;>3201.3L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-129
-100
-AcDbEntity
-  8
-3209_1R
-390
-0
-100
-AcDbMText
- 10
-33.2866455324
- 20
-188.9457689042
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135111;>3201.3R\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-12A
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-24.6660780798
- 20
-248.0750545523
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;>3209.1L\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-12B
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
- 62
-       134
-100
-AcDbMText
- 10
-24.3429977791
- 20
-197.1218814955
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.1R\PM15x15x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-TEXT
-  5
-12C
-100
-AcDbEntity
-  8
-3209_1R
-390
-0
-100
-AcDbText
- 10
-26.6992029687
- 20
-211.0299976696
- 30
-0.0
- 40
-2.0
-  1
-@3209.1L
- 41
-1.1351288239
-  7
-Arial
-100
-AcDbText
-  0
-MTEXT
-  5
-12D
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-79.7718741836
- 20
-205.548005091
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135145;>3209.2L\PM15x15x1\PT1 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-12E
-100
-AcDbEntity
-  8
-3209_2L
-390
-0
-100
-AcDbMText
- 10
-84.2326079799
- 20
-257.8672203453
+234.524029111
  30
 0.0
  40
@@ -8451,973 +9799,63 @@ AcDbMText
  72
          1
   1
-\W1.135085;M15x15x1\PT1 O2 F150\PB-0.3    D0.6\PI1.2 P4 U20
+\W1.135146;>3303.7L\PM15x15x2\PT2 O2
   7
 Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-12F
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
- 62
-       134
-100
-AcDbMText
- 10
-102.6224375328
- 20
-205.548005091
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.2R\PM15x15x1\PT1 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-TEXT
-  5
-130
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-100
-AcDbText
- 10
-108.6861466677
- 20
-262.218153407
- 30
-0.0
- 40
-2.0
-  1
-@3209.2L
- 41
-1.1351287362
-  7
-Arial
-100
-AcDbText
-  0
-MTEXT
-  5
-131
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-100
-AcDbMText
- 10
-115.0870443147
- 20
-124.823943352
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135111;>3201.8R\PM15x15x1\PT1 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-132
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-100
-AcDbMText
- 10
-113.9464118089
- 20
-165.5244309644
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3201.7R\PM15x15x1\PT1 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-133
-100
-AcDbEntity
-  8
-3209_2R
-390
-0
-100
-AcDbMText
- 10
-115.3547957982
- 20
-230.5236062096
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135111;>3201.6R\PM15x15x1\PT1 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-134
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-100
-AcDbMText
- 10
-145.9572345733
- 20
-273.7898580418
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         7
- 72
-         1
-  1
-\W1.135082;M60x2\PT2 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20\P:L13,14
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-135
-100
-AcDbEntity
-  8
-3209_4P
-390
-0
-100
-AcDbMText
- 10
-182.2311109778
- 20
-258.3538939213
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         7
- 72
-         1
-  1
-\W1.135098;M20+x5\PT5 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-136
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-140.5037528921
- 20
-216.1977737045
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.3P\PM60x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-137
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-177.764614644
- 20
-204.5274863312
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.4P\PM20+x5\PT5 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-138
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-24.9550624082
- 20
-120.4475039795
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3209.5P\PM50x5\PT5 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-139
-100
-AcDbEntity
-  8
-3209_5T
-390
-0
-100
-AcDbMText
- 10
-63.4764888031
- 20
-102.443397053
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135136;>3202.9T\PM50+x5\PT5 O6
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-13A
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
- 62
-       134
-100
-AcDbMText
- 10
-55.3734365481
- 20
-120.4475039795
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135136;>3209.5T\PM50x5\PT5 O6
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-13B
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-100
-AcDbMText
- 10
-148.7280444403
- 20
-67.6811947137
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3202.1P\PM55+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-13C
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-100
-AcDbMText
- 10
-149.1832137255
- 20
-239.9604606535
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135110;>3202.2P\PM55+x2\PT2 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-13D
-100
-AcDbEntity
-  8
-3209_5P
-390
-0
-100
-AcDbMText
- 10
-34.3495377209
- 20
-69.589383206
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3202.20P\PM50+x5\PT5 O2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-13E
-100
-AcDbEntity
-  8
-3209_5T
-390
-0
-100
-AcDbMText
- 10
-64.7679118608
- 20
-69.589383206
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135137;>3202.20T\PM50+x5\PT5 O6
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-TEXT
-  5
-13F
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHED
-100
-AcDbText
- 10
-169.2065338916
- 20
-277.650953886
- 30
-0.0
- 40
-3.0
-  1
-[9]
- 41
-1.1351069903
-  7
-Arial
-100
-AcDbText
-  0
-MTEXT
-  5
-140
-100
-AcDbEntity
-  8
-3209_3P
-390
-0
-100
-AcDbMText
- 10
-155.2451212009
- 20
-151.2428497961
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135114;>3204.30P\PM60+x2\PT2 O2\P:L=L
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-141
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHED
-100
-AcDbMText
- 10
-155.9946159734
- 20
-185.8518697923
- 30
-0.0
- 40
-2.0
- 41
-0.0
- 71
-         7
- 72
-         1
-  1
-\W1.135062;Bef. bei\P105 re mit\Pniedriger\PSchraube
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-LINE
-  5
-142
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbLine
- 10
-155.083081692
- 20
-183.0952949438
- 30
-0.0
  11
-169.4823309478
+1.0
  21
-183.0952949438
+0.0
  31
 0.0
-  0
-MTEXT
-  5
-143
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-38.4510288054
- 20
-157.5816552731
- 30
-0.0
- 40
-2.5
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135094;\L3209.5P,T\P50+x5
-  7
-Arial
  73
          1
  44
 0.66
   0
-MTEXT
+ARC
   5
-144
+168
 100
 AcDbEntity
   8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-135.9617591425
- 20
-275.3763603293
- 30
-0.0
- 40
-2.5
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135098;\L3209.3P\P60+x2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-145
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-193.926646783
- 20
-275.124547245
- 30
-0.0
- 40
-2.5
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135098;\L3209.4P\P20+x5
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-146
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-104.4683739327
- 20
-275.624547245
- 30
-0.0
- 40
-2.5
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135103;\L3209.2L,R\P15x15x1
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-147
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-100
-AcDbMText
- 10
-39.0313101865
- 20
-275.6432346121
- 30
-0.0
- 40
-2.5
- 41
-0.0
- 71
-         5
- 72
-         1
-  1
-\W1.135103;\L3209.1L,R\P15x15x2
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-148
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
+3303___ FAHRSTRAﬂENHEBEL JE
 390
 0
   6
-DASHED
+DASHDOT
 100
-AcDbMText
+AcDbCircle
  10
-106.9556186263
+101.8138272475
  20
-107.1070697245
+158.7749120881
  30
 0.0
  40
-3.0
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-\W1.135145;0\P0\P0\P\P0\P0\P
-  7
-Arial
- 73
-         1
- 44
-0.66
+61.3143011215
+100
+AcDbArc
+ 50
+159.5061696428
+ 51
+200.4938303572
   0
 MTEXT
   5
-149
+169
 100
 AcDbEntity
   8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHED
-100
-AcDbMText
- 10
-86.9556186263
- 20
-107.1070697245
- 30
-0.0
- 40
-3.0
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-\W1.135138;3209.1\P3209.2\P3209.3\P\P3209.4\P3209.5\P
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-14A
-100
-AcDbEntity
-  8
-3209___ DOPPELHEBEL JE MIT SCHLOSS GRUPPENPFADE
-390
-0
-  6
-DASHED
-100
-AcDbMText
- 10
-114.6912595843
- 20
-107.1070697245
- 30
-0.0
- 40
-3.0
- 41
-0.0
- 71
-         1
- 72
-         1
-  1
-\W0.810867;Hebelbockwinkel\PHandfalle, Hebelklinke, Hebelschildchen\PHebelbock rechts, Hebelbock links, \P    Winkelhebel, Riegelplatte\PHebeleisen\PHebelrolle, Kuppelrolle\P
-  7
-Arial
- 73
-         1
- 44
-0.66
-  0
-MTEXT
-  5
-14B
-100
-AcDbEntity
-  8
-3209_5P
+3303_2L
 390
 0
 100
 AcDbMText
  10
-26.3059269285
+34.950531075
  20
-141.7758614999
+176.997524192
  30
 0.0
  40
@@ -9429,7 +9867,7 @@ AcDbMText
  72
          1
   1
-\W1.135081;M50x5\PT5 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20
+\W1.135085;M15x15x1\PT2 O2 F150\PB-0.3    D1.6\PI1.4 P4 U20
   7
 Arial
  73
@@ -9437,9 +9875,401 @@ Arial
  44
 0.66
   0
+MTEXT
+  5
+16A
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+100
+AcDbMText
+ 10
+33.4728478229
+ 20
+149.3527388935
+ 30
+0.0
+ 40
+2.0
+ 41
+0.0
+ 71
+         7
+ 72
+         1
+  1
+\W1.135146;>3303.2L\PM15x15x1\PT2 O2
+  7
+Arial
+ 73
+         1
+ 44
+0.66
+  0
+ARC
+  5
+16B
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+  6
+DASHDOT
+100
+AcDbCircle
+ 10
+80.5034414876
+ 20
+105.9004497179
+ 30
+0.0
+ 40
+38.5640495352
+100
+AcDbArc
+ 50
+159.506169643
+ 51
+200.4938303575
+  0
+TEXT
+  5
+16C
+100
+AcDbEntity
+  8
+3303_8L
+390
+0
+100
+AcDbText
+ 10
+36.950531075
+ 20
+120.1580504591
+ 30
+0.0
+ 40
+2.0
+  1
+@3303.2L
+ 41
+1.1351289292
+  7
+Arial
+100
+AcDbText
+  0
+MTEXT
+  5
+16D
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+100
+AcDbMText
+ 10
+33.4728478229
+ 20
+100.5132651607
+ 30
+0.0
+ 40
+2.0
+ 41
+0.0
+ 71
+         7
+ 72
+         1
+  1
+\W1.135146;>3303.8L\PM15x15x1\PT2 O2
+  7
+Arial
+ 11
+1.0
+ 21
+0.0
+ 31
+0.0
+ 73
+         1
+ 44
+0.66
+  0
+TEXT
+  5
+16E
+100
+AcDbEntity
+  8
+3303_8R
+390
+0
+100
+AcDbText
+ 10
+51.9505310751
+ 20
+120.1580504592
+ 30
+0.0
+ 40
+2.0
+  1
+@3303.2L
+ 41
+1.1351289292
+  7
+Arial
+100
+AcDbText
+  0
+TEXT
+  5
+16F
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+100
+AcDbText
+ 10
+52.950531075
+ 20
+180.997524192
+ 30
+0.0
+ 40
+2.0
+  1
+@3303.2L
+ 41
+1.1351289292
+  7
+Arial
+100
+AcDbText
+  0
+TEXT
+  5
+170
+100
+AcDbEntity
+  8
+3303_7R
+390
+0
+100
+AcDbText
+ 10
+52.9505310751
+ 20
+256.990024192
+ 30
+0.0
+ 40
+2.0
+  1
+@3303.7L
+ 41
+1.1351289643
+  7
+Arial
+100
+AcDbText
+  0
+MTEXT
+  5
+171
+100
+AcDbEntity
+  8
+3303___ FAHRSTRAﬂENHEBEL JE
+390
+0
+100
+AcDbMText
+ 10
+101.2663550385
+ 20
+142.2764837566
+ 30
+0.0
+ 40
+3.0
+ 41
+0.0
+ 71
+         1
+ 72
+         1
+  1
+\W0.972797;3303.1/5\P3303.2/1\P3303.3/F\P3303.4/5\P3303.5/3\P3303.6\P3303.7\P3303.8/1\P\P3303.51\P3303.52\P3303.53\P3303.54\P3303.55\P
+  7
+Arial
+ 73
+         1
+ 44
+0.75
+  0
+CIRCLE
+  5
+172
+100
+AcDbEntity
+  8
+HILFSLINIEN
+390
+0
+100
+AcDbCircle
+ 10
+137.544
+ 20
+194.753
+ 30
+0.0
+ 40
+5.0
+  0
+CIRCLE
+  5
+173
+100
+AcDbEntity
+  8
+HILFSLINIEN
+390
+0
+100
+AcDbCircle
+ 10
+164.075
+ 20
+264.752
+ 30
+0.0
+ 40
+10.0
+  0
+ARC
+  5
+174
+100
+AcDbEntity
+  8
+3303_6P
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+169.3069443532
+ 20
+268.2630111694
+ 30
+0.0
+ 40
+6.3012407538
+100
+AcDbArc
+ 50
+213.8619618585
+ 51
+326.1380381415
+  0
+CIRCLE
+  5
+175
+100
+AcDbEntity
+  8
+HILFSLINIEN
+390
+0
+100
+AcDbCircle
+ 10
+70.38
+ 20
+168.659
+ 30
+0.0
+ 40
+5.0
+  0
+ARC
+  5
+176
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+73.7684783311
+ 20
+182.8914902266
+ 30
+0.0
+ 40
+14.6303700658
+100
+AcDbArc
+ 50
+190.4357562568
+ 51
+256.6088324133
+  0
+ARC
+  5
+177
+100
+AcDbEntity
+  8
+3303_2R
+390
+0
+  6
+DASHED
+100
+AcDbCircle
+ 10
+61.6790387206
+ 20
+170.686196369
+ 30
+0.0
+ 40
+8.9341293804
+100
+AcDbArc
+ 50
+346.8844098826
+ 51
+456.1302668807
+  0
 LINE
   5
-14C
+178
 100
 AcDbEntity
   8
@@ -9463,7 +10293,7 @@ AcDbLine
   0
 LINE
   5
-14D
+179
 100
 AcDbEntity
   8
@@ -9487,7 +10317,7 @@ AcDbLine
   0
 LINE
   5
-14E
+17A
 100
 AcDbEntity
   8
@@ -9511,7 +10341,7 @@ AcDbLine
   0
 LINE
   5
-14F
+17B
 100
 AcDbEntity
   8
@@ -9535,7 +10365,7 @@ AcDbLine
   0
 LINE
   5
-150
+17C
 100
 AcDbEntity
   8
@@ -9559,7 +10389,7 @@ AcDbLine
   0
 LINE
   5
-151
+17D
 100
 AcDbEntity
   8
@@ -9583,7 +10413,7 @@ AcDbLine
   0
 LINE
   5
-152
+17E
 100
 AcDbEntity
   8
@@ -9607,7 +10437,7 @@ AcDbLine
   0
 LINE
   5
-153
+17F
 100
 AcDbEntity
   8
@@ -9631,7 +10461,7 @@ AcDbLine
   0
 LINE
   5
-154
+180
 100
 AcDbEntity
   8
@@ -9655,7 +10485,7 @@ AcDbLine
   0
 LINE
   5
-155
+181
 100
 AcDbEntity
   8
@@ -9679,7 +10509,7 @@ AcDbLine
   0
 LINE
   5
-156
+182
 100
 AcDbEntity
   8
@@ -9703,7 +10533,7 @@ AcDbLine
   0
 LINE
   5
-157
+183
 100
 AcDbEntity
   8
@@ -9727,7 +10557,7 @@ AcDbLine
   0
 TEXT
   5
-158
+184
 100
 AcDbEntity
   8
@@ -9765,7 +10595,7 @@ AcDbText
   0
 TEXT
   5
-159
+185
 100
 AcDbEntity
   8
@@ -9803,7 +10633,7 @@ AcDbText
   0
 TEXT
   5
-15A
+186
 100
 AcDbEntity
   8
@@ -9841,7 +10671,7 @@ AcDbText
   0
 TEXT
   5
-15B
+187
 100
 AcDbEntity
   8
@@ -9879,7 +10709,7 @@ AcDbText
   0
 TEXT
   5
-15C
+188
 100
 AcDbEntity
   8
@@ -9917,7 +10747,7 @@ AcDbText
   0
 TEXT
   5
-15D
+189
 100
 AcDbEntity
   8
@@ -9955,7 +10785,7 @@ AcDbText
   0
 TEXT
   5
-15E
+18A
 100
 AcDbEntity
   8
@@ -9993,7 +10823,7 @@ AcDbText
   0
 TEXT
   5
-15F
+18B
 100
 AcDbEntity
   8
@@ -10031,7 +10861,7 @@ AcDbText
   0
 TEXT
   5
-160
+18C
 100
 AcDbEntity
   8
@@ -10069,7 +10899,7 @@ AcDbText
   0
 TEXT
   5
-161
+18D
 100
 AcDbEntity
   8
@@ -10107,7 +10937,7 @@ AcDbText
   0
 LINE
   5
-162
+18E
 100
 AcDbEntity
   8
@@ -10131,7 +10961,7 @@ AcDbLine
   0
 LINE
   5
-163
+18F
 100
 AcDbEntity
   8
@@ -10155,7 +10985,7 @@ AcDbLine
   0
 LINE
   5
-164
+190
 100
 AcDbEntity
   8
@@ -10179,7 +11009,7 @@ AcDbLine
   0
 LINE
   5
-165
+191
 100
 AcDbEntity
   8
@@ -10203,7 +11033,7 @@ AcDbLine
   0
 LINE
   5
-166
+192
 100
 AcDbEntity
   8
@@ -10227,7 +11057,7 @@ AcDbLine
   0
 LINE
   5
-167
+193
 100
 AcDbEntity
   8
@@ -10251,7 +11081,7 @@ AcDbLine
   0
 LINE
   5
-168
+194
 100
 AcDbEntity
   8
@@ -10275,7 +11105,7 @@ AcDbLine
   0
 LINE
   5
-169
+195
 100
 AcDbEntity
   8
@@ -10299,7 +11129,7 @@ AcDbLine
   0
 LINE
   5
-16A
+196
 100
 AcDbEntity
   8
@@ -10323,7 +11153,7 @@ AcDbLine
   0
 LINE
   5
-16B
+197
 100
 AcDbEntity
   8
@@ -10347,7 +11177,7 @@ AcDbLine
   0
 MTEXT
   5
-16C
+198
 100
 AcDbEntity
   8
@@ -10387,7 +11217,47 @@ Arial
   0
 MTEXT
   5
-16D
+199
+100
+AcDbEntity
+  8
+STANDARD
+390
+0
+100
+AcDbMText
+ 10
+116.6968769253
+ 20
+27.5871143065
+ 30
+0.0
+ 40
+1.59375
+ 41
+0.0
+ 71
+         1
+ 72
+         1
+  1
+
+  7
+Arial
+ 11
+0.0
+ 21
+-1.0
+ 31
+0.0
+ 73
+         1
+ 44
+1.0352941176
+  0
+MTEXT
+  5
+19A
 100
 AcDbEntity
   8
@@ -10427,7 +11297,7 @@ Arial
   0
 LINE
   5
-16E
+19B
 100
 AcDbEntity
   8
@@ -10451,85 +11321,7 @@ AcDbLine
   0
 LINE
   5
-16F
-100
-AcDbEntity
-  8
-STANDARD
-370
-         0
-390
-0
-100
-AcDbLine
- 10
-15.0
- 20
-19.4
- 30
-0.0
- 11
-205.0
- 21
-19.4
- 31
-0.0
-  0
-LINE
-  5
-170
-100
-AcDbEntity
-  8
-STANDARD
-370
-         0
-390
-0
-100
-AcDbLine
- 10
-15.0
- 20
-12.0
- 30
-0.0
- 11
-205.0
- 21
-12.0
- 31
-0.0
-  0
-LINE
-  5
-171
-100
-AcDbEntity
-  8
-STANDARD
-370
-         0
-390
-0
-100
-AcDbLine
- 10
-81.105982906
- 20
-19.4
- 30
-0.0
- 11
-81.105982906
- 21
-5.0
- 31
-0.0
-  0
-LINE
-  5
-172
+19C
 100
 AcDbEntity
   8
@@ -10543,7 +11335,7 @@ AcDbLine
  10
 127.305982906
  20
-19.4
+34.4
  30
 0.0
  11
@@ -10555,7 +11347,7 @@ AcDbLine
   0
 LINE
   5
-173
+19D
 100
 AcDbEntity
   8
@@ -10567,101 +11359,129 @@ STANDARD
 100
 AcDbLine
  10
-47.1102523288
+81.105982906
+ 20
+34.4
+ 30
+0.0
+ 11
+205.0
+ 21
+34.4
+ 31
+0.0
+  0
+LINE
+  5
+19E
+100
+AcDbEntity
+  8
+STANDARD
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+81.105982906
+ 20
+27.4
+ 30
+0.0
+ 11
+205.0
+ 21
+27.4
+ 31
+0.0
+  0
+LINE
+  5
+19F
+100
+AcDbEntity
+  8
+STANDARD
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+81.105982906
  20
 12.0
  30
 0.0
  11
-47.1102523288
+205.0
+ 21
+12.0
+ 31
+0.0
+  0
+LINE
+  5
+1A0
+100
+AcDbEntity
+  8
+STANDARD
+370
+         0
+390
+0
+100
+AcDbLine
+ 10
+81.105982906
+ 20
+34.4
+ 30
+0.0
+ 11
+81.105982906
  21
 5.0
  31
 0.0
   0
-TEXT
+LINE
   5
-174
+1A1
 100
 AcDbEntity
   8
-BESCHRIFTUNG0
+STANDARD
+370
+         0
 390
 0
 100
-AcDbText
+AcDbLine
  10
-16.0951031339
+165.105982906
  20
-13.7136
+34.4
  30
 0.0
- 40
-3.325
-  1
-Stellwerk HMM
- 41
-1.3653781858
- 51
-15.0
-  7
-Arial
  11
-16.0951031339
+165.105982906
  21
-17.0386
+27.4
  31
 0.0
-100
-AcDbText
- 73
-         3
   0
 TEXT
   5
-175
+1A2
 100
 AcDbEntity
   8
-BESCHRIFTUNG0
-390
-0
-100
-AcDbText
- 10
-128.6210415954
- 20
-13.6351111111
- 30
-0.0
- 40
-3.325
-  1
-Doppelhebel JE mit Schloss Gr.pfade
- 41
-0.975308582
- 51
-15.0
-  7
-Arial
- 11
-128.6210415954
- 21
-16.9601111111
- 31
-0.0
-100
-AcDbText
- 73
-         3
-  0
-TEXT
-  5
-176
-100
-AcDbEntity
-  8
-BESCHRIFTUNG0
+BESCHRIFTUNG
 390
 0
 100
@@ -10669,15 +11489,91 @@ AcDbText
  10
 82.2010860399
  20
-6.8980888889
+29.1386
  30
 0.0
  40
-3.325
+3.3
+  1
+Stellwerk HMM
+ 41
+1.3758039542
+ 51
+15.0
+  7
+Arial
+ 11
+82.2010860399
+ 21
+32.4386
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+1A3
+100
+AcDbEntity
+  8
+BESCHRIFTUNG
+390
+0
+100
+AcDbText
+ 10
+128.6210415954
+ 20
+21.6601111111
+ 30
+0.0
+ 40
+3.3
+  1
+Fahrstraﬂenhebel JE
+ 41
+1.1302081164
+ 51
+15.0
+  7
+Arial
+ 11
+128.6210415954
+ 21
+24.9601111111
+ 31
+0.0
+100
+AcDbText
+ 73
+         3
+  0
+TEXT
+  5
+1A4
+100
+AcDbEntity
+  8
+BESCHRIFTUNG
+390
+0
+100
+AcDbText
+ 10
+82.2010860399
+ 20
+6.9230888889
+ 30
+0.0
+ 40
+3.3
   1
 Dateiname
  41
-1.1350744463
+1.1437088374
  51
 15.0
   7
@@ -10695,11 +11591,11 @@ AcDbText
   0
 TEXT
   5
-177
+1A5
 100
 AcDbEntity
   8
-BESCHRIFTUNG0
+BESCHRIFTUNG
 390
 0
 100
@@ -10707,15 +11603,15 @@ AcDbText
  10
 82.4210415954
  20
-13.6351111111
+21.6601111111
  30
 0.0
  40
-3.325
+3.3
   1
-Bl. 3209 Pv
+Bl. 3303 Pv
  41
-1.0728387765
+1.143715639
  51
 15.0
   7
@@ -10723,7 +11619,7 @@ Arial
  11
 82.4210415954
  21
-16.9601111111
+24.9601111111
  31
 0.0
 100
@@ -10733,35 +11629,35 @@ AcDbText
   0
 TEXT
   5
-178
+1A6
 100
 AcDbEntity
   8
-BESCHRIFTUNG0
+BESCHRIFTUNG
 390
 0
 100
 AcDbText
  10
-48.2053554627
+166.2010860399
  20
-6.7136
+29.1386
  30
 0.0
  40
-3.325
+3.3
   1
 Maﬂstab 1:1
  41
-1.1349345608
+1.1437192123
  51
 15.0
   7
 Arial
  11
-48.2053554627
+166.2010860399
  21
-10.0386
+32.4386
  31
 0.0
 100
