@@ -1,0 +1,45 @@
+Pfadköpfe:
+
+M15x15x1
+T1 O2 F150
+B-0.3    D0.6
+I1.4 P4 U20
+
+M15x15x2 
+T2 O2 F150
+B-0.3    D1.2
+I1.2 P4 U20
+
+M50+x2 
+T2 O2 F150
+B-0.3    D1.2
+I1.2 P4 U20
+
+M50+x5
+T5 O2 F150
+B-0.3    D1.2
+I1.4 P4 U20
+
+MØ6x1
+T6 O2 F150
+B-0.3    D4
+I1.6 P4 U20
+
+@3305.2L
+
+...
+:A?12
+
+Pfadverweise:
+>3305.62L
+M15x15x2 T2 O2
+
+>3305.6=AL
+M50+x2 T2 O2
+
+>3305.2L
+M50x5 T5 O2
+:A?12
+
+Sonderzeichen:
+Ø    – (Minus)    ±    µ    ¼    ½		^
