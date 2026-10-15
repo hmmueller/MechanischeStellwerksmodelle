@@ -4215,50 +4215,6 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-2101 TRÄGER
- 70
-        64
- 62
-         7
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-2101 HEBELBANK
- 70
-        64
- 62
-         9
-  6
-CONTINUOUS
-290
-         1
-370
-        18
-390
-1D
-  0
-LAYER
-  5
-A3
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
 2052 RIEGEL UMGESPERRT
  70
         64
@@ -4275,7 +4231,7 @@ DASHED
   0
 LAYER
   5
-A4
+A2
 100
 AcDbSymbolTableRecord
 100
@@ -4297,7 +4253,7 @@ CONTINUOUS
   0
 LAYER
   5
-A5
+A3
 100
 AcDbSymbolTableRecord
 100
@@ -4319,7 +4275,7 @@ DASHED
   0
 LAYER
   5
-A6
+A4
 100
 AcDbSymbolTableRecord
 100
@@ -4341,7 +4297,7 @@ CONTINUOUS
   0
 LAYER
   5
-A7
+A5
 100
 AcDbSymbolTableRecord
 100
@@ -4363,7 +4319,7 @@ CONTINUOUS
   0
 LAYER
   5
-A8
+A6
 100
 AcDbSymbolTableRecord
 100
@@ -4385,7 +4341,7 @@ CONTINUOUS
   0
 LAYER
   5
-A9
+A7
 100
 AcDbSymbolTableRecord
 100
@@ -4407,7 +4363,7 @@ CONTINUOUS
   0
 LAYER
   5
-AA
+A8
 100
 AcDbSymbolTableRecord
 100
@@ -4429,7 +4385,7 @@ CONTINUOUS
   0
 LAYER
   5
-AB
+A9
 100
 AcDbSymbolTableRecord
 100
@@ -4451,7 +4407,7 @@ CONTINUOUS
   0
 LAYER
   5
-AC
+AA
 100
 AcDbSymbolTableRecord
 100
@@ -4473,7 +4429,7 @@ CONTINUOUS
   0
 LAYER
   5
-AD
+AB
 100
 AcDbSymbolTableRecord
 100
@@ -4495,7 +4451,7 @@ DASHED
   0
 LAYER
   5
-AE
+AC
 100
 AcDbSymbolTableRecord
 100
@@ -4517,7 +4473,7 @@ CONTINUOUS
   0
 LAYER
   5
-AF
+AD
 100
 AcDbSymbolTableRecord
 100
@@ -4539,7 +4495,7 @@ CONTINUOUS
   0
 LAYER
   5
-B0
+AE
 100
 AcDbSymbolTableRecord
 100
@@ -4561,7 +4517,7 @@ CONTINUOUS
   0
 LAYER
   5
-B1
+AF
 100
 AcDbSymbolTableRecord
 100
@@ -4583,7 +4539,7 @@ DASHED
   0
 LAYER
   5
-B2
+B0
 100
 AcDbSymbolTableRecord
 100
@@ -4605,7 +4561,7 @@ CONTINUOUS
   0
 LAYER
   5
-B3
+B1
 100
 AcDbSymbolTableRecord
 100
@@ -4627,7 +4583,7 @@ DASHED
   0
 LAYER
   5
-B4
+B2
 100
 AcDbSymbolTableRecord
 100
@@ -4649,7 +4605,7 @@ CONTINUOUS
   0
 LAYER
   5
-B5
+B3
 100
 AcDbSymbolTableRecord
 100
@@ -4671,7 +4627,7 @@ CONTINUOUS
   0
 LAYER
   5
-B6
+B4
 100
 AcDbSymbolTableRecord
 100
@@ -4693,7 +4649,7 @@ CONTINUOUS
   0
 LAYER
   5
-B7
+B5
 100
 AcDbSymbolTableRecord
 100
@@ -4715,7 +4671,7 @@ BORDER
   0
 LAYER
   5
-B8
+B6
 100
 AcDbSymbolTableRecord
 100
@@ -4737,7 +4693,7 @@ DASHED
   0
 LAYER
   5
-B9
+B7
 100
 AcDbSymbolTableRecord
 100
@@ -4748,6 +4704,50 @@ AcDbLayerTableRecord
         64
  62
        134
+  6
+CONTINUOUS
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+B8
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 VERSCHLUSSSTÜCKE VERSCHOBEN
+ 70
+        64
+ 62
+       190
+  6
+DASHED
+290
+         1
+370
+        18
+390
+1D
+  0
+LAYER
+  5
+B9
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+3301 VERSCHLUSSSTÜCKE
+ 70
+        64
+ 62
+       190
   6
 CONTINUOUS
 290
@@ -5459,7 +5459,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378387712
+D207361792
 340
 0
 102
@@ -5477,7 +5477,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378387456
+D207366400
 340
 0
 102
@@ -5495,7 +5495,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378387200
+D207361024
 340
 0
 102
@@ -5513,7 +5513,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378386944
+D207365632
 340
 0
 102
@@ -5531,7 +5531,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-D378386688
+D207366144
 340
 0
 102
@@ -5641,7 +5641,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D378387712
+D207361792
  70
          0
  10
@@ -5651,7 +5651,7 @@ D378387712
  30
 0.0
   3
-D378387712
+D207361792
   1
 
   0
@@ -5871,7 +5871,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D378387456
+D207366400
  70
          0
  10
@@ -5881,7 +5881,7 @@ D378387456
  30
 0.0
   3
-D378387456
+D207366400
   1
 
   0
@@ -6101,7 +6101,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D378387200
+D207361024
  70
          0
  10
@@ -6111,7 +6111,7 @@ D378387200
  30
 0.0
   3
-D378387200
+D207361024
   1
 
   0
@@ -6331,7 +6331,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D378386944
+D207365632
  70
          0
  10
@@ -6341,7 +6341,7 @@ D378386944
  30
 0.0
   3
-D378386944
+D207365632
   1
 
   0
@@ -6561,7 +6561,7 @@ BEMASSUNG
 100
 AcDbBlockBegin
   2
-D378386688
+D207366144
  70
          0
  10
@@ -6571,7 +6571,7 @@ D378386688
  30
 0.0
   3
-D378386688
+D207366144
   1
 
   0
@@ -6841,9 +6841,9 @@ AcDbText
  40
 3.3
   1
-2026-05-27
+2026-10-06
  41
-1.0318365567
+1.0318366578
   7
 Arial
  11
@@ -6885,7 +6885,7 @@ AcDbMText
  72
          1
   1
-\W1.135084;M15x15x2 \PT2 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20
+\W1.135084;M15x15x2 \PT2 O2   B-0.3\PD1.2 P4 U20\P
   7
 Arial
  73
@@ -7843,7 +7843,7 @@ AcDbMText
  72
          1
   1
-\W1.135145;>3208.2L\PM15x15x1\PT1 O2
+\W1.135145;>3208.2L\PM15x15x1\PT1 O2 CAA
   7
 Arial
  73
@@ -7877,7 +7877,7 @@ AcDbMText
  72
          1
   1
-\W1.135085;M15x15x1\PT1 O2 F150\PB-0.3    D0.6\PI1.2 P4 U20
+\W1.135085;M15x15x1\PT5 O2   B-0.3\PD1.2 P4 U20\P
   7
 Arial
  73
@@ -8265,7 +8265,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D378387712
+D207361792
  10
 0.0
  20
@@ -8285,7 +8285,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D378387456
+D207366400
  10
 0.0
  20
@@ -8319,7 +8319,7 @@ AcDbMText
  72
          1
   1
-\W1.135082;M60x2\PT2 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20\P:L13,14
+\W1.135082;M60x2\PT2 O2   B-0.3\PD1.2 P4 U20\P:L13,14
   7
 Arial
  73
@@ -8375,7 +8375,7 @@ AcDbMText
  72
          1
   1
-\W1.135098;M20+x5\PT5 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20
+\W1.135098;M20+x5\PT5 O2   B-0.3\PD1.2 P4 U20\P
   7
 Arial
  73
@@ -8431,7 +8431,7 @@ AcDbMText
  72
          1
   1
-\W1.135110;>3208.3P\PM60x2\PT2 O2
+\W1.135110;>3208.3P\PM60x2\PT2 O2 C\
   7
 Arial
  73
@@ -8779,7 +8779,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D378387200
+D207361024
  10
 0.0
  20
@@ -8799,7 +8799,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D378386944
+D207365632
  10
 0.0
  20
@@ -8833,7 +8833,7 @@ AcDbMText
  72
          1
   1
-\W1.135081;M50x5\PT5 O6 F150\PB-0.3    D1.6\PI1.2 P4 U20
+\W1.135081;M50x5\PT5     O6\PW1.8 B1.8\P
   7
 Arial
  73
@@ -8915,7 +8915,7 @@ BEMASSUNG
 100
 AcDbBlockReference
   2
-D378386688
+D207366144
  10
 0.0
  20
@@ -9315,7 +9315,7 @@ AcDbMText
  72
          1
   1
-\W1.135081;M50x5\PT5 O2 F150\PB-0.3    D1.6\PI1.2 P4 U20
+\W1.135081;M50x5\PT5 O2   B-0.3\PD1.2 P4 U20\P
   7
 Arial
  73
